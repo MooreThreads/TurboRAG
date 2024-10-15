@@ -126,11 +126,11 @@ This project is licensed under the [MIT License](LICENSE). -->
 If you use this code or data in your work, please cite our paper:
 
 ```
-@misc{2410.07590,
-Author = {Songshuo Lu and Hua Wang and Yutian Rong and Zhi Chen and Yaohua Tang},
-Title = {TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text},
-Year = {2024},
-Eprint = {arXiv:2410.07590},
+@article{lu2024turborag,
+  title={TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text},
+  author={Lu, Songshuo and Wang, Hua and Rong, Yutian and Chen, Zhi and Tang, Yaohua},
+  journal={arXiv preprint arXiv:2410.07590},
+  year={2024}
 }
 ```
 
