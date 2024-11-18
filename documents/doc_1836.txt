@@ -1,0 +1,34 @@
+Article.
+Explore content
+Think WIFI, The Black Box flight recorder, spray-on skin, Google maps, Cochlear implants, electronic pacemakers, the electric drill, the medical application of penicillin, the ultrasound scanner (did you know that?) and so much more!
+No wonder we have an international reputation for invention, and as a population we are quick to take up new ideas and digitise. We are also well known for our ‘Can Do’ attitude. Our well-respected, and truly brilliant scientists and researchers, along with our Nobel Prize winners, have delivered us the third highest concentration of researchers in the world. We boast many of the world’s leading thinkers in agri-tech, biofuels, quantum computing, nano-science, med-tech, additive manufacturing and bio-medical engineering.
+Since 2015 the Federal Government has spent almost $1.1 billion on promoting business-based research, development and innovation. And there is a pretty compelling motivation for us to keep on improving. Think APIs, GDPR2, the ‘no collar’ workforce, blockchain, cyber security, exponential technologies and all the facets of digital disruption. Let alone the compelling pace of change. Yet as Bill Gates famously said: “We always overestimate the change that will occur in the next two years, and underestimate the change that will occur in the next ten.”
+Instead of resting on our laurels because things don’t move fast enough in the short term – we are caught out for the transformative change that occurs over the longer term. And it’s that change that we have to start getting ready for today.
+Back in November 2007 when Nokia CEO Olli-Pekka Kallasvuo was on the cover of Forbes magazine, having just surpassed one billion customers, the headline asked if anyone could possibly catch the dominant player in the technology world? Mmm …
+The reality is that the average company lifespan of the S&P 500 index is barely 15 years. Almost 40 per cent of the businesses in the index didn’t exist when Nokia’s CEO was on that infamous cover. Our Deloitte Center for The Edge series shows that the ‘topple rate’, the rate at which big companies lose their leadership positions, has more than doubled.
+That brings us right back to Australia and our abysmal rating on both the growth and global innovation scales. In fact we are actually great at invention. What we are bad at is commercialisation. We are not turning all that research, into value. We are not turning R into Do.
+In the business world this is how to create value. Such value could simply be something that’s new for your customers, or new for your enterprise, or society. Usually it has more to do with elegant integration than a brilliant invention. For example, the integration of third-party services could be an innovation.
+So how to DO?
+We need to prioritise outcomes over analysis. We have to get from… what if we could? to… here’s how we can.
+We need to have the confidence to know we can all DO it. In our experience it takes skills, speed and discipline, and a new approach to do business models.
+Some answers as to How…
+1. How can a new business model effect innovative change?
+Have you heard about Lemonade? Not the drink but the Lemonade peer to peer property and casualty insurance company that claims it takes 90 seconds to get insured and three minutes to get paid! Lemonade went live in New York in 2016 with a slick mobile app offering homeowner’s insurance for as little as US$35 a month and renter’s insurance starting at US$5 a month. How can they do that?
+By being built differently to avoid fraud – one of the biggest costs in time, dollars and customer satisfaction for insurers. They take a fixed fee of 20 per cent, pay reinsurance (and unavoidable expenses) and use the rest to pay out claims. Built into its innovate model is a unique ‘giveback’ arrangement, whereby Lemonade donates any unclaimed remainders to the causes each peer group cares about. Last year more than 15,000 people had signed up. And it raised $13 million in what was said to be the Silicon Valley venture firm’s largest-ever seed round.
+2. How long does it take you to identify and respond to consumer demand?
+From order to delivery, Amazon’s fastest customer service was 13 minutes last year. How do they do this? By having a go at predicting and pre-shipping what they think you might want to buy. It’s only an artificial intelligence with deep learning capability that can build the patterns to get ever better at predicting demand. A fancy term for a machine that’s learning.
+3. What are you doing to automate your business? What could a machine do better than you today?
+Rio Tinto’s fleet of 70 autonomous trucks in the Pilbara are driven by operators located in Perth! A study for an Australian retail bank revealed that a third of all jobs will be augmented by machines in 3-5 years. Deloitte developed a system for a UK bank that listens to live sales calls and offers insights, advice and information live on how the call is going. RPA, NLP, computer vision, and deep learning are all forms of artificial intelligence (AI).
+4. How are you learning what will work and what won’t? How much are you spending on finding out?
+Today, Facebook ran more than 250 changes to their customer experience. You’d be unlikely to notice because they were very small experiments. Quickly done, a few hundred people at a time. Those that drive better engagement or value get used.
+5. How do you identify, develop and launch new products and services today? A supply chain, product development? Or a co-development ecosystem of partnerships?
+Cisco, Intel, IBM and other large techs invest in Israeli start-ups through Deloitte’s Innovation Tech Terminal. This clever hub matches 6000 start-ups with corporate growth and innovation challenges. Our global partnership with ‘The Bakery’ (founded in the UK, and recently launched here) does the same thing with 5000 entrepreneurs. It partners with UTS and CSIRO to actively develop new solutions. It is an ecosystem connecting the best global thinking with a company’s need to deliver solutions faster, better, cheaper.
+This article was first published in Asia-Pacific Banking & Finance.
+Published: Febrauary 2018
+So what can we R&Do together? What’s next for innovation in your business?
+More information can be found here:
+Recommendations
+Tech Trends 2019
+Beyond the digital frontier
+TMT Predictions 2019
+What does the future hold for tech, media, and telco?

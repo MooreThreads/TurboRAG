@@ -1,0 +1,27 @@
+Taking Tests, Exams or Surveys
+Before starting test:
+- Make sure you review instructions
+- Do not begin the test until you are ready to start and complete.
+- Do not wait until the last minute to take the test and
+- Try and minimize interruptions while taking the test
+- Use a suggested browser (Firefox, Chrome or Safari) to take the test (Note: Using Internet Explorer's browser security settings may cause may create problems)
+Watch "How to take a test in Blackboard"
+Taking the test:
+Read the instructions carefully! Online tests may have a variety of features so it is important to read your instructor’s directions! Is the test timed? Are there multiple attempts allowed? Is the test password protected? Is the test set to “auto-submit”? The following are test option that could be selected by your instructor:
+- Force Completion: When you start the test you must finish it. If you leave the test or have not clicked “Submit”, your attempt is recorded in the Grade Center as complete. If you leave the quiz without completing it and your instructor has not allowed “multiple attempts”, you will not be able re-enter the test. YOU MUST CONTACT YOUR INSTRUCTOR TO RESET THE TEST!
+- Timed Assessment / Auto Submit: If your instructor has set a time limit, the elapsed time is displayed in / on test page. You will receive a 1-minute warning nearing the completion time.
+Note: If your instructor has also selected Auto Submit at the end of the allotted time, the test will save, close and submit to Blackboard whether you have completed or not completed the entire test. Make sure you have reviewed your instructor’s directions!
+- All at Once: All of the questions appear on one web page. Each question has a Save button so you can save as you go. Or you may choose to scroll down to the bottom of the page periodically to click the Save button there. Doing so should help protect you in case of technical difficulties.
+- One at a Time: Questions appear one by one as you single-click a forward arrow. Clicking the arrow automatically saves each question as you go. Note: Do not hit Enter, actually click the arrow to move through test.
+- Question Completion Status: You may keep track of which questions you have answered by clicking the small, upside down triangle immediately below the test instructions.
+- Backtracking Prohibited: You will not be able to go back to any questions once you have answered them
+Wait for questions to load: After you single-click to begin a test where all questions appear on one page, let all the questions load so that Blackboard has time to let all the questions load from the server.
+Avoid the Browser "Back" button: Using the Back button during a test can interrupt the computer processes. If your professor allows students to go backward in an All at Once test, you can click the triangle next to Question Completion Status to go to another question. In a One at a Time test, use the small back arrow.
+Stay active in the test window: The assessment feature in Blackboard is set to time out after a certain number of minutes of inactivity. You must do more than just type or click answers to keep the test active. Save the assessment or individual questions periodically to reset the activity clock.
+Consider typing essays in a “Plain Text” editor program (NOTEPAD) – NOT Word! Click Start; All Programs; Accessories; Notepad then copy and paste your essay from the notepad into Blackboard. (This will also give you a backup copy of your work). Remember to keep your test window active by occasionally clicking the Save button as you work in the editing program.
+Submitting the Test: Single-click the Submit button: You will not get credit for your answers unless you have successfully submitted your test in Blackboard. You will see a confirmation and/or feedback indicating test completion.
+Confirming Test Submission: If there seems to be a problem, go back to the content area and find the exam and check, clicking on the link to the test will indicate whether you have already taken the exam or provide feedback about your exam results.
+Check your grade: Grades/status of submitted test can be viewed by going to My Grades. Go to Course Tools; My Grades and you should see one of the following:
+- Your score for the exam (if enabled by your instructor)
+- An exclamation point, which means the test is submitted but not yet graded by the instructor.
+Note: If you cannot confirm that your test has been successfully submitted (either score is displayed or exclamation point is displayed, contact your instructor, if there is a problem your instructor is the only one that can make the decision to reset the test.

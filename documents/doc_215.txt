@@ -1,0 +1,18 @@
+GreenPois0n RC6 for Apple TV 2G would also bring Untethered Jailbreak.
+GreenPois0n RC6 is on its way to untethered iOS 4.2.1 jailbreak for your Apple TV2G as it has been confirmed by Pod2g that it’ll add support for the ATV 2g in the next tool release. A tweet was released by him along with a readme file that confirms that the next GreenPois0n update “RC6” would be able to jailbreak your Apple TV 2G device.
+From the Readme file:
+*** greenpois0n 1.0 RC5 ***
+> Description of the software:
+greenpois0n will Jailbreak your iDevice.
+>___ (support will be added in RC6)
+> Requirements (check this !)
+– ***
+– at least MacOSX 10.5
+– OSX in a VM won’t work
+– a working internet connection
+> Notes (checks this also !)
+– !
+>the jailbreak on the device.
+6. the device will reboot normally
+7. start the Loader application (green icon on the SpringBoard), and follow instructions to install Cydia
+As the GreenPois0n RC6 update is not yet available but will be after the Chronic Team releases the GreenPois0n RC5 for windows users and it’ll arrive after a 2-3 day break.

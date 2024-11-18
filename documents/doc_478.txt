@@ -1,0 +1,65 @@
+A few years ago, I spent quite a bit of time learning about and
+understanding the coaxial collinear construction, and hope that what I
+learned can benefit others:
+1. Each section must provide 180 degrees phase shift. That is, each must
+be 1/2 wave long, taking into account the propagation velicity of the
+coax. With lossless line, then the _voltage_ between the ends of
+the radiating (outer conductor) part of adjacent elements will be
+in phase and equal amplitude all along the antenna. What you _really_
+want is in-phase antenna current in each element, which in-phase
+voltage does not guarantee, but the simulations I've done indicate that
+the currents are all very nearly in phase, given the equal inphase
+voltages. The current magnitudes are low in some elements of long
+arrays, but that just means that those elements don't contribute much to
+the overall pattern; the important thing is that their currents are
+still in phase, so they don't detract from the pattern. Practical
+coax has low enough loss to do a very good job making the voltages
+equal.
+(This supports the measure carefully/construct carefully advice.)
+2. You are essentially end-feeding a bunch of elements. The phasing
+system puts the feedpoints electrically in parallel. (Remember: the
+load impedance you put on the end of a half-wave piece of coax is
+echoed back to the feedpoint. In this antenna, start at the top with
+one impedance, echo that back 1/2 wave and parallel it with another
+impedance...) When you have few sections, the net parallel effect
+is still a fairly high impedance. (You can't just say you're
+paralleling equal resistances, because there is mutual coupling among
+all the elements, but in a qualitative sense, it's what's happening.)
+So the feedpoint impedance at the bottom of the antenna will be
+probably in the 400 ohm region with just 3 or 4 elements. With 10
+elements, it drops to the 150 ohm region. Whatever it is, you must
+match that to your feedline if you want low SWR. For one-off antennas,
+I like to use an "L" matching network, with a coil in series, and a
+trimmer cap shunt across the antenna. (Note: you can feed this
+antenna at the end, or across the connection between any pair of
+elements. Remember, 1/2 wave sections just echo the impedance.)
+Also note: the elements are considerably less than 1/2 wave long.
+The half-wave is taking the coax velocity factor into account, but
+as radiators, they are only about 0.66*1/2 wave (if you use solid
+poly coax) or 0.8*1/2 wave (if you use foam dielectric cable). So
+they are NOT RESONANT. That is NOT a problem. Non-resonant antennas
+radiate just fine; it's just that their feedpoint impedance is NOT
+a pure resistance. So...the matching network must also take out some
+reactance. Again, an "L" matching network does this just fine. Do NOT
+expect a simple 1/4 wave of 75 ohm line (like shown in the ARRL
+writeup) to do a good job in all cases.
+3. As with any antenna, you must be sure the feedline is decoupled from
+the antenna to assure the antenna pattern remains as you designed it.
+You can do this with radials, sleeves, chokes, ... but especially
+with a high gain antenna, it's an important part of the design. I'm
+finding that chokes (coils of feedline) at the base of the antenna and
+another a quarter wave or so lower work well. But other ways work too.
+Summary: Get the phasing right by making the sections an electrical
+halfwave...use careful construction. But errors of 1% or so won't kill
+you. Match the resulting impedance to your feedline: don't worry that
+the antenna is not "resonant". Decouple the antenna from the feedline.
+If you divide the problem into these three separate items and get each
+right, it will work for you.
+(Note: if you do it this way, you can see that putting it into a
+"radome" of fiberglass or PVC pipe, so long as the pipe isn't too lossy,
+will change the impedance (requiring a change in the matching network
+tuning), because it changes the mutual coupling among elements, but it
+doesn't materially change the phasing, because that's all done in the
+coax electrical length. And the antenna gain is critically dependent on
+the phasing, not on the particular feedpoint impedance.)
+(Another paper I wrote a couple years ago about coaxial collinears will be added soon. With luck I'll even figure out how to add some pictures!)

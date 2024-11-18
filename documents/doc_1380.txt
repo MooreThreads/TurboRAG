@@ -1,0 +1,35 @@
+Update (August 21, 2010): After reading a post by Cédric Beust that linked to this article, I’ve written a new post about what I’ve learned about Option in the past two years. Cédric brought up some good points about how this article’s pattern matching example using maps doesn’t feel drastically different than checking for nulls in Java. Please read the new post after you read this one for more idiomatic ways of using Option in Scala.
+Here's an intro to Scala's Option classes and why you'd want to use them. If you already know about Option classes, here is a useful blog entry about how to use Option classes with higher order functions instead of pattern matching:
+Scala's Option class provides a typesafe way to deal with cases where you have or don't have some result. A common example here is Java's HashMap class, which allows values to be null, e.g.
+HashMap<String, String> map = new HashMap<String, String>(); map.put( "Hi", "Dan"); map.put( "Hello", null ");
+We can get at our values:
+map.get( "Hi" ) => returns "Dan", "Hi" is a key in the map map.get( "Hello" ) => returns null, "Hello" is a key in the map
+But what about when we ask for a key which doesn't exist?
+map.get( "Guten Tag" ) => also returns null, but "Guten Tag" is not a key in the map
+The problem is that using get doesn't tell you if the key existed or didn't exist. To do that, you need to first ask
+map.containsKey( "Hello" ) => returns true map.containsKey( "Guten Tag" ) => returns false
+This feels verbose; we'd need to check the key is contained first, then actually get it to avoid any problems.
+Scala's Option type is designed to address this situation. Option has two subclasses: Some[T] and None -- note the parameterization with a type T. Some means that an object exists, but None means it doesn't.
+Let's take a look at an example:
+import scala.collection.mutable.HashMap val map = new HashMap[String, String] map.put( "Hi", "Dan" ) map.put( "Hello", null )
+Here we've set up the same Map as we did in Java, but we imported Scala's mutable version of a HashMap. Now let's make the same queries into the map:
+scala> map.get( "Hi" ) res1: Option[String] = Some(Dan)
+Here the Map has the requested key, and returns a Some[String] which has contains the value of "Dan".
+scala> map.get( "Hello" ) res2: Option[String] = Some(null)
+In this case, the key does exist, so it returns a Some class containing the value null.
+scala> map.get( "Guten Tag" ) res3: Option[String] = None
+But in this case, we call get back a None type, meaning that the key "Guten Tag" doesn't exist at all.
+So how do you deal with these Options, where you could get one of two different types in response to a method call? You can use pattern matching, or use higher-order functions.
+Pattern matching allows you to explicitly specify the operations for the None and Some cases. For example, here's an example using pattern matching with our Map:
+val result = map.get( "Hello" ) result match { case None => print "No key with that name!" case Some(x) => print "Found value" + x }
+Higher-order functions allow you to more succinctly declare your intended operation. This is possible because it turns out that the Some and None classes have sensible implementations of map, flatMap, foreach, etc. Here is a good blog entry which talks about ways of dealing with the Scala Option class using higher-order functions instead of pattern matching.
+Ultimately Scala's Option class requires that the programmer more explicitly handle conditions where data might be missing. In fact, the problem now gets handled by the compile-time type system -- if the user forgets to handle the case, Scala will generate a compile error.
+Your "Gutentag" looks a lot like the German "Guten Tag" (two words, literally "good day"). Is "Gutentag" a greeting in another language or just the misspelled German one?
+Posted by: MAtt | September 03, 2010 at 04:21 AM
+MAtt,
+Whoops - thanks for catching that! It was intended to be the German word; I've corrected the post.
+Cheers,
+Dan
+Posted by: Daniel Wellman | November 15, 2010 at 03:28 PM
+very comprehensive. thanks a lot
+Posted by: tort | September 07, 2011 at 03:49 AM

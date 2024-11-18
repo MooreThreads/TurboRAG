@@ -1,0 +1,57 @@
+We describe a new solution for iPhone users to publish images to a WordPress site with only 5 screen touches!
+Customer problem
+We supply websites to swimming clubs. These are administered by busy parents out of hours. Keeping content fresh is a challenge.
+Social media is becoming increasingly popular within swim clubs mostly because it’s so easy to post. Its limited search, curation and ecommerce capabilities mean that websites continue to have a role.
+Can publishing to WordPress be as easy as posting to social media?
+I’ve been researching this for a while and I think that the honest answer has been no, unfortunately.
+Until today maybe…
+Potential solutions
+- The WordPress App on iOS is pretty OK. Its downside is that it only allows you to operate core WordPress (posts, pages, media, etc) and not other plugins that you have installed. It’s also designed as kinda a mobile/tablet version of the full web version, which is hardly easy for people unlike us!
+- A Google search throws up multiple ‘listicle’ posts. They might be the ‘top 10’, but are not suitable for my customers unfortunately.
+- The WordPress REST API combined with other solutions such as Twilio messaging API looked possible, although would come with a significant development overhead, usage fees, and picture messaging seems to be quite country specific. A solution that works here in Australia almost certainly wouldn’t work with carriers in the US.
+- Part of the challenge is what to publish. Text is slow to write and often dull to read. Pictures (and increasingly video) are today’s media of choice. I wonder whether the WordPress REST API combined with a slider or gallery may do the trick. An email exchange with the wonderful Barbi at Envira Gallery’s support desk kept the innovation rolling.
+- And then I discovered iOS shortcuts and a solution hit me. Within a few hours I had built a working prototype!….
+iOS shortcuts combined with Envira Gallery are extremely powerful
+My ingredients:
+- WordPress website running Envira Gallery and it’s Lightroom add-on (premium plugins)
+- iPhone running iOS 12.1.1 and Shortcuts (free from App store)
+It takes only 2 steps for an iPhone user!
+- Take photo OR select photo from the image gallery
+- Press ‘share’, ‘shortcuts’ and ‘Upload’
+The photo is then automatically published. For sites without caching it appears immediately when the page is refreshed.
+Solution architecture overview
+Envira Gallery is a premium plugin that’s great for displaying photography. It’s Lightroom add-on is intended to allow professional photographers to publish direct to WordPress from within Adobe Lightroom. Without editing the plugin code I simply used the API.
+Shortcuts is a recently launched app that allows iOS devices to run pre-coded routines. These can be built by users using a relatively simple drag and drop style interface and very limited basic coding. Due to the feature set within Shortcuts extremely powerful functions can be built.
+The programmed workflow of my Shortcut is:
+- Select photo from the iPhone media gallery
+- Resize the image
+- Crop the image
+- Convert to JPEG and compress
+- Base64 Encode
+- POST to Envira Gallery API
+With a bit of fiddling I’ve configured my phone to offer the shortcut behind the standard ‘share’ icon. So publishing a photo to a gallery is literally as easy as sending a picture message!
+I’ll aim to share it’s file here so that you can hack. I first need to remove authentication codes etc. In the mean time here’s a quick screen grab:
+Caution: there are 2 ‘Base64 Encode’ values. Make sure you select the correct one in each case.
+URL is
+Second POST Header key is: X-Envira-Lightroom-Access-Token
+Build order
+- Install Shortcuts on iPhone. Give it permission to access photos.
+- Within WordPress add a new user with sufficient permission to create Envira Galleries (Author worked for me)
+- Upload Envira Gallery and the Lightroom add-on
+- Within Envira Gallery settings, navigate to ‘Lightroom’ and create a new access token attached to the newly created user.
+- On the iPhone build (or install) the shortcut described above.
+- Insert the access code created above into the Shortcut.
+- Create a new Envira Gallery within WordPress. Although it will not contain images at this stage, publish. Note its number. Place the Envira shortcode (not Shortcut!) on a published post or page for testing purposes.
+- Insert this Envira gallery number into the Shortcut.
+- Test and enjoy!
+Known limitations
+- Doesn’t work on Android or old iPhones.
+- Upload single photos, not multiple. The latter may be possible using loops within Shortcuts.
+- I have not yet displayed or used Captions, Titles or set unique file names.
+- Cannot delete/edit from phone (must login to WordPress for that).
+- Works on Envira Gallery, but can’t easily find a similar solution for Soliloquy (slider)
+- Requires host WordPress site to be prepared for the new photo wall as described above.
+- Probably won’t work when phone is out of telco / WiFi network range.
+But wait, there’s more….!
+Shortcuts contains a function that can publish to WordPress direct without. It is also extremely powerful for publishing new posts, pages and uploading to the media gallery. Despite the Envira solution being more complex to implement, it creates a better user experience I think. I’ll keep experimenting.
+Tip: install the iOS WordPress app to populate Shortcuts with additional WordPress menu options (as yet untested by me).

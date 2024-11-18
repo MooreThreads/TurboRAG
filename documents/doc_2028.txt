@@ -1,0 +1,22 @@
+Image via Dublin Airport Authority
+Dublin Airport Authority (DAA) is the latest Irish organisation to embark on a major virtualisation project, awarding a five-year contract to HP to consolidate more than 360 physical servers.
+The DAA owns and runs the three largest airports in Ireland at Dublin, Cork and Shannon. Last year, 22.7m passengers passed through the three hubs. Including the company’s overseas retail business in Russia, Germany and the Middle East, the company has more than 3,000 users.
+The DAA chose HP after a tendering process and the project began earlier this year. Work is still under way: 150 servers have already been moved to the virtual infrastructure and the DAA anticipates the move will be completed by the first half of 2013.
+Gerry Luttrell, the DAA’s head of IT&T and shared services, said technology is strategically important to the company. “It enables us to run our operations efficiently, effectively and well. Those are operations that are running 24 x 7 x 365,” he said.
+Most of the systems that have been earmarked for virtualisation were standard units with two processors and 4GB of RAM. Some of the current servers are of relatively recent vintage and Luttrell said it did not make sense to virtualise them so soon.
+The virtual environment covers the systems that DAA uses for IT and business delivery, including critical systems for its retail and airport operations, as well as its business intelligence dashboard.
+HP Technology Services provided design along with testing specifications, project management, implementation and migration services for the initial 80 business services. HP’s Critical Advantage services will support the infrastructure over the lifetime of the contract.
+The virtualised infrastructure is based on HP’s ProLiant BladeSystem c7000 systems and ProLiant BL460 server blades, ensuring data is available at all times to the DAA’s key business applications.
+Benefits of new infrastructure
+According to the DAA, with the new infrastructure it can now shift IT services on its virtual machines between blades in order to maximise performance and ensure uninterrupted operations.
+The project also covers the DAA’s disaster recovery systems. It now has a fully mirrored environment, backed by dual redundant HP 3PAR V400 storage systems at Dublin airport and dual HP 3PAR F400 storage systems in Cork and at DAA’s user acceptance testing environment.
+DAA has also moved to thin provisioning, a model which allows the company to buy extra disk capacity as needed.
+Automatic provisioning and central management is intended to remove manual administration tasks from the DAA’s IT team, while also minimising disruption and saving the operating costs of unused disk capacity.
+Peter Ryan, head of HP’s enterprise group in EMEA, said many businesses are being faced with needing to introduce new services when most of them spend close to 70pc on keeping their current systems running, leaving just 30pc for innovation.
+“The demand from business is for new services and yet people are spending the most on maintaining what they have,” he said. “We’re trying to free up as much of the money on operations to allow it to be spent on innovation and new projects.”
+As the DAA’s virtualisation project is still ongoing, there are no final metrics about how much the company expects to save. Dave McCabe, DAA’s technology solutions manager, said the benefits will come from cost saving, reduced space in the data centre – with lower power and cooling requirements as a result – as well as standardisation and having central management for hardware and storage.
+Martin Murphy, managing director for HP in Ireland, said some of the 3PAR technology being used by the DAA was developed at HP’s R&D centre of excellence on cloud-based storage in Belfast. This software development facility is the company’s only one of its kind in Europe, he said.
+DAYS
+HOURS
+MINUTES
+Buy your tickets now!

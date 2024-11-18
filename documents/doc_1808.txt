@@ -1,0 +1,35 @@
+Wiktionary:Obsolete and archaic terms
+This is a policy truly in development. Thus this page includes many aspects of reasoning and discussion which may later be removed for conciseness.
+This "policy" will be renamed, if necessary, as appropriate when the current debate resolves. It may well be renamed to something like "Inclusion and Classification of Old Words". Until then it will remain at this "page address".
+Policy for Inclusion of old wordsEdit
+- obsolete and archaic and unfashionable/dated terms and meanings are to be included in Wiktionary.
+People reading texts from an earlier era should be able to refer to Wiktionary to find the meaning of words in that text, even those no longer in use. This guideline applies whether the term is peculiar to the court of Queen Elizabeth I, or to the punk scene of the 1980s.
+Note: Such terms are still subject to WT:CFI, so it does not justify including a word that was only used by a very small group and only published in a single publication of limited readership.
+Classifications of old wordsEdit
+The following tags are not intended to dictate whether or how to use the tagged entries, but to inform the reader of the modern rarity and possible connotations within modern contexts.
+Old EnglishEdit
+Old English words (ISO 639-3 language code ang, “Anglo Saxon Englisc”), used before AD 1100, are so differently spelt from current spelling, or completely different in meaning, as to be virtually a foreign language to modern English speakers. Entries for such terms are treated as foreign words with the L2 language heading ==Old English==, categorized within Category:Old English language, and defined with a modern English translation. No “(archaic)”, “(obsolete)”, or “(dated)” tags are used.
+Middle EnglishEdit
+Middle English words (ISO 639-3 language code enm), used between circa AD 1100 and circa AD 1470, are also regarded as words from a foreign language. Entries for such terms are given an L2 language header of ==Middle English==, classified within Category:Middle English language, and defined with a modern English translation. No “(archaic)”, “(obsolete)”, or “(dated)” tags are used.
+ObsoleteEdit
+No longer in use; found only in very old texts. Can also apply to a no longer understood definition of a word. Examples: zyxt, "to pay" definition of yield
+- Virtually no one would currently use the word or meaning, and very, very few would understand the word or meaning if it were used in speech or text.
+ArchaicEdit
+No longer in general use, but still found in some contemporary texts (e.g. the Bible). Examples: thou (singular second-person subject; "you"), œconomy.
+- Generally understood by educated people, but rarely used in current texts or speech.
+Unfashionable/DatedEdit
+Still in use, but generally only by older people, and considered unfashionable or superseded, particularly by younger people. Examples: wireless (in sense "broadcast radio tuner"), groovy, gramophone, gay (in the senses of "bright", "happy" etc.)
+Please keep in mind that what may be considered "unfashionable" or "dated" in one region may not be in another, so where possible please include regional information. If in doubt, make a Usage Note stating that the term may be considered unfashionable or dated in some areas. (See also WT:NPOV.)
+Tagging words and meanings with “Archaic” or “Obsolete” or “Dated”Edit
+To tag definitions in entries:
+{{lb|xx|obsolete}}tags and categorises as (obsolete)
+{{lb|xx|archaic}}tags and categorises as (archaic)
+{{lb|xx|dated}}tags and categorises as (dated)
+Where xx is the relevant language code. As well as tagging words or meaning with “archaic”, “obsolete” or “dated”, it would be helpful to indicate the era in which the word fell into this classification of usage. eg: (archaic) - Shakespearean era-1920s, (dated) - 1960s, (unfashionable) - 1990s.
+To tag things that aren't definitions, such as links to other entries, use
+{{q}} instead and omit the language code.
+ReferencesEdit
+- see the definitions in archaic and obsolete and Old English
+- see the category definitions in category:Archaic, category:Obsolete
+This policy and the category definitions should be aligned at least. And hopefully aligned with common dictionary usage of the terms "archaic" and "obsolete", to be reflected in the entries archaic and obsolete.
+- as a dynamic new technology dictionary we will need to "invent" a meaning for "unfashionable" (or dated) that meets our needs. Previous technology dictionaries were less able to classify this kind of word, and thus may not have had a precise word/meaning to use for our purposes.

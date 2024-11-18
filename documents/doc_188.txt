@@ -1,0 +1,9 @@
+A Twitter user has discovered that Microsoft might be getting ready to “kill” the File History backup tool when the Windows 10 Fall Creators Update arrives. According to a tweet by WalkingCat, the Windows 10 build 16212 which Microsoft accidentally released a few days ago, doesn’t include the backup feature.
+Specifically, the Twitter user notices that making new backups with File History is no longer supported. This could mean that Microsoft might be ready to completely remove the feature with the upcoming Fall Creators Update.
+As mentioned above, the File History Backup Tool has been around since Windows 8. Microsoft introduced the feature with the famous OS back in 2012. File History allows users to backup incremental revisions of files and then restore them from a secondary storage device.
+Of course, Microsoft updated File History in Windows 10. However, it seems like the company has something else in mind for backup once the Fall Creators Update drops.
+New backup option and alternatives
+Without a doubt, Microsoft will provide a backup option for Windows 10. Until the company confirms the removal of File History, users can still benefit from it.
+As for the future, those in doubt can also create backups in Windows 10 using third-party software. There are a lot of options available for that, but it goes without saying that Microsoft will want to offer a built-in solution for Windows 10.
+With the Windows 10 build 16212 already available due to an accidental release, it is possible we will have more information in this regard soon.
+Dona Sarkar, head of the Windows Insider program, said that no new builds would be coming this week, so expect a new release in just a few days.

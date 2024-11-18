@@ -1,0 +1,25 @@
+Also in the digest: Universal's teasers | More trouble at AOL | Web ad firm fined $1.5m | Joost for Mac | Reuters' photo blog | More trouble at Arrington Towers | Father of the couch potato dies
+Telcos are money-grabbing, phone interfaces are inadequate and there's not enough data on user habits. Those were some of the excuses the entertainment industry came up at the 3GSM conference last week about why the mobile content industry is still failing to get off the ground.
+Mark Halper, rounding up 3GSM for Variety, said the telco industry and the entertainment industry just haven't figured out how to work together yet. Even Vodafone chief executive Arun Sarin admitted the industry has to be easier to work with.
+Users are scared off content services because of data charging, and the overall experience of music or video content on the go is expensive, complicated and slow. Warner Music boss Edgar Bronfman said the situation amounted to "billions in unrealised profits" because currently only a ting proportionate of mobile users buy music on their phones.
+In retaliation, telcos say that entertainment companies have also been too focused on taking the bigger slice of the revenue pie and haven't considered the millions that telcos have to spend to upgrade their networks for entertainment services.
+The conflict is likely to intensify as mobile ad revenues steadily build, but Halper also noted a shift among the content producers themselves so that mobile-specific work will be far more prolific.
+Universal's teaser plan for music and video file sharers
+Rather odd piece in the New York Times about Universal Music's Suretone label, which is to release bits of tracks and videos on file-sharing networks. This is an attempt to "promote" artists by giving users teasers, and then directing them back to Suretone's site to watch the proper version on an ad-supported page.
+While it's laudable that record companies are finally trying to do something to engage with audiences that live online, I can't imagine fans of Weezer and Drop Dead Gorgeous being too chuffed at half-length videos and tracks. Isn't that the labels used to try and flood P2P networks with just to scupper illegal downloaders?
+The background to this is increasing desperation in the industry, says the story, with 2007 sales already down 15% and dire financial forecasts.
+More trouble at AOL
+In the US, AOL is losing its chief financial officer Steve Swad to a private equity firm reports the Wall Street Journal. This follows a management shake-up in November in which chief executive Jonathan Miller was fired and replaced with Randy Falco. Three senior US executives subsequently left, and the European chief executive also left for another firm.
+Meanwhile, AOL UK has lost its chief marketing officer Tobin Ireland and Jonathan Lambeth, its director of communications. AOL UK is cutting more than 100 jobs following its takeover by Carphone Warehouse in October 2006.
+Web ad firm fined $1.5m
+A New York tech firm has been fined $1.5m for running intrusive pop-up ads that illegally installed tracking software on users' computers. The Federal Trade Commission said Direct Revenue had offered free games and screensaver programmes which hid the ad software, which was used to serve targeted pop-up ads to users. From the Wall Street Journal.
+Joost is now Mac friendly
+Joost, the new web TV project from the Skype guys, has just announced a beta version for Intel Macs. A note emailed out to beta testers over the weekend said the top requests during testing had ben for a Mac version. The project also announced a bunch of new content including National Geographic documentaries, Rocky and Bullwinkle cartoons and various indie films from IndieFlix.
+Reuters' photo blog
+Reuters has launched a photo blog edited by David Viggers, one of Reuters' most experienced photo editors. Various Reuters photographers will be contributing and there will also be an ongoing discussion about photos submitted by members of the public to the Reuters You Witness project, which is a kind of citizen photojournalism initiative. At the time of writing there's a post with a couple of unusual red carpet pictures, some "storytelling" pictures and a rather interesting entry on technical ways of creating movement and depth.
+More disturbance in Arrington's force
+Gleefully reported by Sam Sethi on Vecosys this weekend was the dismissal of Oliver Starr, the MobileCrunch contributor. Blogigarch Mike Arrington, who seems to be almost universally despised by the web community, felt that there was a conflict of interest between MobileCrunch and Starr's new position as senior mobile analyst for Guidewire.
+It doesn't sound too friendly:
+"I have put over a year of my life into building up the readership and content at MobileCrunch and having to start building an audience again from zero is not something that I relish doing."
+The father of the couch potato dies, aged 93
+RIP Dr Robert Adler, co-inventor of the wireless TV remote control. His 1956 solution for channel changing was the first remote control without either a wire to a power source or to the TV. News?)

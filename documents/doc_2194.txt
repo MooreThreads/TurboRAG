@@ -1,0 +1,20 @@
+WhatsApp Mods
+Useful modifications to WhatsApp..
+- Highlight group conversations in a custom color in the main chat list (and contact picker).
+- Disable WhatsApp expiry check
+- Disable WhatsApp expiry check
+- Fix "Highlight Groups" in newer WhatsApp versions (thanks to gmay)
+- Disable WhatsApp expiry check
+- Implement highlighting of groups in conversations list (#8)
+- Arabic translation thanks to Salim.Keady on XDA.
+- Implement highlighting of groups in conversations list (#8)
+- Fixed BUG #9: regression where the "keep contact list in history" became inactive after forwarding messages (due to #6).
+- Fixed bug in the forward message(s) feature that the "back button fix" broke
+- Added German translations thanks to mihahn.
+- New feature, "keep contact list in history"
+- New Icon by Kucharskov
+- Polish translation by Kucharskov
+- Turkish translation by King ov Hell
+- Update the name to get the correct case of WhatsApp (enhancement #3)
+- Target API level 15, so some ICS devices should be able to use it (enhancement #4)
+Add a new feature: "keep contact list in history" for beta testing. Also includes translations plus a great new icon (credits on GitHub).

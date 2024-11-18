@@ -1,0 +1,20 @@
+Bah! Hard-drives these days! - Journal of Omnifarious
+May. 22nd, 2006
+10:24 pm - Bah! Hard-drives these days!
+I went to upgrade my router, which had been running for probably over 200 days straight. I finally shut it down because I wanted to push it to the newest version of Fedora Core so I could get the version of openvpn I wanted and properly tie my work network to home.
+But, when I brought it back up with the install CD, it couldn't do the install. The partition table was broken and it wanted to try to re-write it. I checked the logs and played with '
+dd' a bit and figured out that the first 7 sectors of the disk were bad. All the other sectors were fine. Just the first 7 were bad.
+That drive is only 2 years old. It was a Maxtor 40G drive. Needless to say I was seriously ticked.
+klicrai graciously went out and bought me a drive today, and I left work early so I could install it. I found some nice tools (TestDisk in particular) on the net that would reconstruct the partition table by looking for the filesystem headers on disk. It worked surprisingly well, especially since the install CD would recognize the USB key I stored it on if I had it in the slot while I booted.
+The partition table couldn't be written, but I could use the information to construct a new partition table on the new disk and copy the appropriate sectors from the old disk onto the new disk. I didn't lose any data at all. But it took me a lot of fiddling to make it work right.
+Up until 2002 or so, I never had a problem with a hard-drive going bad, even long after the warranty expired. I think hard-drive quality has precipitously declined in the past few years, and it really annoys me.
+That's why I got a Seagate too. :-)
+With the 5 year warranty, it looks like they're more willing to be punished, so I'll have to content with that, and make more frequent backups of my router's configuration :-).
+I've been avoiding Western Digital because I've been hearing about the same kinds of problems from others. I got a Seagate because of their 5 year warranty.
+Maxtors ... not so much.
+Sorry you had problems.
+Yeah, I purchased Seagate for that reason.
+You've been silent on the talker for quite some time. :-)
+I've only had one hard drive fail on me and I don't remember the brand. Amusingly enough it failed when I was rebooting servers after Y2K.
+What an interesting link. :-)
+It means that it's probably time for one of the full re-installs you periodically need to subject a Windows box to. :-(

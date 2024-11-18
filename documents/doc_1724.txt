@@ -1,0 +1,39 @@
+RestorePS's blog
+How to Scan, Stitch and Edit Large Photosposted by RestorePS, May 30, 2013 3:28 PM — 4 comments
+Working in photo restoration it's not uncommon to work on old photos that are rather large. Certainly round the turn of the 20th century there was a tendency to take photos on card backgrounds up to A3 size. So in the modern era how do you go about editing a photo that size?
+And it's not just old photos. Print options these days mean all sorts of print sizes are available so it's not inconceivable that one day you'll want to edit a photo that's too large for your scanning area - a poster for example or a large wedding photo.
+So this tutorial is a quick and easy guide to how you can produce a pristine image from a large image on a standard scanner that's not big enough to scan that image in one.
+First of all let's start with the original photo - an old damaged one in this example.
+This photo was a card mounted photo approximately A3 size. So to scan this effectively on a standard A4 screen scanner we need to scan the image in to four pieces - if your scanning area is smaller or the photo is bigger scan in to as many pieces as it takes. The important thing is to make sure you have all pieces of the photo and there is a little overlap so you can fit the photo correctly later.
+Now with your scanned pieces of the photo you can load up your photo editing software and get cracking with the editing.
+As this is a quick and easy guide I'm using Gimp because it's free and available to everyone but for those of us who use Photoshop the steps are identical.
+First we need to open up our starting piece and create the right canvas size so that we have enough space to move in all the pieces and have the one large photo.
+Expand the width and size of the canvas so the piece of the photo becomes a small photo in a larger canvas then save the image and close it.
+Next reopen your saved large canvas size master photo and also open another piece of the photo.
+Next hit ctrl and c - or copy - on the new piece of photo you've just opened, go to your master large canvas photo and hit ctrl and v - or paste - to paste it in to your large canvas piece.
+Then using the "move tool" move the pasted piece of photo around until it matches up perfectly with your master photo image. This can be easily achieved if you change the image screen size to 50% - bottom left corner of the screen.
+(In the above image the "move tool" is the icon on the far right of the second row of the tool box and we are using that to move the pasted image around so that we can marry it up perfectly with the other piece of the photo on the left)
+(The screen size tab is at the bottom of the screen next to the words floating selection. This increases the size of the image so you can accurately fit the photo pieces together. For super accuracy go up to 100% image size).
+Once you have both pieces fitting together perfectly you need to make sure the tone and lightness of both pieces match. If you don't there will be an obvious line down the finished photo that will show that the photo has been edited together.
+(To adjust "brightness and contrast" click the colour tab on the top row and go down to Brightness-Contrast)
+You can now play around with the brightness and contrast dials until you have a perfect match of tone and colour for both pieces.
+Once you do hit Ctrl and H and the two pieces will be merged in to one.
+Then follow the above steps again until you have all the pieces fitting together and have one full digital image.
+You can then proceed to edit and improve the photo so that you have something like the below.
+Hopefully the above is useful and straight forward enough.
+It's my first tutorial so your thoughts would be appreciated.
+Comments | 1. posted by chrissaluu, Jun 28, 2013 4:29 AM
+RSS
+this is perfect
+2. posted by RestorePS, Jul 1, 2013 12:24 PM
+Thanks for the positive feedback.
+3. posted by miminos, Jul 25, 2013 7:05 AM
+Excellent!
+4. posted by thelazza, Oct 30, 2013 7:40 AM
+In your tutorial you are assuming that the pictures are already perfectly rotated, maybe you should point it out. Also I don't understand why you save the file and then immediately reopen it...
+May I suggest you also take a look at Hugin? It is an open source software and you can use it for automatically stitching pictures. :-)
+You have to log in to add comments to this post.
+Toolbox
+freeimages blog archive
+RSS feeds
+)

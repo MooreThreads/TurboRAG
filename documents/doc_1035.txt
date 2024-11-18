@@ -1,0 +1,55 @@
+We
+The options:
+GML – Geographic Markup Language
+This is the OGC’s big, bad open standard.Â This, and it’s smaller cousin, which I’ll get to in a little bit, form the basis for a lot of the XML-based geographic markup formats floating around (including KML), at least when it comes to describing geometries.
+That being said, GML is big and complex.Â It can handle the representation of any geographic feature data that I can think of, and you get all the fringe benefits of using XML documents for data exchange.
+KML – Keyhole Markup Language
+Everyone reading this is probably familiar with KML.Â Best known for its use in Google Earth, which was, as the name would imply, previously Keyhole before that company was acquired by Google.
+The geometry markup specified by KML is essentially a dupe of the relevant portions of the GML 1.0 and 2.0 schema (GML 3 adds a different, and incompatible way of specifying some of the geometry coordinate data), although it is completely contained within the KML namespace, and is not included as an extension of those GML schemas.
+The main thing KML brings to the table, besides the fact that it’s built into every version of Google Earth, and will be an integral part of the ArcGIS 9.2 product line, is markup specific to things like styling, placemarks, and the like.Â Most of this ties directly in to Google Earth features, but it’s still useful in other applications, and is the sort of thing that would need to be defined in a application-specific GML schema.
+There are also some rather nifty additions to KML 2.1, such as support for 3d models, incremental updates, and Regions, which are useful in the incremental or on demand processing of large data sets.
+GML Simple Features Profile
+In short, the GML Simple Features profile is simply a subset of the full GML spec, which is more suitable for describing, well… simple feature data.
+Long story short, this is what you’d be building off of if you wanted to do something like include a polygon description in a standard way in your own XML document without having to order the full GML enchilada.
+Other…
+I guess this would be things like ESRI’s shapefile, MapInfo TAB, CSV files, punch cards, or whatever else you would happen to think makes a better â€œstandardâ€ way of exchanging geographic information, to the extent that such a thing is possible.
+6 Responses to GeoData Format wars: GML vs KML vs ?
+- Molouys sub-basins exp carloscaceres
+- Colombia klaudiia980
+- Colorado Rivers wxrwxr
+- Aarons Map NI Aaron123
+- Mapa geográfico del deporte angie.dani.mateus@gmail.com
+- Principales focos del terrorismo yihadista melce08
+Recent Comments
+Ok so I haven’t read all 600 or so pages of the GML specification but…
+I think that the issue we’re dealing with stems from the fact that GML doesn’t actually compete with shapefiles, or KML. GML describes the geometries themselves while KML describes how to display them. Shapefiles describe, geometries and their attributes.
+We really need a standard XML replacement for shapefiles, and that isn’t what GML is. GML provides a standard way of including geographic data in your own schemas, nothing more. Therefore the comment “we support GML” is pretty much meaningless.
+ogr and topp brands of gml look something like this:
+… schema specific xml that includes a gml fragment …
+( — for ogr:
+… gml fragment …
+attribute_value
+)
+this is also the same response you get from a wfs getFeature request.
+since it already exists and provides free and open software, id say embrace the ogr spec, and try and pressure ogc to include it as a standard way of transporting GIS data.
+~mookie
+(btw I am an F1er as well, I dont actually enjoy reading OGC specs in my spare time)
+It ate my xml so…
+… schema specific xml that includes a gml fragment …
+( — for ogr:
+… gml fragment …
+attribute_value
+)
+]]>
+ok whatever here’s the site:
+Actually, we’ ve been working with the GML Simple Features profile for almost two years now and have found that it’s a pretty good replacement for many existing geodata formats.
+But we work with all the formats listed above, so I don’t have to choose
+Regards,
+Jeff
+The idea that GML does not provide a means to express attributes is simply WRONG. GML provides a simple scheme for encoding a geographic object. The object is an element like say . The children of this element are the properties of the Road —
+3
+paved
+… the coordinates
+So GML does provide a perfectly complete, good and extensible replacement for Shapefiles and much more.
+GML geometry is no more complicated than that of KML, but of course has many more geometry types since it supports non-linear geometries like Bezier Curves and Geodesics, and 3D solids to boot. Same model in call cases though.
+Major thanks for the post. Want more.

@@ -1,0 +1,68 @@
+!
+43 thoughts on “New Plugin – “I Make Plugins””
+That’s great and really saves a lot of time. How about making the same for theme developers. 🙂
+Genius! Thanks, I will give this a try.
+Very nice Mark, thanks!
+For a minute I thought it was a plugin to help you make plugins. What was I thinking of…
+Hi!
+I like to have my plugins as posts. There are no way to use you plugin for that, right?
+A nice feature would be to be able to insert a shortcode in posts like [plugin name=”I make plugins”] and it will show the information of that plugin.
+Let me know, would be great for me and probably others!
+Good idea, that should be easy to do.
+Does that mean you will add it to the next version? I don’t want to hack your plugin because then I need to do it every time I’ll update the plugin in the future.
+If you add it and it works like expected, I’ll blog about your plugin on jenst.se and devdevote.
+Good work so far anyway!
+Looks amazing, would it be possible to add the
+download-url shortcode on the “My Plugins” page?
+Sure, I’ll add that for the next version!
+LOL… Mark, love the title of this plugin. Very useful getting it for myself for future use 🙂
+Great use of the shortcode API. Shortcodes are seriously one of my favorite parts of WordPress. 😀
+Thank you soooo much for this video! I downloaded 1.0 a few nights ago and had no idea what to do with it… after watching the video, everything worked smoothly. Great plugin btw! Been looking for something like this for a while.
+Wow, awesome plugin. I am salivating thinking about the same thing for the theme directory… Is there a similar API for the theme directory?
+Excellent plugin! And very user friendly, we had it up and running in no time. It will definitely save lots of time and keep things in order.
+‘Sweet’ does not express enough how freakin’ awesome this plugin is!
+Agree with the others! AWESOME plugin – thank you
+Is it possible to get plugin screenshots?
+That’s pretty rad, man. Thanks!
+Being in the process of writing my first plugin it is nice to see I csan take some shortcuts. Now I just need to learn to use the WP plugin repository 🙂
+Very nice!
+Great plugin Mark
+Only suggestion I would have is to allow some control over where the plugin list template code is placed on that container page as I like to give a little context to my plugin work first.
+To clarify – currently the cotaine page has:
+Plugin list template
+$content
+I wouild like to have the option to display as
+$content
+Plugin list template
+Thanks!
+Agreed. I think I’ll include an optional [plugin_list] shortcode that you can manually place to override the default “append” behavior.
+Mark: the cache is never really used because of missing parantheses. In addition to the change that I submitted earlier the line following that change needs to be edited, too, to have the descriptions show on the list page again. I have created a diff file that you can download here: – HTH
+Thanx So Much
+I want to install Plug in to my domain, please help me.
+thanks
+You are a wordpress God!
+hye wt abt u?
+Hi…I was wondering why the plugin page does not appear on my dashboard left panel? Have I installed it correctly? Thanks.
+Great Plugin!!!
+How about other languages?
+In some plugins, in addition to “readme.txt”, there are “readme-{{WPLANG}}.txt” files where we add descriptions in other languages.
+Can you add support for those files?
+please
+i want you tom install plug in in my computer.
+thanks .
+Ok
+great post !!! thank you for sharing… 🙂
+hiiiiiiiiii wordpress
+I agree.
+===========================
+xin the my
+can i pay you to make a plugin for me?
+or do you know where i can find someone that i can pay to make a plugin for me???
+hey
+this is very good plugin..i really like it and tell me when will its new version released..
+i am waiting for it
+This would be a great site to put some comments and visit.Keep up the good work.
+Very nice indd.
+עדכוני חדשות
+It is very interesting site and very useful to me.
+That’s very helpful.

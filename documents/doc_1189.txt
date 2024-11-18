@@ -1,0 +1,31 @@
+Filter Results:
+- Full text PDF available (8)
+Publication Year
+2012
+2016
+Publication Type
+Co-author
+Publication Venue
+Key Phrases
+Learn More
+- José Luis Montiel Olea, Matías Cattaneo, +8 authors LUIS MONTIEL OLEA
+- 2013
+This paper presents a new class of tests for hypothesis testing problems with a boundary-sufficient statistic: the Efficient Conditionally Similar tests (ecs). The paper focuses on two-sided testing problems with nuisance parameters, but the theory here developed can be applied more generally. The first part of this paper shows that the new testing… (More)
+This paper shows that in online auctions like eBay, if bidd… (More)
+- Drew Fudenberg, Yuhta Ishii, Scott Duke Kominers
+- J. Economic Theory
+- 2014… (More)
+- Mira Frick, Yuhta Ishii, +4 authors Sven Rady
+- 2015
+Motivated by the rise of social media, we build a model studying the effect of an economy's potential for social learning on the adoption of innovations of uncertain quality. Provided consumers are forward-looking (i.e. recognize the value of waiting for information), equilibrium dynamics depend non-trivially on qualitative and quantitative features of the… (More)
+- Attila Ambrus, Yuhta Ishii
+- 2012
+This paper shows that in infinite-horizon asynchronous-move battle of the sexes games, for a full-dimensional set of payoff specifications, there is an intermediate range of discount rates for which every subgame perfect Nash equilibrium induces the same unique limit outcome. The latter is one of the pure Nash equilibria of the stage game, and play is… (More)
+- José Luis Montiel Olea, Alberto Abadie, +11 authors LUIS MONTIEL OLEA
+- 2012… (More)
+- Joyee Deb, Yuhta Ishii
+- 2016
+We study a canonical model of reputation between a long-run player and a sequence of short-run opponents, in which the long-run player is privately informed about an uncertain state, which determines the monitoring structure in the reputation game. The long-run player plays a stage-game repeatedly against a sequence of short-run opponents. We present… (More)
+- Jonathan Libgober, Ryota Iijima, +5 authors Alex Volfovsky
+- 2015
+AAAAAA. is paper develops a model of costly information acquisition, focus-ing on an application to scientiic research. When research protocols are not fully transparent, scientists are incentivized to make their experiments more susceptible to false positives, despite their preference for beeer information. On the other hand, non-transparency can induce a… (More)

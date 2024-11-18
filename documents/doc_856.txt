@@ -1,0 +1,57 @@
+An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations
+@article{Zhang2021AnED, title={An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations}, author={Lu Zhang}, journal={ArXiv}, year={2021}, volume={abs/2109.07033} }
+In this paper, an energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations is developed. The resulting method is energy-dissipating or energy-conserving depending on the simple, mesh-independent choice of numerical fluxes. By introducing a velocity field, the original problem is transformed into a first-order in time system. In our formulation, the discontinuous Galerkin approximations for the original displacement field and the auxiliary velocity field are not… Expand
+One Citation
+A discontinuous Galerkin method for nonlinear biharmonic Schr\"{o}dinger equations
+- Mathematics, Computer Science
+- 2021
+This paper develops the paradigm of the local discontinuous Galerkin method by introducing the second-order spatial derivative as an auxiliary variable instead of the conventional first-order derivative, and derives optimal L-error estimates of the scheme that measure both the solution and the auxiliary variable. Expand
+References
+SHOWING 1-10 OF 27 REFERENCES
+An Energy-Based Discontinuous Galerkin Method for the Wave Equation with Advection
+- Computer Science, Physics
+- SIAM J. Numer. Anal.
+- 2019
+An energy-based discontinuous Galerkin method for the advective wave equation is proposed and analyzed, and numerical experiments on structured grids display optimal convergence in the $L^2$ norm for upwind fluxes. Expand
+An energy-based discontinuous Galerkin discretization of the elastic wave equation in second order form
+- Physics, Mathematics
+- Computer Methods in Applied Mechanics and Engineering
+- 2018
+Abstract We present an application of our general formulation (Appelo and Hagstrom (2015) [12]) to construct energy based, arbitrary order accurate, discontinuous Galerkin spatial discretizations of… Expand
+A discontinuous Galerkin method and its error estimate for nonlinear fourth-order wave equations
+- Computer Science, Mathematics
+- J. Comput. Appl. Math.
+- 2021
+The energy conserving property of the UWLDG scheme and its optimal error estimates in the L 2 -norm for the solution itself as well as for the auxiliary variables approximating the derivatives of the solution are proved. Expand
+Energy-based discontinuous Galerkin difference methods for second-order wave equations
+- Mathematics, Computer Science
+- Communications on Applied Mathematics and Computation
+- 2021
+It is demonstrated that for constant coefficient problems on Cartesian meshes this bottleneck can be removed by the use of a modified Galerkin difference basis and a careful choice of preconditioner can demonstrate optimal complexity, albeit with a larger constant. Expand
+An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation
+- Computer Science, Mathematics
+- ArXiv
+- 2021
+For problems on bounded domains and in higher dimensions it is demonstrated numerically that one can march explicitly with large time steps at high order temporal and spatial accuracy. Expand
+A New Discontinuous Galerkin Formulation for Wave Equations in Second-Order Form
+- Computer Science, Mathematics
+- SIAM J. Numer. Anal.
+- 2015
+A priori error estimates in the energy norm for certain fluxes are derived and numerical experiments showing that optimal convergence in $L^2$ is obtained are presented. Expand
+A mixed finite element method for beam and frame problems
+- Physics
+- 2003
+Abstract In this work we consider solutions for the Euler-Bernoulli and Timoshenko theories of beams in which material behavior may be elastic or inelastic. The formulation relies on the integration… Expand
+Nodal Discontinuous Galerkin Methods: Algorithms, Analysis, and Applications
+- Mathematics
+- 2007
+The text offers an introduction to the key ideas, basic analysis, and efficient implementation of discontinuous Galerkin finite element methods (DG-FEM) for the solution of partial differential… Expand
+Discontinuous Galerkin methods for solving elliptic and parabolic equations - theory and implementation
+- Mathematics, Computer Science
+- Frontiers in applied mathematics
+- 2008
+Discontinuous Galerkin methods for solving partial differential equations, developed in the late 1990s, have become popular among computational scientists and engineers who work in fluid dynamics and solid mechanics and want to use DG methods for their numerical results. Expand
+Spectral Deferred Correction Methods for Ordinary Differential Equations
+- Mathematics
+- 2000
+We introduce a new class of methods for the Cauchy problem for ordinary differential equations (ODEs). We begin by converting the original ODE into the corresponding Picard equation and apply a… Expand

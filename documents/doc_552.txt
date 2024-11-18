@@ -1,0 +1,10 @@
+Valve goes for Intel-Nvidia in first batch Steam Machines
+The game company’s PC console will be skipping AMD in favor of Intel CPUs and Titan GPUs in its first batch of devices sent out to beta testers.
+Valve’s Steam Machines — not to be confused with the third-party Xi3 Piston Steam Box — will be shipping out to 300 lucky beta testers without AMD hardware inside.
+According to a blog post by Valve, the Steam Machines will come in a variety of configurations depending on the desired price point: i7-4770, i5-4570, and i3 CPUs are available along with GTX780, GTX760, and GTX660 GPUs.
+Considering that gaming is such a big push for AMD at the moment, and company representatives are highlighting AMD’s strong alliances with developers, it’s interesting that a major player in PC gaming chose to shun the #redteam for the first batch of what’s sure to be a major success in the PC gaming ecosystem.
+Nvidia has been quoted by PC Magazine saying “It is no secret that we have been working with Valve on their upcoming SteamOS and that we are huge fans of the living room PC concept.”
+It could very well be that Nvidia is paying handsomely for this privilege of being the sole provider of GPUs, so far, for the Steam’s PC console.
+But consider what AMD’s Ritche Corpus, the company’s director of software alliances and developer relations, said during #gpu14 in Hawaii: “We are working just as closely with Valve. I think the difference is one side of that conversation is being more vocal than the other. If you go to Valve right now and ask them which hardware partners are going to be the partner of choice, they won’t pick one or the other. They are going to be agnostic. They mention that it’s an open ecosystem.”
+As the official release date for the Steam Machines get closer, more details on the hardware loadouts will be available.
+Valve has yet to release pricing details for the Steam Machines.

@@ -1,0 +1,44 @@
+Test Questions are Figure Eight’s quality control mechanism within jobs. By providing the answers to a small percentage of rows, you can tell how accurately a contributors is working and will automatically remove any who do not meet your accuracy threshold. This article covers the interface used to create Test Questions. If you've already created test question in your job, they will appear in a list under 'Quality' tab from the top bar. Here, you can review all of your Test Questions. For more information on reviewing Test Questions, please see the Review Test Questions article.
+Fig. 1: List of existing Test Questions
+Note: You will not be able to create any Test Questions if you don’t have any data. Surveys, for example, don’t require any data, therefore a message will appear when you try to create Test Questions:
+Fig. 2: The ‘Quality’ tab when data has not been uploaded. Most likely for a survey job.
+The following options are for creating and editing Test Questions, which become available after you select “Create Test Questions” if there are no Test Questions in your job, or “Create More” if there are existing Test Questions in your job.
+Test Question Creation
+The Test Question creation page will closely resemble the interface you created in the 'Design' step with 2 exceptions:
+- 1. radio / drop down inputs will be replaced with checkboxes to allow multiple correct answers
+- 2. A text box area will populate under each question so you can provide a reason explaining why your answer is correct.
+Selecting 'Save' will create a copy of the row and mark it as a Test Question, containing your answers and reasons.
+Fig. 3: Test Question Interface
+Note: Shown in this example, you can allow the job to accept multiple correct answers by selecting more than one checkbox.
+Fig 4. Important Features within the Test Question Interface
+A. Show Job Instructions
+- This displays the job instructions within the Test Question
+B. Skip
+- You can choose to skip a row it does not follow along the with the Test Question’s Best Practices or the answer distributions.
+Save and Create Another
+- Save the row as a Test Question and continue with creating Test Questions. Keep in mind, the row will be copied to a Test Question row in your job's dataset.
+View Answer Distributions
+- Here is where you can view the answer distributions for already created Test Questions.
+Test Question Reason Textbox
+- This textbox will automatically appear when an answer is selected.
+Show Unit Page
+This page will present you with more detailed data concerning the row selected.
+Fig. 5: Important features within ‘Show Unit Page’
+A. Show Data
+- Test Question and Source Data in JSON format.
+Fig 6. The JSON format of the selected Test Question
+B. Show Statistics
+- A specific CML question can be selected to display the answer distribution associated with it.
+Fig 7. The answer distribution across all judgements for the CML Question ‘sentiment’
+C. Show Contributor Info
+- Display data belonging to each individual contributor who has submitted a judgment on the row. This data includes:
+- Worker ID
+- Trust Score
+- If their judgment was correct
+- If their judgment was tainted
+- Name of the channel the worker belongs to
+- If they contested the incorrect judgement
+- Each answer given by the contributor, defined by the CML name
+- Each answer given by the contributor, defined by the CML name
+D. Edit Test Question
+- Brings you back to the Test Question editing interface

@@ -1,0 +1,55 @@
+Check out our COVID-19 dedicated page for tenders related to medical equipment needs.
+The Conference on the Future of Europe is your chance to share your ideas and shape the future of Europe. Make your voice heard!
+United Kingdom-Liverpool: Software package and information systems
+2018/S 074-164715
+Contract notice
+Services
+Section I: Contracting authority
+Section II: Object
+G-Cloud 10
+Agreement for use by UK public sector bodies identified at VI.3 (and any future successors to these organisations), which include Central Government Departments and their Arms Length Bodies and Agencies, Non-Departmental Public Bodies, NHS bodies and Local Authorities.
+The above Public Sector Bodies have a need for a compliant Procurement Vehicle to access Cloud Computing Services.
+The maximum initial duration of any Call-Off Contract that may be placed by an eligible Contracting Body is 24 months with two (2) extensions allowed, each of up to 12 months.
+Potential Providers must respond to this G-Cloud 10 procurement via the Digital Marketplace. Full instructions on how to apply are explained at #how-to-apply including the steps that Potential Providers need to take to offer services on the Digital Marketplace.
+Cloud Hosting
+Primarily in the UK with some limited requirements overseas.
+Lot 1: Cloud hosting:
+Cloud hosting Services must be cloud platform or infrastructure Services that can help buyers do at least 1 of:
+— deploy, manage and run software,
+— provision and use processing, storage or networking resources.,
+— containers,
+— CDN,
+—.
+The Framework Agreement duration is for one (1) year. However the Contracting Authority reserves the right to extend the duration of this Framework Agreement for any period up to a maximum of twelve (12) months from the expiry of the Initial Term.
+II.2.4 Continued follow link:
+As part of this Contract Notice, the following can be accessed at:
+OJEU customer list;
+OJEU rights reserved by Crown Commercial Service; and
+OJEU transparency information for Crown Commercial Service Framework Agreements.
+Cloud Software
+Lot
+Lot 3: Cloud Support:
+Cloud Support services sold through G-Cloud can help buyers set up and maintain their cloud software.
+G-Cloud cloud support Suppliers will provide Services in at least one of these categories:
+— planning,
+— setup and migration,
+— security services,
+— quality assurance / performance are not cloud-related,
+— recruitment or contractor (contingent labour) Services or Services that are Inside IR35,
+— colocation Services, for example equipment the buyer rents from a Suppliers datacentre,
+— hardware,
+— bespoke design or development.
+Section III: Legal, economic, financial and technical information
+Participants will not be required to provide a deposit. No guarantees will be required at Framework Agreement level; Contracting Bodies may require a guarantee at Call-off stage but this will be stipulated in their Order Form.
+.
+No special legal form is required but if a contract is awarded to a consortium, the Contracting Authority may require the consortium to form a legal entity before entering into the Framework Agreement.
+Section IV: Procedure
+Electronically, via web-based portal.
+Section VI: Complementary information
+This G-Cloud 10 procurement will be responded to via the Digital Marketplace (accessed here:).
+Registration details:
+Potential Providers must register on the Digital Marketplace:
+1. create, or login to, an account on the Digital Marketplace homepage (this is only required once for all tenders on the platform) — Click on LOG IN if you already have an account or “Become a supplier” to create a new supplier account;
+2. services in the completed table will be automatically submitted at 5:00 pm BST, 23.5.2018 (if you have also made the supplier declaration and completed your company details).
+You must ask any clarification questions on the Digital Marketplace G-Cloud 10 updates page.
+Full instructions are detailed at #how-to-apply and details the steps that Potential Providers need to take to offer Services on the Digital Marketplace.

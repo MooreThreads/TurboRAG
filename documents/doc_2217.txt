@@ -1,0 +1,12 @@
+Topic: CHMOD Newbie Craze
+I have noticed alot of users (and I mean alot) think that CHMOD is always the answer, in fact not even 1% (maybe 2%
+) of all problems can be resolved by CHMOD, let's take a minute to find out wat CHMOD is and what it does...
+Firstly, all it does is tell what users can access files, it doesn't control code, so changing CHMOD will not make an error message dissapear, nor will it allow certains options to appear.
+It is not related to PHP directly, they can 'communicate' but not in a conventional sense
+Here is a problem that cannot be resolved by CHMOD:
+Warning: main(X): failed to open stream: No such file or directory in /www/site/folder on line #
+Whereas this can:
+Warning: fopen(X): failed to open stream: Permission denied in /www/site/folder on line #
+So before posting answers such as:
+Have you CHMOD the file?
+Think how does it affect the problem in anyway due to permissions

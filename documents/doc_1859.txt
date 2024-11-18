@@ -1,0 +1,41 @@
+This question originally appeared on CoFoundersLab: How much should a simple app cost (to develop)?
+Answer from Elena Montes, Managing Director at Kill the Loop
+I set up my own company six years ago to be an intelligent and ethical IT business. I will be honest with you about how much you should be paying for a simple and well-developed app, so you can avoid being overcharged. If you want a quick answer, I would say that you shouldn't be paying more than around $7,500 to develop a simple native or a hybrid mobile app. If you want to know WHY please keep reading.
+If your minimum viable product includes the development of an app, this app should be simple and shouldn't take more than 6 weeks to be developed. A simple mobile application is an app with less than five screens in total (or less than ten screens if most of them have a low level of customization and features). And, most importantly, you have to be clear that "app development" strictly means "app coding.” It is referred to as iOS, Android OR Hybrid. It does not include app design, nor web/db/api development.
+Although we usually work from conception to final product launch, many designers with a business idea and software companies that already have a team of designers and programmers come to me for BPO (business process outsourcing). In these cases, we just do the mobile development part of their projects because these types of clients don't want to contract/dismiss employees for a 1-3 month period to develop an app. Having a remote developer for just the time they need lets them save a lot time and money. They usually start with a minimum viable product, and after their first release, they update the app with more features depending on their level of success. So: Be aware that if you provide your app design to your mobile developer (and the cms/database/api development, if needed, for your project), your app development costs could be even lower (the above price is my average cost for simple app developments) depending on your initial requirements.
+However, if you don't have a design/programming background, then you might need help with every single stage of your project life cycle.
+Planning Stage
+Define your minimum viable product: Keep the first release as simple as you can; you can add more features in future iterations.
+Wireframes + Design specification: You shouldn't be paying more than ~$750 for a three to five days of work. I wrote this article about this stage
+Design Stage
+Mobile app design. This work includes: The design of all the screens of the app in a minimum of two sizes for mobile and tablet; all cropped buttons and elements in two sizes for the developer; and the designs required for the mobile app profile (about five screens, the cover image, and app icon in different sizes). You shouldn't be paying more than ~$2,500 for a two-week job.
+Development Stage
+Admin panel to manage app info and users, database and API development: Depending on your project, you may not need this part of have very few requirements for it. You shouldn't be paying more than ~$6,300 for a five-week job..
+One simple native or hybrid App Development: You shouldn't be paying more than ~$7,600 for a six-week job (double the price if you wish to add another native app).
+Testing Stage
+White box testing: This is a method to test the internal parts of the software, which are known by tester. It is usually performed by developers, because it will require implementation and programming skills for the systems.
+Black box testing: In this functional testing method in which the internal structure is not known by the tester, therefore programming knowledge is not required. Both white and black box tests are necessary.
+Your own test: Your developer will give you a link so you can test the user interface of your project and communicate the issues that you find so the developer can fix them before the app submission stage.
+Deployment Stage
+Source code delivery and deployment: They should be free of charge. The developer should give you a link where you can download the source code of your project. If you don't mind giving your developer access to your server and developer account, then this person shouldn't charge you to set-up or deploy the source code to your server, even for the app submissions. Remember that you should pay the developer before he/she gives you the code and upload the source code.
+Marketing
+Attract users via social networks, adverts, blog + newsletters, etc.
+Maintenance, Updates and Upgrades
+Develop more features in your mobile app, make modifications, upgrade to the new OS versions, etc. This is extra and is charged separately.
+See full discussion on CoFoundersLab
+These are my 10 step advices to you:
+- Define your MVP (minimum viable product).
+- Decide if you need: (a) a mobile app, (b) a responsive website, or (c) a mobile app + website.
+- Cut initial costs as much as you can with your own work: Example: Design the wireframes by yourself (as a bonus this will help you know exactly what you want your product to be).
+- Sign an NDA with the chosen developer.
+- Present your detailed description and wireframes to your developer and discuss your budget with him/her to agree on a fixed price for your project.
+- Sign a contract with your developer.
+- Sit down and wait until your developer finishes your project.
+- Test your project on every device that you can with and without an internet connection. Enter valid and invalid data in the app to test if the look, feel, and workflow are correct and if the customized message errors appear correctly in the app. Log all of the issues you find in the bug tracking platform that your developer will provide to you. Wait for your developer to fix everything and then do a final test.
+- Pay the developer. He/she will then send you the source code.
+- If you need help with app submission, just give your credentials to your developer to upload the app to the app store and/or to your server. Modify your credentials after the app has been approved.
+More from CoFoundersLab.com:
+- How should technical co-founders evaluate business ideas?
+- How do you get meetings for your startup?
+- One Piece Of Advice That Every First-Time Entrepreneur Needs To Know
+How much should a simple app cost (to develop)? originally appeared on CoFoundersLab — the place to connect, meet, and collaborate with like-minded entrepreneurs.

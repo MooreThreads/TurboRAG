@@ -1,0 +1,15 @@
+Defining resources within Kubernetes manifests
+Within a given pod, a resource request and limit can be set for every container. These values are helpful for the application's health, as you have guaranteed capacity. It can also benefit the compute through scheduling and provisioning suitable capacity in the kernel by the kubelet.
+Requests
+The Kubernetes scheduler ensures that
+for each resource type, the sum of the resource requests of the scheduled Containers is less than the node's capacity. By not specifying requests, the scheduler will apply the BestEffort class to your pod. This class means there is no guarantee for scheduling, and because this is the least priority, there is high potential for the pod's eviction.
+Limits
+Containers that don't specify resources will inherit the host's capacity for their lifecycle. When limits are not defined, you could start to see your container's CPU throttled or OOMKills with memory. If multiple containers are defined, and both try to share compute vs. defining what it needs explicitly, you could see uncontrollable saturation on your node.
+To visualize the effects of limits first lets describe a node:
+~ kubectl get node test-node -o jsonpath='{.status.capacity.memory}{"\n"}' 7887008Ki
+Then create a pod without specifying resources limits:
+kubectl apply -f - <<EOF apiVersion: v1 kind: Pod metadata: name: no-resources spec: containers: - args: - /usr/bin/bash image: ubuntu imagePullPolicy: IfNotPresent name: shell resources: {} tty: true nodeSelector: kubernetes.io/hostname: test-node EOF
+By examining the cgroup memory limit, we see that the container capacity limits are nearly identical in value to the underlying node:
+LIMIT=$(kubectl exec -it no-resources -- cat /sys/fs/cgroup/memory/memory.limit_in_bytes) echo "scale=0; ${LIMIT}/1024/1024" | bc -l 8796093022207
+Alternatively, when you set the values, we should see our defined capacity.
+kubectl apply -f - <<EOF apiVersion: v1 kind: Pod metadata: name: resources spec: containers: - args: - /usr/bin/bash image: ubuntu imagePullPolicy: IfNotPresent name: shell resources: limits: memory: 200Mi tty: true nodeSelector: kubernetes.io/hostname: test-node EOF LIMIT=$(kubectl exec -it resources -- cat /sys/fs/cgroup/memory/memory.limit_in_bytes) echo "scale=2; ${LIMIT}/1024/1024" | bc -l 200.00

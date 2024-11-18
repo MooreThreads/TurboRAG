@@ -1,0 +1,42 @@
+How many parents would grade their child lower than others? – A Few
+How many teachers would give an unbiased rating to their own students? – Maybe Many
+How many strangers would be unbiased in grading two students, neither being taught by them? – ALL!
+Most, if not all of you will agree with the assumptions stated above. That is because all this is born out of “common sense.” We have been a part of this society long enough to understand some basic things in life.
+We believe:
+- What I create is good.
+- What is mine is good.
+- What is mine but is not good can be given up.
+- What does not belong to me is not good.
+- What does not belong to me but is good is something that I want to have.
+- What does not belong to me and is good but I cannot get it by any means is something that I don’t need.
+There are always two sides to everything, not everything stated above can be true for all 7 billion of us
+Quoting Frank Underwood (House of Cards):
+“The problem with common sense is that it’s so very common”
+Thus we so effortlessly miss common things such as why is it a good idea to outsource testing.
+Lets take this example of Harry:
+- As a child, Harry wrote his first sentence on a piece of paper and then he went to his teacher to get it checked to know how he did.
+- Harry grew up and started writing exam papers. His answer sheets are corrected by a stranger who certified whether he did well or not.
+- Harry grew up and was ready to get married, he selects an outfit, tried it on and asked his friends and relatives how it looked on him.
+So what do we understand from the above instances:
+- We all love ourselves and the work that we do, but whenever we try something for the first time we want a third person to validate how good we are.
+- We understand that many times we are biased towards our own perception. It is then that there arises a need to consult others and take their opinion to make sure that we are doing the right thing. Criticism always helps to improve oneself.
+- We always run validation from multiple people every time we venture out to do something that is extremely important to us as we want it to be perfect. A certification from an expert and unbiased source always proves to be the most important opinion
+If we find that we are not as good as we thought we were, then it gives us a push to improve things and achieve what we desire.
+Coming back to business, many development platforms are caught in their own web of one-sided views and biased outlooks. When a developer tests his own code, he might miss some vital points. This is because, a developer while coding has a certain scenario in his mind based on which he develops the product. A developer himself cannot be his own critique. So when he tests his own creation, he is not doing any justice to it, not because he doesn’t want to, but because he cannot. That is when an outside perspective is needed. Someone who is unbiased towards the product and will only look at it from an end user’s perspective. Only then can a product be certified fool proof.
+Related Article – What is the best time to start testing
+Why is outsourcing testing a good idea?
+- An Independent assessment leads to enhanced delivery confidence
+- A tester’s job is to look for flaws in the software, and he will do so without any biases.
+- A tester’s energy is concentrated on how to make the software not work
+- A tester has no interest in making the software work, therefore their certification carries more credibility when they pass a software.
+- There is a higher possibility of them finding bugs in the feature as well as against the feature as they have nothing to lose
+- Unbiased testing helps in setting up benchmarks
+- Independent testers have an experience of testing products of varied domains – a luxury that In-house testers cannot afford
+- Outsourcing testing requirements to a testing company that is bold, courageous and can take complete ownership may not be cheap but one must know that FAILURE is EXPENSIVE.
+- An organisation can focus on the core responsibilities, leaving testing to hands that understand.
+- Setting up an experienced and heavily skilled testing team is a cumbersome task
+- A big in-house testing team becomes a burden when the product is developed and gets into the maintenance stage.
+- An in-house testing team may not have that varying experience that a tester in a pure play testing services company will have.
+Outsourcing testing may or may not be cheap but GOOD QUALITY is valuable. Therefore, the money spent now proves its worth overall – it saves a product, it saves the present customers, it saves the parent company’s effort, time, reputation and thus Money.
+Related Article : Factors which make or break a mobile app
+By Amit Vyas

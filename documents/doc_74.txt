@@ -1,0 +1,33 @@
+We've been living in a COVID world for more than 18 months now. At the outset of the pandemic, government agencies and health authorities scrambled to inform people on how to identify symptoms of the virus.
+But as the virus has evolved, it seems the most common symptoms have changed too.
+Emerging data suggest people infected with the Delta variant - the variant behind most of Australia's current cases and highly prevalent around the world - are experiencing symptoms different to those we commonly associated with COVID earlier in the pandemic.
+We're all different
+Humans are dynamic. With our differences come different immune systems. This means the same virus can produce different signs and symptoms in different ways.
+A sign is something that's seen, such as a rash. A symptom is something that's felt, like a sore throat.
+The way a virus causes illness is dependent on two key factors:
+viral factors include things like speed of replication, modes of transmission, and so on. Viral factors change as the virus evolves.
+host factors are specific to the individual. Age, gender, medications, diet, exercise, health and stress can all affect host factors.
+So when we talk about the signs and symptoms of a virus, we're referring to what is most common. To ascertain this, we have to collect information from individual cases.
+It's important to note this data is not always easy to collect or analyze to ensure there's no bias. For example, older people may have different symptoms to younger people, and collecting data from patients in a hospital may be different to patients at a GP clinic.
+So what are the common signs and symptoms of the Delta variant?
+Using a self-reporting system through a mobile app, data from the United Kingdom suggest the most common COVID symptoms may have changed from those we traditionally associated with the virus.
+The reports don't take into account which COVID variant participants are infected with. But given Delta is predominating in the UK at present, it's a safe bet the symptoms we see here reflect the Delta variant.
+(The Conversation/CC BY ND)
+While fever and cough have always been common COVID symptoms, and headache and sore throat have traditionally presented for some people, a runny nose was rarely reported in earlier data. Meanwhile, loss of smell, which was originally quite common, now ranks ninth.
+There are a few reasons we could be seeing the symptoms evolving in this way. It may be because data were originally coming mainly from patients presenting to hospital who were therefore likely to be sicker. And given the higher rates of vaccination coverage in older age groups, younger people are now accounting for a greater proportion of COVID cases, and they tend to experience milder symptoms.
+It could also be because of the evolution of the virus, and the different characteristics (viral factors) of the Delta variant. But why exactly symptoms could be changing remains uncertain.
+While we still have more to learn about the Delta variant, this emerging data is important because it shows us that what we might think of as just a mild winter cold - a runny nose and a sore throat - could be a case of COVID-19.
+This data highlight the power of public science. At the same time, we need to remember the results haven't yet been fully analysed or stratified. That is, "host factors" such as age, gender, other illnesses, medications and so on haven't been accounted for, as they would in a rigorous clinical trial.
+And as is the case with all self-reported data, we have to acknowledge there may be some flaws in the results.
+Does vaccination affect the symptoms?
+Although new viral variants can compromise the effectiveness of vaccines, for Delta, the vaccines available in Australia (Pfizer and AstraZeneca) still appear to offer good protection against symptomatic COVID-19 after two doses.
+Importantly, both vaccines have been shown to offer greater than 90 percent protection from severe disease requiring hospital treatment.
+A recent "superspreader" event in New South Wales highlighted the importance of vaccination. Of 30 people who attended this birthday party, reports indicated none of the 24 people who became infected with the Delta variant had been vaccinated. The six vaccinated people at the party did not contract COVID-19.
+In some cases infection may still possible after vaccination, but it's highly likely the viral load will be lower and symptoms much milder than they would without vaccination.
+We all have a role to play
+Evidence indicating Delta is more infectious compared to the original SARS-CoV-2 and other variants of the virus is building.
+It's important to understand the environment is also changing. People have become more complacent with social distancing, seasons change, vaccination rates vary - all these factors affect the data.
+But scientists are becoming more confident the Delta variant represents a more transmissible SARS-CoV-2 strain.
+As we face another COVID battle in Australia we're reminded the war against COVID is not over and we all have a role to play. Get tested if you have any symptoms, even if it's "just a sniffle". Get vaccinated as soon as you can and follow public health advice.
+Lara Herrero, Research Leader in Virology and Infectious Disease, Griffith University.
+This article is republished from The Conversation under a Creative Commons license. Read the original article.

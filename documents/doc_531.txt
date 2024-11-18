@@ -1,0 +1,8 @@
+Brian D. Carlstrom wrote:
+At Stanford I have my own automated regression infrastructure that runs processor simulations remotely via ssh. One problem that has existed for months is this error from jbuild.linkImage:
+JVMXM008: Error occured while initialising System ClassException in thread “main” Could not create the Java virtual machine.
+I noticed that Sergiy Kyrylkov had posted in his blog about a similar issue when running JikesRVM regressions from cron:
+I found that if I forced the ssh remote bash to be a login shell, I did not get the error. Eventually I narrowed it down to the fact that /etc/profile was sourcing /etc/profile.d/lang.sh which was setting the LANG environment variable. I found that if I my remote command set LANG explicitly, I can build jikesrvm over ssh without the JVMXM008 error.
+I just wanted to post the workaround to the list in case it helps someone else. I don’t know if it is needed for later SDKs, but my version of JikesRVM seems to only work with 1.4.1, nothing earlier, nothing later.
+For the record, this is on Fedora Core 4 on G5 machines running IBM’s SDK 1.4.1-SR2 with a jikesrvm source tree from last updated at “2005-12-09 03:00:00”. We are frozen until after some paper deadlines this month…
+I hope I’ll have time soon to try this workaround on UNM machines.

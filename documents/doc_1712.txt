@@ -1,0 +1,43 @@
+Today I managed to finally get Perl to put and get messages to MQ Series. It’s something that I’ve been wanting to do for quite some time, but didn’t have the time or even MQ knowledge to do so.
+This post is intended for those who, like me, aren’t MQSeries gurus and can’t make much of the documentation of the MQSeries module in CPAN. I hope it serves you well and in the end you will be able to use MQSeries with Perl.
+Very VERY Brief introduction to MQSeries
+MQ Series (recently renamed Websphere MQ) is a messaging software developed by IBM. There is a client and a server piece to it.
+MQ Messages are transmitted between servers by means of queues. These queues are managed by Queue Managers. Queues can be configured to receive messages (input or request) and/or return messages (output or reply).
+The installation of MQ series is beyond the scope of this post, but it’s important to know that if you need to communicate with a queue manager installed in a local machine, you have to use one set of APIs (the server APIs), and if you want to talk to a remote queue manager, you’ll use the client APIs. This is important for later on.
+A MQ message is composed of 2 main parts: the MQ Message Descriptor (MQMD) and the Data portion. The MQMD portion works as a header where several fields can be set to tell the server how to handle the message. The fields we will be using in this tutorial are MsgId, CorrelId, MsgType, Expiry, ReplyToQ, and ReplyToQMgr.
+MsgId: Each message being sent into the server gets a unique Message ID. They never repeat, even when the server is restarted.
+CorrelId: The Correlation Id is how a reply message can be associated to a request message.
+MsgType: The kind of data you will be sending through the queues. We will be using a simple string format.
+Expiry: The amount of time that the server should keep the message in a queue.
+ReplyToQMgr: The name of the Queue Manager where the reply must be sent to.
+ReplyToQ: The name of the queue where the reply must be sent to.
+You will find more information about the fields and MQ Series in general at the MQSeries Application Programming Reference. I couldn’t find a link to the hardcopy at Amazon, but you can consider getting this one.
+Before.
+MQSeries CPAN modules.
+Writing your own MQSeries module.
+As the maintainer of the MQSeries module, I am very glad to see it get some publicity. I’d also like to mention that, after a few years of neglect, I’m getting back into module development and that a new release with support for MQ v7 is imminent.
+Thanks for your comment Hildo, I’m honored. Hopefully this post will help more and more people to use your module, since I personally found it very hard to find information on MQ targeted at the beginner. Most of the books and PODs seem to be for those who are already seasoned MQ programmers, and it’s what made it so difficult for me to use MQSeries module in the first place.
+After seeing so many horrible MQ related code during last years I can only thank you for this post and say that you just killed two birds with one stone: you proved that MQ code can be simple and elegant AND explained to us a handy Perl module to work with it. I wish people to aim more to this type of elegance and simplicity.
+[…] Perl and MQSeries for the faint of heart […]
+[…] Perl and MQSeries for the faint of heart […]
+Thanks Vinny, A great step-by-step tutorial and nicely documented.
+I have been searching the net to find any usage information for the MQSeries::Command module since a month now. All the forum questions about this module and unanswered for years (for eg. this one). The PODs seems to expect that I am an MQ developer. So did you have any chance to play with that one? because that would really really help.:
+but the sad thing is that MQSeries Perl extension doesn’t support pub/sub model
+Jawaid, are you sure? Hildo has MQSeries::PubSub available, although I never used it.
+Vinny, this was in ver 1.23. It has been deprecated in newer versions from 1.24 or 1.25 onwards. Latest version is 1.29 and there is still no support. Even I contacted with the author and he said it may be implemented in future versions but currently it is not supported.
+Thanks for the info. That’s very good to know. Version 1.30 is in the making… perhaps Hildo will add support to it.
+Hi, Vinny! Its very nice article, many thanks for u! I am going to use this one.
+Hi Vinny,
+Can you please provide a similar example for reading all messages from a queue and just printing the data portion (as opposed to writing a message to the queue that you have covered)?
+Hi McDonald,
+Have a look at this thread in PerlMonks:
+I think it has what you’re looking for.
+Cheers,
+Vinny
+Hi Vinny,
+Thanks for the link. It seems like it is for windows version of perl, since its using win32:: module? Do you know how I could accomplish the same using MQSeries PERL API for UNIX?
+OK, give this one a shot then:
+Vinny
+Hildo: any news on when support for MQ v7 will be available?
+Hi Jason,
+According to a message I received from Hildo in 2009, MQ v7 support should have started with version 1.30 of the module. Current version is 1.33 – is it still not supporting MQ v7?

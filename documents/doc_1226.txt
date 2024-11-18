@@ -1,0 +1,10 @@
+mkchromecast (0.3.9~git20200902+db2964a-2) [PTS] [DDPO]OK: VCS matches the version in the archive
+- Git:
+- Branch: debian/unstable
+- Path: debian/changelog
+- Browser:
+- Last scan: 2021-11-25 17:02:21+00
+- Next scan: 2021-12-01 20:25:00+00
+- Debian changelog in Git:
+mkchromecast (0.3.9~git20200902+db2964a-2) unstable; urgency=medium * Also drop .gitignore files not present in the tarball. * Work around a weird issue with mkchromecast.getch not being installed. -- Andrej Shadura <andrewsh@debian.org> Fri, 16 Oct 2020 08:47:59 +0200
+- This branch is even with tag archive/debian/0.3.9_git20200902+db2964a-2

@@ -1,0 +1,7 @@
+We talk to customers all the time that want to move to OpenStack, but the tools and processes they rely on just aren’t ready. Or the policies around their applications or data don’t support a true self-service cloud.
+Not wanting to be stuck with VMware for the rest of their lives, we talk to them about what I call “cloud blending.”
+Depending on what their tools and deployment processes look like today, some of the stateless, cloud-friendly components of their apps can be deployed to Cisco OpenStack Private Cloud, while leaving the scale-up or VMware-reliant (let’s call them “existing” instead of legacy), portions of their applications in the VMware environment.
+An example might be to leave your SQL Server database in VMware, but move your web or content tier that’s going through a modern overhaul to a load-balanced, auto-scaling OpenStack environment–freeing up those costly VMware licenses for other purposes.
+The response we often hear goes like this “Sure, but what about the processes I have in place to control my environment? Don’t those go away with OpenStack since everything is so self-service, where as today with VMware my teams control what happens?”
+The answer is, as always, “It depends.”
+Tags: cloud blending, Metacloud, OpenStack, Scott Sanchez, VMware

@@ -1,0 +1,44 @@
+na its a gallery site, there are thumbnails and stuff
+good link tho, i will be using that for other things :) tyvm
+Type: Posts; User: chopficaro; Keyword(s):
+na its a gallery site, there are thumbnails and stuff
+good link tho, i will be using that for other things :) tyvm
+im trying to make an art gallery site for my sister with free hosting, i need upload_max_filesize to be at least 3mb
+ive tried many free hosting services and they are all 1.5mb
+ive tried changing...
+lol ok sorry dont want to get u guys in trouble
+thats fine i have backups of everything, if they do that ill just try to find another hosting service
+it wont even be noticeable my sister has like 100 pieces of art she wants to show, and it will...
+i dont think the folder public_html exists actually
+im trying to make an art gallery site for my sister with free hosting, i need upload_max_filesize to be at least 3m
+ive tried many free hosting services and they are all 1.5m
+ive tried what these...
+<?php
+phpinfo();
+?>
+ok but suppose i override these values with an htaccess file or a second php.ini file. which values will be output
+ok well can i at least view the values in php.ini?
+how do i enable exec() in php.ini? where is php.ini? cant find it in the directories in my site.
+i installed the most popular chat mod on smf forums called ajax chat. i am certain i did everything correctly.
+but when i try to test it i get a 403 on byethost. ive also had problems with phpbb...
+i have a question about how relative links work
+i went to a particular website and saw that i was 2 subdirectories deep, that is i was at
+then i looked at the source...
+i thought i fixed that before i posted. i made sure it was fixed but still couldnt get it to work untill i used file_get_constants without a directory, so i guess i wont organize the samples into...
+this:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "">
+<html xmlns="" xml:lang="en"...
+ty got it lol, ive been reuploading the entire site to deal with this until now lol-
+if i set the cache to clear when closing then i can test my pages and be sure that im not testing a previous version? what is the variable called in about:config?
+look at all the stuff i turned off and firefox is still caching:
+thanks, ill try dreamweaver
+ive got a resume web site and i want to let my viewers click on a link to a particular code sample of mine to read. ive got .as files, .cpp files, .h files, .js files, ,php files, u name it, but...
+is there some software out there that would allow me to view all documents and folders at a web address?
+ty! works great!
+hmmm well i just found out that i could use the div tag and set the overflow to scroll, but that gets rid of my formatting, i like how the div tag fits though. so how do i keep my formatting? maybe...
+i want to make a block of text with scroll bars. so i used the pre tag. but all browsers automatically generate a line break before the pre tag of the same size as the font size inside the pre tag....
+i got it working in firefox but not IE, it just pretends to load forever
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "">
+<html...
+this isnt working, as soon as i change width and height to percents instead of pixels nothing appears
+also it would be nice if i could change the width based on the height instead of window width...

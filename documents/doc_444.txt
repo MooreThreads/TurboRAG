@@ -1,0 +1,32 @@
+Things used in this project
+Story
+Example 2 - IoT Device <----UDP----> Computer
+Where ssid is the identifier of the network and key is the security password. The Virtual WiFi network will grant access and allocate IP addresses to the devices which having correct ssid and key parameters. In this case, the computer hosting the Virtual WiFi network is assigned with the IP address of 192.168.137.1. The DragonBoard 410c and Raspberry Pi 3 after joining this WiFi network are also assigned with specific IP addresses.
+Example 2 - IoT device <----UDP----> Computer (LabVIEW)
+This example demonstrates application of using WiFi communication in transferring data between an IoT device and a computer via a local WiFi network. In the following diagram, the DragonBoard (or Raspberry Pi 3). It can also increase the data transfer rate in the network. The DragonBoard (or Raspberry Pi 3) can navigate its transmission to a specific device or broadcast messages to all devices in the WiFi network. On the computer side, a LabVIEW app is designed to listen and receive data from the DragonBoard / Raspberry Pi 3 and plot the temperature and humidity measurements. However, the app on the computer is not necessary written in LabVIEW. A simple C# UWP app modified from the following C# methods can execute in the computer and perform similar functionalities.
+DragonBoard/Raspberry Pi 3 – C# Methods
+To communicate and transmit the humidity and temperature measurements of the SHT21 to a computer, a C # App is designed to create a communication between the DragonBoard / Raspberry Pi 3 and a computer in a WiFi network. The app also communicates with the SHT21 sensor via the I2C interface to periodically acquire humidity and temperature measurement data. These measurement data are then combined into data packages and sent over the WiFi network to the computer. The following methods will be used to implement this example.
+1) Initialize WiFi communication
+2) Initialize I2C Communication of the SHT21 Sensor
+3) Periodically Request and Read Data from the SHT21 sensor
+4) Send Data to the Computer
+METHOD: Initialize WiFi communication
+To initialize the communication using UDP protocol, two important parameters of the incoming device need to be provided including the IP address (remoteHostName) and the UDP port ID (remotePortName). In this case, the WiFi network assigned an IP address of 192.168.137.1 to the computer assigned while the UDP port ID is defined by the application. However, it should be careful in assigning UDP port IDs to prevent conflicting with other UDP port IDs of other applications in the computer. In this example, the value 61556 is assigned to the UDP port ID of the DragonBoard (or Raspberry Pi 3) and 61557 is assigned to the UDP port ID of the computer.
+The DragonBoard (or Raspberry Pi 3) can broadcast data to all devices by setting the remoteHostName with the following IP address of 192.168.137.255.
+Full implementation of this WiFi communication initialization is available in the attached CONTROLLER.cs file.
+dragonBoard = new CONTROLLER(remoteHostname: "192.168.137.1", remotePortName : "61557"); InitNetworkUPD();_4<<
+_UPD method will take this data package and send it to the computer.
+dragonBoard.Send_UDP(sht21Package); }
+METHOD: Send Data to the Computer
+The SendUDP method is used to data simply by writing to the OutputStream object of the DatagramSocket using a DataWriter object.
+class CONTROLLER { public async void Send_UDP(byte[] ReadBuf) { writer.WriteBytes(ReadBuf); await writer.StoreAsync(); } }
+COMPUTER – LabVIEW App
+LabVIEW Introduction 3. This app adopts the Producer / Consumer pattern. Basically, this pattern consists of two while loops. The first while loop is called the Producer. In this example, the Producer is responsible for communicating with the WiFi network, receiving incoming data, and pushing data to a data queue structure. The second While loop is called the Consumer; it is responsible for pulling the data out of the data queue and processing. Using this Producer / Consumer pattern benefits applications that require compute-bound in which time to process data is often longer than the time it takes to receive data.
+Receiving incoming data from the UDP protocol in LabVIEW is not that difficult. As can be seen in the Block Diagram of the LabVIEW app, the UDP port ID is set to 61557. That is the port that the app opens up on the computer to allow data from DragonBoard / Raspberry Pi 3 to go through. While in the Front Panel of the LabVIEW app, the IP address of the DragonBoard is displayed as 192.168.137.124 and the UDP port ID captured (Remote Port) is assigned by the DatagramSocket object as 51893.
+In the second while loop (Consumer) of the LabVIEW app, the acquired series of 4 bytes is broken out to convert to the temperature and humidity values using the following formulas:
+REFERENCES
+1) TCP vs. UDP () } }
+Credits
+Replications
+Did you replicate this project? Share it!I made one
+Love this project? Think it could be improved? Tell us what you think!

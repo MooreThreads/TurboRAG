@@ -1,0 +1,26 @@
+Foldr v4.10.3 (October 2018) introduces support for the Nutanix Acropolis hypervisor (AHV) and includes a command line utility to assist with installing the Nutanix guest tools.
+Installation steps:
+1. Download the latest AHV appliance (Foldr-latest-AHV.zip)
+2. Extract the zip file. You will notice it includes a single vmdk file. This needs to be uploaded to the Nutanix host/cluster.
+3. Log into the Nutanix Prism web interface and select the settings cog icon >> Image Configuration
+4. Click + Upload Image button
+5. Give the Image a suitable name, selecting DISK as the Image Type and finally select Upload a file / Choose File under Image Source.
+6. Allow the image to upload. Once uploaded the image is then automatically ‘processed’ for several minutes and you will not be able to use the image until this operation has completed. Check the recent tasks icon to see the progress of these operations
+7. Now that the vmdk Image has been uploaded and processed, we can create the virtual machine itself. In the VM view, click + Create VM (top right)
+8. Give the VM a suitable name, and assign a minimum of 1 vCPU and 2GB RAM as shown.
+Scroll down and click + Add Disk – From the Add Disk dialog >> Operation section, select Clone from Image Service ensuring you have the correct Image selected and finally click ADD.
+Add at least one network connection to the VM by clicking the Add New NIC button
+When you are happy with the new virtual machine configuration, click Save.
+9. In the Prism VM view, and click Manage Guest Tools
+Enable and Mount Nutanix Guest Tools as shown below. Click Submit
+Power on the virtual machine and complete the initial first run wizard /configuration.
+To install the Nutanix Guest Tools, allow the system to boot up fully (a blue console screen will be displayed) and sign into the Foldr VM console, either directly through the Prism interface or by an SSH client such as PuTTY (SSH port 2082) – log in using default admin account:
+fadmin / password
+Issue the following command to begin the installation:
+install-nutanix-guest-tools
+Once the tools have finished installing, you should be placed back at the shell prompt
+Reboot the VM using either the power options in the Prism interface or the ‘reboot’ command on the console.
+The Foldr VM is now installed and can be configured from the Foldr Settings web UI, available at
+Get in touch and we'll be happy to assist you, [email protected]
+© Minnow IT. Registered in England and Wales with company number 07970411.
+Made with in Bristol, UK

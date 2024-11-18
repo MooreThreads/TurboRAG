@@ -1,0 +1,10 @@
+Article Title
+Media Literacy Education in the Age of Machine Learning
+Abstract
+The media environment has radically changed over the past few decades. Transition and transformation of media platforms has enabled algorithms and automation to take over media processes such as production, content generation, curation, delivery, recommendation, and filtering of information. It has also enabled tracking of users’ actions, data mining, profiling, and the use of computational and machine learning techniques for purposes like behavior engineering, targeted advertisement, spread of mis- and disinformation, swaying political moods, and many others. In the field of media literacy education, the need to understand algorithm-driven media requires educators to re-think the connections between media literacy education and computing education. This article provides an overview of some computational mechanisms of new media, and it provides new perspectives for media literacy education. The article suggests ways of intertwining media literacy education with computing education in order to improve students’ readiness to cope with modern media and to become critical and skilled actors to navigate in the new media landscape.
+Creative Commons License
+This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+Recommended Citation
+Valtonen, T., Tedre, M., Mäkitalo, K., & Vartiainen, H. (2019). Media Literacy Education in the Age of Machine Learning. Journal of Media Literacy Education, 11(2), 20-36.
+Included in
+Communication Technology and New Media Commons, Curriculum and Instruction Commons, Mass Communication Commons, Other Communication Commons, Other Education Commons

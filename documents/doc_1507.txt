@@ -1,0 +1,18 @@
+The Wishart Autoregressive process of multivariate stochastic volatility
+The Wishart Autoregressive (WAR) process is a dynamic model for time series of multivariate stochastic volatility. The WAR naturally accommodates the positivity and symmetry of volatility matrices and provides closed-form non-linear forecasts. The estimation of the WAR is straighforward, as it relies on standard methods such as the Method of Moments and Maximum Likelihood. For illustration, the WAR is applied to a sequence of intraday realized volatility-covolatility matrices from the Toronto Stock MarketÂ (TS: 167-181
+References listed on IDEAS
+Please report citation or reference errors to , or , if you are the registered author of the cited work, log in to your RePEc Author Service profile, click on "citations" and make appropriate adjustments.:
+-.
+- Robert Engle, 2002. "New frontiers for arch models," Journal of Applied Econometrics, John Wiley & Sons, Ltd., vol. 17(5), pages 425-446.
+-.
+- Stapleton, Richard C & Subrahmanyam, Marti G, 1984. " The Valuation of Multivariate Contingent Claims in Discrete Time Models," Journal of Finance, American Finance Association, vol. 39(1), pages 207-28, March.
+- Ang, Andrew & Chen, Joseph, 2002. "Asymmetric correlations of equity portfolios," Journal of Financial Economics, Elsevier, vol. 63(3), pages 443-494, March.
+- C..
+- Bollerslev, Tim, 1990. "Modelling the Coherence in Short-run Nominal Exchange Rates: A Multivariate Generalized ARCH Model," The Review of Economics and Statistics, MIT Press, vol. 72(3), pages 498-505, August.
+-, 2002. "Dynamic Conditional Correlation: A Simple Class of Multivariate Generalized Autoregressive Conditional Heteroskedasticity Models," Journal of Business & Economic Statistics, American Statistical Association, vol. 20(3), pages 339-50, July.
+- Andersen T. G & Bollerslev T. & Diebold F. X & Labys P., 2001. "The Distribution of Realized Exchange Rate Volatility," Journal of the American Statistical Association, American Statistical Association, vol. 96, pages 42-55,.
+- Serge Darolles & Christian Gourieroux & Joann Jasiak, 2006. "Structural Laplace Transform and Compound Autoregressive Models," Journal of Time Series Analysis, Wiley Blackwell, vol. 27(4), pages 477-503, 07.
+- Bollerslev, Tim & Engle, Robert F & Wooldridge, Jeffrey M, 1988. "A Capital Asset Pricing Model with Time-Varying Covariances," Journal of Political Economy, University of Chicago Press, vol. 96(1), pages 116-31, February.
+- Bru, Marie-France, 1989. "Diffusions of perturbed principal component analysis," Journal of Multivariate Analysis, Elsevier, vol. 29(1), pages 127-136, April.
+This item is not listed on Wikipedia, on a reading list or among the top items on IDEAS.
+When requesting a correction, please mention this item's handle: RePEc:eee:econom:v:150:y:2009:i:2:p:167.

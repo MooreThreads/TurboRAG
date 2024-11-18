@@ -1,0 +1,53 @@
+Free thinking - help needed...........
+There is something wrong with Radiative Forcing, but I don't know what yet.
+If you calculate 2.29 w/m2 then this effect is not enough to warm the oceans
+and melt ice at the rate that is a fact today. Then 23 w/m2 is needed
+Have the scientists used climate sensitivity=3 to derive Radiative Forcing ?
+Even with Radiative Forcing, one can sense an error that is an unimaginable factor of 10
+climate sensitivity=3 = error -> 36 = correct (factor 12 error )
+Radiative Forcing 2.29=error -> 23=right (factor 10 error )
+Or there are thought errors here.
+Radiative Forcing
+In a forecast where the temperature increases in the future, that energy must come from
+imbalance, the so-called "Radiative Forcing".
+We calculate the surface area of the Earth, as a slice seen from the Sun, and multiply by W/m2
+This effect primarily warms the oceans.
+There, we know the volume and we can estimate the amount
+of stagnant bottom water that is not heated.
+In the calculator you can see that Climate Sensitivity=3 (as claimed by the IPCC) so the time constant RC
+must be 25 years for the IPCC worldview to be consistent with NASA.
+Both of these figures are wrong.
+One can test Climate Sensitivity=40 which requires RC=720 years . Then there is harmony in the long run
+(VOSTOK) This is a weighty argument.
+More detectives are needed to solve this. Radiative forcing may become a
+evidential breakthrough.
+Here's what climate.gov says (NOAA The National Oceanic and Atmospheric Administration USA)
+You can estimate and check Radiative Forcing another way too: by looking at how fast the Earth is warming.
+NASA actually talks about how fast the earth is warming and this is last 5 years dTy= 0.032 C/year (=fact)
+The only heat that can warm the oceans is the heat that comes through Radiative Forcing.
+That is the imbalance in the atmosphere that comes from the greenhouse gases
+According to NOAA, it is more than 2.29 W/m2 and the Earth is always absorbing this heat around the clock. From the sun's point of view, it is a flat disk with a radius of 637 miles
+Now converting everything to m and kg, the calculation of Radiative Forcing looks like this:
+EarthRadius m = er= 6 371 000
+Ocean mass kg = okg= 1 386 000 000 000 000 000 000 000
+Temp Change per year = dTy=0.032
+Specific Heat Water J/kg*deg = sHW=4200
+cF=okg* dTy*sHW / (pi* er^2 * 365*24*60 ) =46 w/m2
+NOAA calculates 2.29 but it takes 46 w/m2 just to warm the oceans. Then more is needed to melt the polar ice at the current rate.
+But ice is such a small part of the energy requirement that this factor can probably be ignored.
+Assuming that half the ocean is bottom water which absorbs no heat, cF is 23 w/m2
+If cF is 2.29 or 23 w/m2 ???? climate experts can take many more factors into account and make a more accurate calculation using this method.
+In this way we are probably also approaching a point where we can dial in RC (the time constant between CO2 and real temp ) by looking at the energy balance with respect to the oceans. With a correct value of RC and a correct NASA curve 1960-2020, we lock in the climate sensitivity with great precision. (???)
+The calculator shows this relationship very clearly. Nothing would be more important for climate work than getting the correct figures on
+•Radiative Forcing
+•Climate Sensitivity
+•RC(year)
+Then the whole picture is solved and then climate policy is solved.
+Keep in mind: scientists were shocked that the permafrost thawed 70 years earlier than predicted.
+This suggests that the current basis of calculation is wrong.
+When will we get a true climate picture which in turn will lead to true innovations ?
+It is all about precise mathematics, knowledge and creativity.
+To schools, universities or climate enthusiasts who want to look at this.
+Join us and solve these issues ! I don't have the answers and there may be miscalculations here.
+This data will then be lifted up to the "Deep Seas" chapter, possibly in a javascript based calculator
+so that all parameters can be changed.

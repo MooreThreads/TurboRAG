@@ -1,0 +1,32 @@
+Version: 0.1.0
+Master build:
+This library gives you the tools to run a really lightweight heartbeat or ping server.
+It's useful for servers monitored by load balancers or services like Pingdom.
+It can be installed in whichever way you prefer, but I recommend NPM.
+$ throb -p 3000
+$ throb -hUsage: throb [options]Options:-h, --help output usage information-V, --version output the version number-H, --hostname [hostname] server hostname-p, --port [port] server port-t, --tls use TLS (SSL)-v, --verbose output request log
+You can use this library with your own
+http or
+https server.
+var throb = ;var http = ;var server = http;;
+You can even define your own endpoint URLs. You should define them as regular expressions.
+var throb = ;var http = ;var options =heartbeat: /^\/heartbeat/ping: /^\/ping/;var server = http;;
+The default behaviour of the server is to respond with a
+404 Not Found response
+if a request is made to an invalid endpoint. This behaviour can be modified or even disabled entirely.
+var throb = ;var http = ;var options ={// Handle 404s yourself};var server = http;;
+The server handles two types of request. Typically you would only use one of them.
+200 OKon success.
+200 OKand
+Pongas a plain text body.
+# Request ----->GET /heartbeat HTTP/1.1Host: localhost:3000# Response <-----HTTP/1.1 200 OK
+# Request ----->GET /ping HTTP/1.1Host: localhost:3000# Response <-----HTTP/1.1 200 OKContent-Type: text/plainPong
+I accept contributions to the source via Pull Request, but passing unit tests must be included before it will be considered for merge. Given the early stage of this project and the severe lack of current tests, this is a little hypocritical; but start as you mean to go on, etc.
+$ make install$ make tests
+If you have Vagrant installed, you can build the dev environment to assist development.
+The repository will be mounted in
+/srv.
+$ vagrant up$ vagrant sshWelcome to Ubuntu 12.04 LTS (GNU/Linux 3.2.0-23-generic x86_64)$ cd /srv
+The content of this library is released under the MIT License by Andrew Lawson.
+You can find a copy of this license at or in
+LICENSE

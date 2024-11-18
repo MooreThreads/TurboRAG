@@ -1,0 +1,17 @@
+After creating test case and completing a suite, if you have no need on crossbrowser testing when it comes to testing process, you can start your function testing directly in webview.
+1 Webview
+Webview built in Lemonce Editor is essential for function testing.
+1.1 Tool Bar
+The whole toolbar is shown below. The address input box is in the middle, which you can enter URL in and press on your keyboard to jump.
+- Back / Next Back/Forward to the previous/next page.
+- Homepage Back to homepage (The default is
+about:blank).
+- Refresh Refresh the current page.
+- Debugger Developer tool is a debugger for testers or developers with certain coding ability.
+1.2 Open Webview
+Only the webview is opened, can function testing get started. There are two ways to open webview.
+- Automatically No matter in case or suite editor, click button, Lemonce Editor will get splited and the webview will be opened automatically at the same time.
+- Manually Click button to open webview in the side bar,.
+2 Start testing
+Click button and Lemonce Editor will default to start your testing in webview.
+You can display different panels below the editor region for output or debug information or errors and warnings. After the test ,you can check your test report.

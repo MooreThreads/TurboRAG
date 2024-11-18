@@ -1,0 +1,37 @@
+After Installing the PowerShell Power BI Management cmdlets a few months back, I finally managed to get a dataset refresh working, initiated from PowerShell with a Service Principal. Yeej :-)
+Congrats on getting this done! Would you write a blog about this adventure? 🙂— Chuy Varela (@chuy_varela_) June 12, 2020
+But as you can imagine, it didn't go without a fight (or 2, or maybe more), so I thought it would probably be good to share my experiences so you don't fall in the same traps as I did.
+Use case
+At Van Lanschot Kempen, we are doing daily refreshes of the corporate DWH, connected datamarts and extraction marts after that, all on-premises. Then the Power BI data models are refreshed on a time trigger (say 10 AM) to refresh the data from the datamart to Power BI. We would like that dataset refresh to be event-based. So whenever the datamart is refreshed, immediately refresh the corresponding Power BI dataset.
+Setup
+To get this working I've used the greatest part of this post How To Trigger A Power BI Dataset Refresh Using An Azure Data Factory Web Activity by Dave Ruijter (blog | @DaveRuijter). Although that's aimed at Azure Data Factory, most of the (setup) steps still apply to my scenario. But as you will see, others don't :-)
+Permissions
+At my company, I am the Power BI Service Administrator (and Power Platform Admin), so I have sufficient rights in the Power BI Admin Portal, but not in Office 365. So I needed the help of other colleagues who do have these rights.
+Make sure that you have the right people aligned, or at least know where to go in case you need anything, before you start.
+Steps taken
+I'll outline the steps I took here to have a complete list of things I did to accomplish my setup. Again, for detailed explanations per step please visit Dave's blog post:
+- Create a Service Principal and also create a secret with that
+- Create an Azure Active Directory (AAD) group and add the Service Principal from Step 1
+- Enable the tenant setting for Service Principals and add the group from Step 2
+- Create a (V2!) Power BI workspace (or use an existing one)
+- Add the Service Principal as an Admin to the workspace
+- Use PowerShell to refresh a dataset
+I think Step 6 actually deserves a chapter of its own, while it looks so easy afterwards, I think I struggled with this for more than 20 hours over a few weeks time.
+Especially because Dave's setup uses ADF, the authentication to the REST API threw me off..
+You can also get the code from my Github page.
+As evidence, I also queried the REST API to show the refresh history :)
+Next steps
+At this time I do have a working solution, executing the script manually, with my secret in plain text. So there are still a few things to have a look at, which I haven't had the time for yet unfortunately:
+- Add the PowerShell script to a SQL Agent Job step, which is the specific use case for me
+- Make the solution secure, so don't save sensitive data inside the script or on a server
+- One option is to use parameters in SSIS as Brett Powell explains in his post
+- I'd like to investigate if I can use the Azure Key Vault from a SQL Agent Job and store the secret there, I'll probably have to authenticate to the Key Vault with the Agent user running the job
+- Incorporate the success of the refresh itself into the solution as a step, so I can take action if it fails
+Let me know if you have any comments, or know how to improve certain steps of this process :)
+Resources
+- PowerShell script on my GitHub page
+- Dave Ruijter's post: How To Trigger A Power BI Dataset Refresh Using An Azure Data Factory Web Activity
+- Brett Powel's post: Refresh Power BI Datasets With PowerShell
+- Power BI PowerShell commandlets: MicrosoftPowerBIMgmt.Profile
+- Power BI REST APIs documentation
+- Azure Key Vault REST API reference

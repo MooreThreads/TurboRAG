@@ -1,0 +1,38 @@
+Hi Team
+we are getting the below error
+transport res: 28 respCode 150. transport error: Timeout was reached. transport error buffer: Operation timed out after 6251000 milliseconds with 4669080 out of 11438099 bytes received. 041943.084|cfg |4|01|Could not get all 11438099 bytes of the file (got 4669080 bytes) 041943.084|cfg |4|01|Prov|File 3111-40000-001.sip.ld failed to download
+Part Number - 2201-40000-001
+Polycom IP 7000
+MAC address - 0004f2f9a9c1
+Please guide us with the correct UC Software and Bootrom version for this phone
+Hello Bivin VIjai,
+welcome back to the Polycom Community.
+Please ensure to provide some feedback if this reply has helped you so other users can profit from your experience.
+Best Regards
+Steffen Baier
+Polycom Global Services
+Hi Team,
+we are getting error after rebooting .The is in the wtaing of network status .
+SIP Software Version 3.3.0.1098 BootROM Software Version 4.3.0.0246
+FTP server in Linux - VSFTPD
+Hello Bivin VIjai,
+This is a really old software so please upgrade as described here:
+Oct 7, 2011 Question: How can I setup my Phone / Provisioning / Download / Upgrade / Update / Downgrade Software?
+Resolution: Please check => here <=
+Please ensure you include the updater / upgrader
+For any further issues please work with FVC who we shipped the phone to back in September 2015
+Please ensure to provide some feedback if this reply has helped you so other users can profit from your experience.
+Best Regards
+Steffen Baier
+Polycom Global Services
+Hi Team,
+Please note i tried to upgrade the 7000 using the link provided and refered the section 'Updating to UCS 4.x.x:'
+I have used the below files to upgrade the phone
+1) Polycom_UC_Software_4_0_7_rts18_I_release_sig_split.zip
+2) SoundPoint_IP_BootROM_4_4_0B_Upgrader_release_sig.zip
+But still getting the below error. Can you please guide how to proceed with.
+031105.285|copy |3|01|transport res: 18 respCode 150. transport error: Transferred a partial file. transport error buffer: transfer closed with 10732627 bytes remaining to read. 031105.285|cfg |4|01|Could not get all 11438111 bytes of the file (got 1578260 bytes) 031105.286|cfg |4|01|Prov|File 3111-40000-001.sip.ld failed to download 031105.290|app1 |4|01|Error downloading 3111-40000-001.sip.ld 031105.291|cfg |4|01|Prov|Provisioning failed
+Hello Bivin VIjai,
+I am unsure why you chose that specific file when UC Software 4.0.11 is the latest to utilize but as it is the split version of it the file you showed in the logs should be there.
+I can only imagine that your server is not setup correctly.
+I suggest you work with FVC to get this resolved.

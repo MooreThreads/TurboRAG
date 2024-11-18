@@ -1,0 +1,18 @@
+MutationTaster statistics
+Protocols
+MutationTaster specifications
+Publications for MutationTaster
+MutationTaster citations(1017)
+Mutations in six nephrosis genes delineate a pathogenic pathway amenable to treatment
+[…] for all the identified mutations in the exome aggregation consortium (exac) and the genome aggregation database (gnomad) along with their prediction scores using mutation taster () and polyphen 2 () in silico tools. as a negative control, we performed screening for all variants that we detected in the ptsns patients […]
+Germline mutation in the TP53 gene in uveal melanoma
+[…] clinical significance and ensemble prediction scores from the clinvar database, cosmic database, and dbnsfp database (metasvm, metalr, rs_dbsnp141, sift, polyphen2_hdiv, polyphen2_hvar, lrt, mutationtaster, mutationassessor, fathmm, provean gerp++, phylop46, siphy) were imported to nextgene mutation report (supplementary table )., mutant allele frequencies for atm aberrations […]
+Association of IL17RC and COL6A1 genetic polymorphisms with susceptibility to ossification of the thoracic posterior longitudinal ligament in Chinese patients
+[…] sequencing (wgs) study of 30 unrelated northern chinese han patients, four different algorithms [including sift() [], polyphen-2 () [], mutationtaster () [], and gerp++ () []] were used to predict deleterious variations at different snp loci. we found […]
+Copy number variants implicate cardiac function and development pathways in earthquake induced stress cardiomyopathy
+[…] haplotypecaller. this included de novo assembly at each potential […]
+A case of Raine syndrome presenting with facial dysmorphy and review of literature
+[…]) […]
+Next generation sequencing reveals a new mutation in the LTBP2 gene associated with microspherophakia in a Spanish family
+[…] this software uses the following relevant prediction tools: i) splice site finder-like, maxentscan, nnsplice, genesplicer, human splicing finder and ese for splicing prediction ii) align gvgd, sift, mutationtaster, polyphen-2 and kd4v for missense prediction., to check all the variants detected in this study the exac, the 1000 genomes project and the csvs (collaborative spanish variant server) […]
+MutationTaster review

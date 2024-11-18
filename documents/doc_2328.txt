@@ -1,0 +1,44 @@
+The main point of participation in the Activy competition is to have fun through movement. To do this, you need to make sure you have the right conditions to record your activities. You must therefore set up the device responsible for recording your route accordingly. Otherwise, your activities may or may not be recorded correctly and your score will not be included in the challenge ranking.
+Below you will find a short guide to this. Remember, your phone settings should be adjusted before you start in the challenge, preferably a day or a few hours before! So that you have time to solve any problems.
+Integration with external devices and applications: Garmin, Polar and Strava.
+You need to use GPS data to save your activity, and you can do this in four ways:
+- in the Activy app
+- in the Strava app after connecting the account with Activy
+- with a Garmin or Polar device when combined with Activy
+- with other devices if they connect to Strava and you connect Strava to Activy
+To connect external applications to Activy, go to Activy Settings and find an option to connect to your application or device.
+However, if you use your phone and the Activy app to record an activity, you must adjust the phone settings in the right way.
+1. Launching the App
+To properly configure the application start-up and GPS operation settings, enter the application settings and press "Customize settings on your phone". Then follow the instructions displayed in the application to adjust the settings.
+2. Location settings
+This is the basis without which the application won't receive GPS samples from the phone. Activy immediately after installation or on the first route asks for permission to access the location. If you do not know whether you have granted access or changed settings, two routes are possible:
+Go to: Settings > Applications > Activy > Permissions > Enable for location
+or
+Settings > Location > Permissions > Search for Activy and enable: Settings > Applications > from the menu in the upper right corner of "application permissions" > location > search for Activy and enable
+Enable "high accuracy location" mode
+Make sure that in your phone settings in the Location or Privacy section, you have high accuracy location enabled. This is essential :)
+3. Phone battery settings
+Incorrectly configured phone battery settings are one of the most common reasons for cutting the route, turning off the application during activity or not recording the route in any way.
+To prevent such problems, turn off your phone's battery/energy saving settings, battery management systems, battery optimisation, and any external application to optimise power consumption.
+Each phone has different options and factory settings, so the way to solve the problem may vary from brand to brand.
+Samsung: Settings -> Apps -> Choose the three dots (the icon in the top right corner) -> Special Access -> Optimize battery usage -> Find Activy on the list and make sure it’s selected
+Huawei:
+Change battery settings to normal (switch off saving modes) and grant Activy permission or switch off automatic settings for the application
+Settings > Applications > Advanced > Ignore optimizations > Find in the Activy list and select "allow"
+HTC: Settings -> Power -> Battery optimization -> Choose "Activy" -> Select "Don't optimize" -> Done
+Xiaomi MIUI:
+Settings > Additional settings > Battery and Performance > Manage application battery consumption > Select "Applications" and then "Activy"
+Settings > Additional Settings > Privacy > Location and make sure you allow applications to access your location and use "High Accuracy" location
+Sony: Settings > Battery > Select "(...)" in the upper right-hand corner of the menu and click "Battery optimization" > Select "Applications" > Select "Activy"
+LG: Settings > Battery and power saving > Select "Battery consumption" > Disable optimization > Enable ignoring battery optimization for Activy
+One Plus: Settings > Battery > Battery optimization > Go to "list of all applications" > Select Activy and "do not optimize" options
+Motorola: Settings > Battery > click menu in the top right corner > Battery optimisation > select "do not optimise" and "all applications" > Find in the Activy list and select "do not optimise"
+4. Background application settings
+Remember to allow the application to run in the background. Otherwise, when you hide your phone to start activity, the application may stop working or receive GPS locations from your phone.
+You can usually find permissions to operate in the background in your phone's settings under Location or in the permissions for the application.
+You can check it out on Huawei phones as follows:
+1) Come in: Settings -> Applications and notifications -> Applications -> Activy -> Battery -> Start-up -> Switching automatic management to manual - this allows you to run applications in the background
+After the above steps have been taken, your phone should not cause any problems with recording your activity during the challenge. However, if there are any more difficulties, please refer to the Activy application FAQ section.
+In case of any problems, we also encourage you to read the guide at, which explains how to deal with automatic closing of applications by phones of different brands.
+Remember that you can always write to contact@activy.plcontact@activy.pl where the Activa team will try to help you :)
+So there's nothing left to do but to put on the right outfit, start the app on your phone or watch and go into battle for the best position in the challenge! Good luck! :)

@@ -1,0 +1,39 @@
+We believe that calculating or drawing graph should be as intuitive as handwriting, without overhead in user input and complex syntax. For example, normally we write "sin2x" on paper, optimized keyboard, axis label, function legend, color picker and formatted math formula ready for productive use. Resulting graph and math formula can be sent by email to put into homework, shared with friend on Facebook, Line or Google+.
+Newton Graphing Calculator features numerical calculator, equation solver with step by step solution and live preview while inputting. Last session input is restored upon startup.
+- Require media access permission, to store captured graph for sharing
+- Require internet access to display economic data & stock price
+- Online help
+2D GRAPH
+• Plot explicit function e.g. y=sin2x+2cosx
+• Plot implicit function e.g. sin(x2+y)=exp(-xy)
+• Plot parametric function e.g. x=sin2t/(1+t2) y=cos2t/(1+t2)
+• Plot polar function e.g. r=1+2cosθ
+• Plot multiple functions e.g. f=3sint/(1+t2) g=2cost/(1+t2)
+• Plot multiple parametric function
+• Support discontinuity e.g. y=tanx
+• Variable name can be any symbol including Greek symbol
+3D GRAPH
+• Plot explicit function e.g. z=2sinx/(1+y2)
+• Plot implicit function e.g. x2+y2+z2=1
+• Plot contour curve of explicit function e.g. z=2sinx/(1+y2)
+• Plot parametric function e.g. x=sinv cosu y=sinv sinu z=cosv
+• Plot multiple functions e.g. f=cosu sinv g=ucosv
+• Plot multiple parametric function
+• Plot 3D curve x(t) y(t) z(t)
+• Variable name can be any symbol including Greek symbol
+SCIENTIFIC CALCULATOR
+• Integral e.g. y=sin2x -> ∫sin2xdx = -cos2x/2
+• Derivative e.g. y=sin2x -> y' = 2cos2x
+• Solve linear equation e.g. 6x+4=8
+• Algebra, complex number, polynomial, rational function, 2D and 3D space, Newton-Raphson method
+• Scientific : pow sqrt root3 root4 abs exp log ln
+• Trigonometric : sin cos tan cot asin acos atan acot
+• Hyperbolic : sinh cosh tanh coth
+• Complex number e.g. (2i+1)(3i-1) ln(3i+4)
+KNOWLEDGE
+• Display stock price e.g. "google stock", "ibm apple stock"
+• Display economic data e.g. "nordic gdp", "asia population", "europe unemployment", "asia cpi", "china japan gdp per capita"
+• Play sudoku puzzle: Try "sudoku cake", "sudoku", "sudokuton Graphing Calculator Pro
+There are no reviews yet.
+Submit Your Review
+This is for reviews only. If you want to post suggestions or comments, ask questions, or need help, please post in the discussion forum.

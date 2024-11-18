@@ -1,0 +1,7 @@
+moving databases
+when i signed up for my hosting account (godaddy.com) they installed wordpress for me..that sounded great until i realized the database is stored in a virtual directory…thus i have no access to my tables if i need to modify them, etc…
+i contacted them and they said they’d be more than happy to move the tables to my mysql that is part of my account…all i need to do is “correctly map the connection string to the database” and all will be right..
+so my question is, how do i do that? is that something i do through wordpress or via phpmyadmin? if they move the database from the virtual directory to my database, will my blog still work? i don’t wanna start all over from the beginning if i can avoid it….
+Viewing 4 replies - 1 through 4 (of 4 total)
+Viewing 4 replies - 1 through 4 (of 4 total)
+- The topic ‘moving databases’ is closed to new replies.

@@ -1,0 +1,15 @@
+Ask a database vendor what they want to talk about next and odds on they'll say "big data and analytics" pretty quick. Ask a middleware or infrastructure software the same question, you'll probably get the same answer.
+Actually, if you ask a cloud hosting provider, a storage specialist, a Business Intelligence vendor or a data warehousing company what matters most right now and they will all probably tell you ...
+... big data and analytics is set to be a game changer.
+But should we grace these industry-wide machinations with our credence?
+Technology analysis firm IDC has estimated that the world's data is forecast to grow 50 times by 2020 and, if we are honest with ourselves, that may be an underestimation.
+Oracle's OpenWorld and JavaOne kicks off today in San Francisco. Right after Larry Ellison's keynote and the other VP's (aka "veeps") also get to tag-team keynote before and after him, we start to get to the first general sessions. Guess what the first one is called?
+11:45 a.m. Database General Session Moscone, Hall D Big Data: What's Next for Oracle Database? Andrew Mendelsohn, Senior Vice President Database Server Technologies, Oracle.
+It's conference season, it's big data analysis season. The two can not be separated.
+Last week we had TIBCO's TUCON symposium and here again we heard discussion centred around companies' needs to "transform their businesses using the intelligence buried in big data" as they address the "storage and access challenges around the volume, variety and velocity of big data" on a day-to-day basis.
+You could almost write a standard script for this sector of the IT industry right now. We're running out of words to say the same thing.
+TIBCO for its part did have a solid product announcement in this space in the shape of its Spotfire 5.0 data discovery and analytics platform. The new release is said to include a "completely re-architected in-memory engine" to help "visualise and interact" with massive amounts of data.
+Spotfire 5 executes complex calculations in-database with Teradata, Oracle, and Microsoft SQL Server, it also reside and then visualise the results. These capabilities are exactly what enterprises are looking for to be able to discover the value hidden in their data," he added.
+Who will benefit from big data analysis?
+These analytics tools are thought to be of most use in high tech manufacturing, consumer packaged goods, retail, life sciences and financial services. The concept here is simple, better information allows organisations (and doctors when it comes to life sciences) make more informed decisions.
+This is what big data did (and is doing) next and the real world human benefits to our medicine may well yet prove to be the most amazing and wonderful aspect.

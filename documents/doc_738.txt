@@ -1,0 +1,14 @@
+ condensed Unicode to UTF-8 in Java, we use the getBytes() method. The getBytes() method encodes a String into a sequence of bytes and returns a byte array.
+Declaration - The getBytes() method is declared as follows.
+public byte[] getBytes(String charsetName)
+where charsetName is the specific charset by which the String is encoded into an array of bytes.
+Let us see a program to convert Unicode to UTF-8 in Java using the getBytes() method.
+public class Example { public static void main(String[] args) throws Exception { String str1 = "\u0000"; String str2 = "\uFFFF"; byte[] arr = str1.getBytes("UTF-8"); byte[] brr = str2.getBytes("UTF-8"); System.out.println("UTF-8 for \\u0000"); for(byte a: arr) { System.out.print(a); } System.out.println("\nUTF-8 for \\uffff" ); for(byte b: brr) { System.out.print(b); } } }
+UTF-8 for \u0000 0 UTF-8 for \uffff -17-65-65
+Let us understand the above program. We have created two Strings.
+String str1 = "\u0000"; String str2 = "\uFFFF";
+String str1 is assigned \u0000 which is the lowest value in Unicode. String str2 is assigned \uFFFF which is the highest value in Unicode.
+To convert them into UTF-8, we use the getBytes(“UTF-8”) method. This gives us an array of bytes as follows −
+byte[] arr = str1.getBytes("UTF-8"); byte[] brr = str2.getBytes("UTF-8");
+Then to print the byte array, we use an enhanced for loop as follows −
+for(byte a: arr) { System.out.print(a); } for(byte b: brr) { System.out.print(b); }

@@ -1,0 +1,19 @@
+You are here
+innodb_checkpoint_age in plain MySQL?
+Sat, 2014-12-27 15:45 — oli
+In Percona Server we have a
+Combined size of InnoDB log files defines how many changes not reflected in the tablespace we may have where
+In Percona Server we have a
+STATUS variable indicating roughly possible recovery time:. [ InnoDB crash recovery speed in MySQL 5.6 ]
+These numbers are not available in plain MySQL. How can we calculate this value in plain MySQL?
+Taxonomy upgrade extras:
+InnoDB Checkpoint age
+Looking at Percona Server source code we can find the following:
+Looking at the code we can see how output of
+SHOW ENGINE INNODB STATUS\Gis produced:
+Further looking at the output of
+SHOW ENGINE INNODB STATUS\Gwe can see how those values are gathered:
+Benchmarks of Percona have shown recovery speed of 4 - 8 Mbyte/s (CPU and/or I/O bound).
+Another rough indication would be the number of dirty blocks and bytes
+Innodb_buffer_pool_pages_dirtyand
+Innodb_buffer_pool_bytes_dirty.

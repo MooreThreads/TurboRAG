@@ -1,0 +1,23 @@
+platform, even you can develop your very own Android apps with nothing but a computer and a device to test it it. Have you ever considered developing your very own Android app? Today, we’ll show you how to do just that!
+1. The Basics
+Android development is not any different from any other kind of development environment: you need to write code, study the APIs and be familiar with the platform and language. Android uses Java as its main language for app deployment, so you need some experience with that to begin with. There is no magical way to learn how to code, but Android is a good place to learn and Java is a very strong and easy to learn language, so it’s as good as place to start as any. As with anything, repetition and studying is the key to success, and I’m certain you could become a capable coder using Android as a basis. This is just a simple tutorial to get you started by setting up a development environment, but you’ll have to learn and follow the tutorials by yourself. Don’t worry, we’ll provide you with the links and resources for more information later.
+2. What You’ll Need
+Here’s what you will need for setting up an Android development environment: first, download the Android SDK (Software Development Kit) by clicking here. You may also want to consider downloading Android Studio instead, which is the upcoming default editor for Android with enhanced capabilities and performance over the current solution. Still , the basic SDK will do just fine. Once the download is done, unzip the file and extract the contents somewhere. Next, you’ll need to download the Java Development Kit, or JDK, by going into this address. Once the download is finished, execute the file and install the JDK. That’s about all you need!
+3. Setting It All Up
+Once you have downloaded all of the above, go into the folder where you extracted the Android SDK, and look for “SDK Manager.exe”:
+Run it and you should see a window pop out with a bunch of selectable icons. This is the tool used to download specific SDK revisions and tools: you just pick what you want and the tool will fetch it for you. Right now, you should probably select the whole 4.4.2 section (meaning, you’ll be developing for the KitKat platform). After you’re done selecting it, click the “Install Packages” button and a window should pop out letting you know of everything you’re going to download:
+You need to accept all items before downloading. Once you do, the window will disappear and your selection will start downloading:
+When it’s finished, close the SDK Manager.
+4. Running the IDE
+Now you can run Eclipse, the default Android IDE (Integrated Development Environment – basically a fancy tool to help you write code). Navigate to the “eclipse” folder and run “eclipse.exe”. You’ll have to do a little set up here as well, but nothing major. To start with, select a location for your workspace (the place where your work will be stored). Then, you’ll see the main UI of Eclipse. Before you really sink your teeth into it, you should go to Help>Install New Software:
+and then click the “Add” button, which will prompt this window to appear:
+In here, add the following values: give the “name” section anything you want (for example “Android”) and fill the “location” with “”. Once the window becomes populated, select only the “Developer Tools” option:
+Progress and ignore any warnings you may encounter: all this does is install an Eclipse plugin to aid development even further. Once you’re done with that, you should have a proper environment to start making your own apps! You can now start your very own new Android project and use this application for developing your code.
+5. Learning Resources
+Of course, this is just a brief tutorial on setting up the needed tools to start development. If you really want to learn how to code and how Android works, you’ll need to do some reading in the meantime and get familiar with the language and platform. Google’s documentation and tutorial are pretty robust, so you should start with those (first link). Here’s a few resources for learning more:
+Getting Started With Android Studio
+Android Application Development
+Carlos S.
+- How To Add A New User To Your Android Device - May 8, 2017
+- How To Get Your Android Device’s Information - April 30, 2017
+- How To Enable Privacy For Your Screen On Android - April 23, 2017

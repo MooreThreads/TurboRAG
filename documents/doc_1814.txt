@@ -1,0 +1,17 @@
+RFE: Conference Listings
+This service is a joint project of RFE and EconBiz.
+Toulouse School of Economics
+- Dates:
+- December 14-15, 2009
+- Description:
+- 1st French Econometrics Conference in Toulouse Celebrating Alain Monfort Contribution to Econometrics
+- Location:
+- Toulouse, Universit? Toulouse 1 Capitole, Manufacture des Tabacs, France
+- Subject:
+- Preliminary program:Session I.- Coherency Conditions: Thirty Years Later- Generalized Method of Moments with Tail Trimming- Towards Identi??cation of Shocks in State-Space Models: Application to Stochastic VolatilitySession II.- Habit, Long Run Risks, Prospect? A Statistical Inquiry- Effcient Likelihood Evaluation of State-Space Representations- Applications of Nonlinear Filtering Methods to EconometricsSession III.- Modelling Health Care Expenditure Using Fourth Order Pseudo Maximum Likelihood Method- Endogeneity in Dynamic Models- Wald Tests When Rank Conditions Fail: A Smooth Regularization ApproachSession IV.- Econometric Analysis of High Dimensional VARs Featuring a Dominant Unit- Modelling Financial Contagion with Mutually Exciting Jump Processes- Persistence, Risk Premia and Shock PropagationSession V.- Funding Liquidity, Crises and Hedge Fund Risk- On the Univariate Representation of Multivariate Volatility Models with Common Factors- Granularity AdjustmentsSession VI.- A Parametric Bootstrap for Heavy-Tailed Distributions- Matching with Trade-o??s: Revealed Preferences over Competing Characteristics- Inference in Conditional Moment Restrictions Models in the Presence of Censoring on the Dependent Variable- Identi??cation of Mixture Models Using Support VariationsSession VI.- Business Cycle Fluctuations of Wage Inequality- Educational E??ects of Parents' Involvement in Schools : A Large Scale Randomized Experiment- Human Capital Accumulation and Wage Dynamics in France- ML Estimation and LM tests for Panel SUR with Spatial Lag and Spatial Errors: An Application to Hedonic Housing Prices in Paris- The Distinction Between Incentive and Dictatorial Policy Interventions in IV Estimation- Cyclicality and Term Structure of Value-at-Risk in Europe[gem?_?? den Informationen des Anbieters - according to site editor's information]
+- Notes:
+- JEL Code:
+- C
+- Sponsor:
+- URL:
+-

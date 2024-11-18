@@ -1,0 +1,99 @@
+The Game Programming Language (GPL)
+Tyson Henry
+Department of Computer Science
+California State University, Chico
+trhenry@csuchico.edu
+Summary
+The Game Programming Language (GPL) is an object-based language for specifying graphical interactive games. It was developed specifically as a project for a compiler construction course in which students write a GPL interpreter. It is expressive enough that it can be used to describe an interesting set of games, but simple enough that it is very easy to learn. It is particularly well suited for implementing early video games (
+circa
+1970's). Students have used it to write simplified versions of dozens of
+games
+including:
+Pong
+, Space Invaders,
+Centipede, Break-Out, Frogger, and Pac Man. The interpreter is small enough that most students at Chico State can write it in a single semester.
+The language is based around animated graphical objects called game objects. Each game object has a geometry (e.g. a rectangle) that is parameterized by a set of attributes (e.g. color, size, location), and a code block, called an animation block, that changes its attributes. It provides definitions for triangle, rectangle, circle, pixmaps, and text-box game objects. Game object attributes can be initialized at instantiation time and modified at run time. (See the
+GPL Programmer's Manual
+for complete description of the language.)
+Students implement the interpreter in eight phases during a 15 week semester (see
+Project Description
+below). Similar to many modern interpreters, it has the front-end of a compiler (lexical, syntactic, and semantic analysis) and the back-end of a traditional interpreter (program execution). Students were given the choice of working independently or with one other student.
+Students are provided with C++ classes that encapsulate all the graphics, event handling, and window creation. Thus no graphics or windowing knowledge is necessary.
+The project has been used for three semesters. Most students like the project. Many report learning more from it then they have in any other course project. Several students remarked on the usefulness of the interpreter; they felt they had built something meaningful that they could use. On average, students felt the project was more fun, more exciting, and more engaging than previous course projects.
+Topics
+The primary topics are compiler construction topics. Students learn how to build the front end of a parser. However, in our curriculum it also severs as an advanced programming course. For many students this is the first large project they have done and thus students often report learning more in this class then any of their previous programming classes.
+Audience
+Junior/Senior Computer Science majors at a typical teaching university.
+Difficulty
+Sixty percent of students at Chico State report this project as the most difficult of any class project they have ever done. Another 30% rate it as one of the hardest. About 60% complete the project or come very close to completing it. Most of the remaining students were only a few weeks from completion.
+Strengths
+The most important lesson students take away from this project is that it is feasible to invent a domain specific language. Most students believe they will never get a job writing a compiler and thus don't feel compiler construction courses have much value. This project teaches them the wide applicability of compiler construction technologies. At the end of the semester, most students are confident that they can use this technology to solve problems, that is develop a new domain specific language and write an interpreter for it. The ability to use a language to solve problems is a valuable career skill.
+Weaknesses
+This is a large and complex project. Students must devote significant time in order to complete it in a single semester. It requires about 12 lectures to fully explain the project. The project does not touch on the compiler construction topics of code generation and optimization. These are important topics and it would be good to include them.
+Dependencies
+This assignment requires that students are proficient C++ programmers and have a good understanding of object-oriented programming. There are instances where the reference chain is several levels deep. Students without a strong understanding of pointers and objects have a difficult time comprehending the long reference chain. I provide students with C++ classes that encapsulate all the graphics so the only graphics programming skill necessary is to be able to place objects in a window by setting their x and y values. Students have no trouble with this.
+Variants
+GPL was designed to facilitate the implementation of the interpretor. For example, it has a single global scope and does not support functions. It would be possible to increase the scope (and difficulty) of the project by extending the language.
+The current project does not have any code generation. In order to include code generation, the project could be altered so that students build a compiler which generates a custom byte-code instead of an interpreter. This would require that the byte-code be designed and an interpreter be written for the students.
+Project Description
+The project is broken into eight phases that fit well into a 15 week semester:
+Due
+Title
+Description
+Handout
+2
+nd
+week
+Expression Parser
+Warm up exercise to learn flex/bison (GNU versions of lex/yacc)
+Phase 1
+3
+rd
+week
+A GPL Game
+Warm up exercise to introduce the language
+Phase 2
+4
+th
+week
+Scanner & Parser
+Build the scanner using flex and a skeleton of the parser using bison
+Phase 3
+6
+th
+week
+Symbol Table
+Implement a symbol table
+Phase 4
+9
+th
+week
+Expressions
+Implement a C++ tree structure to hold expressions and add actions to parser to parse expressions
+Phase 5
+11
+th
+week
+Game Objects
+Implement a C++ object to hold games objects (triangle, rectangle, etc) and add actions to parser to parse game objects
+Phase 6
+13
+th
+week
+Statements & Event Handlers
+Implement C++ objects to represent each type of GPL statement, implement the event handler class, add actions to the parser to handle both.
+Phase 7
+15
+th
+week
+Animation Blocks
+Implement the animation code blocks.
+Phase 8
+Supporting Material
+GPL Programmer's Manual
+Grammar
+Interpreter Binaries
+(requires OpenGL and GLUT, see
+Getting the Software you Need
+)
+Sample Games

@@ -1,0 +1,30 @@
+Cart Summary
+- There was an error
+- It was successful
+- retailerId
+- 1f939b58
+- view
+- productId
+- prod9999002952
+- category
+- Hunting & Shooting > Shooting Equipment > Shooting Targets & Stands
+Champion Critter target 10Pack(1137293)
+$4.99
+IN STOCK
+Champion Critter target 10 Pack - Give your predator and varmint practice real-life flavor with the Critter Series of targets from Champion.
+Champion Critter Target 10 Pack - Give your predator and varmint practice real-life flavor with the Critter Series of targets from Champion. Each critter features the ideal shot placement and gives shooters a fun way to interact with their target.
+High contrast targets for increased visibility
+Identified vital zone improves shot placement
+Realistic targets boost shooting confidence
+2 of each 5 critters per pack - 10 total quantity each
+- headerText
+- Others Who Bought This Item Also Viewed
+- numRecs
+- 3
+- -inc-price
+- true
+- -rec-builder
+- My_Custom_Builder
+- dataItems
+- listPrice
+- salePrice

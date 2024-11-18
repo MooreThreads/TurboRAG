@@ -1,0 +1,7 @@
+Technology
+The shipwrecks presented on this site lie beyond the capabilities of SCUBA. To work safely in Poseidon’s realm, the pioneering use of robotic technology is employed on wrecks.
+Sites are discovered by towing side-scan sonar and magnetometer devices over large distances looking for anomalies in the seabed which can then be inspected further. Remotely Operated Vehicles (ROVs) outfitted with video cameras allow archaeologists on the surface ship to inspect the wreck without getting wet.
+Before touching a wreck, its profile is recorded by telepresence. Multibeam sonar reconstruct a ship’s 3D contours. Thousands of photos are taken and digitally stitched together to provide a zoomable bird’s-eye view of a site. Sediments might be cored to assess a wreck’s buried survival or on the Victory warship (1744) sub-bottom imaging mapped the buried wreckage in 3D.
+Surveying, recording and recoveries are all built around unmanned ROV’s (Remotely Operated Vehicles), the eyes and hands of archaeologists in the deep. These sophisticated robots are driven by hydraulic thrusters and can travel thousands of feet deep.
+Deep-ocean pioneers Odyssey Marine Exploration built a proprietary archaeology ROV named ZEUS. This ROV.
+Just like a physical grid on land, on the archaeological projects presented on this site, the team invented a digital grid to accurately log and map the position of every object from a tiny button to a large cannon. After artifacts are recovered, the story of a wreck is forensically reconstructed based on their original locations and contexts.

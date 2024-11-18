@@ -1,0 +1,41 @@
+James Thew - Fotolia
+IAM a core building block for GDPR compliance
+Identity and access management is key to enabling organisations to become compliant with the GDPR, increase security and improve customer relationships, according to a senior analyst at KuppingerCole
+This Article Covers
+Data protection
+A strong indemnity and access management (IAM) strategy is an important element of any programme to prepare organisations to comply with new European Union data protection rules, a senior analyst has strong, robust, reliable and trustworthy IAM strategy and capability is a core building block required to achieve compliance with the [General Data Protection Regulation] GDPR,” said Matthias Reinwarth, senior analyst at KuppingerCole.
+“This provides a formal approach to maintaining identities in a way that can be GDPR compliant, because it is personally identifiable information, be it an employee in a traditional IAM system, a partner in a federated IAM system or a customer in a Ciam [consumer identity and access management] system,” he told Computer Weekly.
+Done correctly, Reinwarth said all these systems enable organisations to comply with GDPR requirements such as managing consent by individuals to have their data recorded and tracked, responding to individuals’ right to have their data erased and notifying people in the event of a personal data breach.
+“Organisations with a strong IAM strategy in place are more likely to be able to tell the right people at the right time if their data has been compromised,” he said, adding that few organisations are currently prepared for that, particularly in the time constraint of 72 hours introduced by the GDPR.
+Many companies have limited ability to detect they have been breached, and once a breach has been identified, relatively few companies know who they need to contact or have the appropriate processes in place to carry out that communication.
+“A strong IAM capability enables organisations to quickly identify whose data they are responsible for and where it is stored,” said Reinwarth.
+Read more about IAM
+- Deutsche Bank is using a centralised identity and access management system and an API architecture for digital transformation.
+- Senior IT decision-makers understand the need for identity and access management systems to meet the challenges and opportunities of the digital age.
+- Axel Springer CISO Henning Christiansen teams up with business stakeholders to get board approval for an identity and access management initiative.
+However, he said many organisations still do not realise they will have to comply with the GDPR or understand exactly what this will mean, let alone how an IAM management capability could help.
+At the same time, many organisations are still not looking at IAM as a strategic effort and consequently do not have formal IAM programmes in place that have a blueprint, roadmap, long-term strategy and phased approach for moving IAM into the core of the business and all its processes.
+“This is because relatively few organisations understand that the concept of identity is growing beyond employees to mobile workforce, partners and consumers or customers; but once this is understood, organisations generally see the value of a good, thought-out IAM strategy.”
+Managing customer identities
+From a business point of view, Reinwarth said the most important reason to have an IAM strategy is the growing importance of being able to manage customer identities, not only to comply with the GDPR, but also so help improve the business’s view of its customer and its relationship with them.
+“It is important to recognise that customer identity is as the core of most modern business processes and that customer identity management will be a key enabler for many organisations, or to put it the other way around, businesses that do not do that will fail, or at least fall short,” he said.
+Reinwarth believes this is one of the top reasons for businesses to re-think their customer relationship management (CRM) and look to Ciam to understand the complete customer journey from the first point of contact to achieving a long-term connection.
+“Many organisations still do not understand what information customers provide that can help the business improve the overall customer experience and to anticipate future customer demands, and even if they understand this, it tends to be done using CRM systems,” he said.
+IAM data more consistent than CRM
+Reinwarth says IAM system data is typically more current, more accurate and more consistent than the data collected by CRM systems.
+Security is another top reason for a strong IAM strategy in the light of the fact that the network perimeter is disappearing.
+“IAM can enable security through a combination of a strong identity, context and access rights as a growing number of users of corporate IT systems and data are no longer in the corporate network,” said Reinwarth.
+He believes the need to improve security around users and access to corporate systems and data will be a strong driver for adopting IAM strategies, led by organisations in the financial sector and insurance companies who need to be sure of who is connecting to their networks and that they are given appropriate access to systems and data.
+Regulated industries are already using IAM to improve their cyber security by ensuring that access to sensitive data is strictly controlled, that employees can access only data that is necessary for them to carry out their jobs, and that there is a full audit trail of data access.
+Reducing errors and fraudulent activities
+IAM is also useful in helping organisations ensure that there is a clear and enforced segregation of duties to reduce errors and opportunities for fraudulent activities.
+“But the organisations that are benefitting from a strong IAM strategy in this way tend to be the larger ones, while this approach is almost unknown still in small – to medium-sized businesses that are typically more focused on business opportunities and efficiencies than information security,” said Reinwarth.
+“Many organisations still do now understand what IAM could and should do for them, so the value of a thought-out IAM strategy is not widely or fully understood, especially in smaller companies or companies that are not that tech savvy despite that fact that they use tech,” he said.
+Many companies still tend to rely on traditional security systems, he said, in the belief that a virus scanner and a firewall are adequate for achieving security because that has worked well enough in the past.
+In the face of an increasingly challenging cyber threat landscape and with the date for GDPR compliance on 25 May 2018 fast approaching, Reinwarth said all sizes of organisations dealing with personal information in any way should start developing and implementing strong IAM strategies.
+“Perhaps the first major fines under the GDPR will finally provide enough of a wake-up call for more organisations to see the value and importance of having a strong IAM capability,” he said.
+Reinwarth is to explore this topic further in his presentation, entitled 10 compelling reasons why you should have an IAM strategy, blueprint and roadmap, at the European Identity & Cloud Conference 2017 in Munich from 9-12 May 2017.
+CW+
+Features
+Enjoy the benefits of CW+ membership, learn more and join.
+Join the conversation

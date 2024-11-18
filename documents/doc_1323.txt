@@ -1,0 +1,16 @@
+There are various types of Outlook error that you may come across from time to time. The Outlook error that you would have can be categorized as a general error, POP3 error, IMAP error, SMTP error or NNTP error among others. In here, we take a look at some general errors which are fairly common while using Outlook Express.
+0x800CCC00
+This Outlook error indicates failure of authentication. You may not have furnished your credentials or the Outlook Express console needs to be closed and restarted to start afresh. Server resets and corrupt account details may also lead to this Outlook error.
+0x800CCC01 & 0x800CCC02
+The first Outlook error implies that you have an invalid certificate. You have to get your authority server to reissue your certificate. The second pertains to an invalid date of the certificate which again needs the authority server to reissue the valid certificate date.
+0x800CCC03
+This Outlook error would pop up if your account is already in use or you are logged onto Outlook Express from another machine or console. You have to sign out from that and try again.
+0x800CCC04 & 0x800CCC05
+These two errors pertain to the connection to the server. Your server details may be wrongly furnished, a wrong mail server address may have been used or the server may not be available at the present point in time. You have to check the server settings and if the server is connected and live.
+The four subsequent Outlook error codes imply connection unavailability while sending mails (0x800CCC06), blocked connection (0x800CCC07), invalid state (0x800CCC08) and connection unavailability while receiving mails (0x800CCC09).
+0x800CCC0A
+This Outlook error implies that the messages being downloaded were interrupted midway and thus rendering an incomplete download. You can simply try and download the mails again after checking whether the internet connection is active and available. You may also close the Outlook Express, restart it and try to download the mails again.
+0x800CCC0B
+This Outlook error pops up when scheduled mail downloads fail due to unavailability of server connection or if the account in context is being used on multiple machines.
+0x800CCC0D
+This Outlook error pops up when the application cannot find or locate the server. One needs to speak with the administrator to confirm if the server is available or if the correct details are being used in the POP3 and SMTP settings to access the webmail server.

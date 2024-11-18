@@ -1,0 +1,9 @@
+SW Distribution Problem – Bug
+I have been fighting with a ConfigMgr SW Distribution problem today. When attempting to add a new package to a Distribution Point, I kept getting the following messages in the SMS_DISTRIBUTION_MANAGER status messages:
+SMS Distribution Manager is beginning to process package "App Name" (package ID = ABC000AB).
+SMS Distribution Manager is preparing to send the compressed image of package "ABC000AB" to child site "XYZ".
+SMS Distribution Manager failed to compress package "ABC000AB" from "\\Domain.com\dfsroot\AppSource\AppNameFolder" to "e:\_S Mq4zc.TMP". The file that failed the compression is "".
+SMS Distribution Manager failed to process package "App Name" (package ID = ABC000AB).
+From the above you can tell that I am using a DFS root for the source of the package…something I’ve done often. I confirmed (multiple times) that permissions were correct. I could open a command prompt running as system and access the files on the share without a problem. I also confirmed length of the path was not too long. No matter what I did, it still failed. Changing it to a UNC path pointing back at the ConfigMgr server would work fine…but could not get it to work from the DFS root.
+Here is other relevant data…the ConfigMgr server that I am distributing from is running Windows Server 2008 and ConfigMgr SP2 R2. The file server that holds the DFS root is running Windows Server 2008 R2.
+After a long bit of searching I came across a TechNet thread where someone else who was having a similar issue. The last post in that thread has the answer…it’s a bug in Server 2008 when attempting to read a file from a share that isn’t running Server 2008. This doesn’t present itself via the GUI…it only happens when an application is using the BackupRead function to access the files. There is a downloadable fix available () that resolved the issue in my case.

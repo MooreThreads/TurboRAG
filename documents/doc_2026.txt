@@ -1,0 +1,103 @@
+!
+32 Comments, Comment or Trackback
+blkdragon.
+Dec 29th, 2007
+Tom
+Why do you format your Macs upon purchase? Dude, its not a Dell.
+Dec 29th, 2007
+Nig.
+Dec 29th, 2007
+Nate
+Wow, I was actually in the same situation when my MacBook came in recently. Thanks for the tip, I probably should’ve figured it out myself.
+Dec 30th, 2007
+Murray
+I just upgraded from to Leopard using CPU Drop-in DVD (product # 22691-6040-A) a few minutes ago and I was just thinking about how I would have preferred to do a clean wipe-and-install.
+Next time I’ll try this, thanks!
+Dec 30th, 2007
+Ramon
+Thankx! My drop-in dvd DOES require a pre-installed version of OSX, 10.4, so this is helpfull!
+Dec 31st, 2007
+Blackjackburger
+
+Dec 31st, 2007
+Spidermac.
+Dec 31st, 2007
+Yonghwee
+I prefer to install it on an external HD and boot it off firewire. Great tutorial though!
+Jan 2nd, 2008
+Henning Harms
+hi, to do the same with the Tiger Upgrade DVD, which file would I need to delete? I didn’t find any “CheckForOSX” File.
+Jan 4th, 2008
+Lex
+spidermac this is what you need
+DVD+R Double Layer
+Jan 7th, 2008
+Geoff.
+Jan 8th, 2008
+Lex
+@ GEOFF
+look harder!!! you have to look for it manually!!!
+Jan 8th, 2008
+schokkie
+Hello,
+i tried this trick, but when it comes to deleting this checkforosx file, I go to ‘volumes’ as specified, but find 0 files in there…
+Where did it go wrong?
+thanx in advance,
+schokkie
+Jan 10th, 2008
+schokkie
+and even in the original dvd I find the folder ‘Volumes’ to be empty. How is that possible?
+thanx in advance
+schokkie
+Jan 10th, 2008
+Rexx
+Hello,
+You do not actually need to burn a DVD, just see this:
+Enjoy,
+Rexx
+Jan 14th, 2008
+Brian1502
+Guys. Check System/Installation/CDIS/Mac OS X Installer ….Click show contents…then you’ll find your file in there. HOpe this helps
+Jan 14th, 2008
+Klod
+I followed the steps mentioned above but could not find the CheckforosX-file, after looking around I found it in /System/installation/CDIS/ view package Os X installer:
+Contents/resources.
+Good luck
+Jan 15th, 2008
+chris
+Jan 18th, 2008
+Jan 18th, 2008
+Henning Harms
+Hi again, I might have been misunderstood.
+Can anybody point to where the checkforosx file is located on the TIGER Upgrade DVD?
+Regards
+Henning
+Jan 19th, 2008
+Henning Harms
+On the TIGER Upgrade DVD I found the file here: System/Installation/Packages/Essentials.pkg/Contents/Resources/CheckForOSX
+However I couldn’t delete the file. I get an error that I don’t have “sufficient privileges”
+What can I do?
+Regards
+Henning
+Jan 19th, 2008
+V
+Feb 2nd, 2008
+Triolo???
+Feb 6th, 2008
+shaun
+to hide the files again just type the same but replace true with no
+Feb 7th, 2008
+peet….?
+Feb 11th, 2008
+Hans Anderson
+Feb 19th, 2008.
+Feb 20th, 2008
+V
+Feb 20th, 2008
+Michael Dodd.
+Feb 21st, 2008
+Thierry de Montblanc
+Feb 23rd, 2008
+Thierry de Montblanc
+Feb 23rd, 2008
+Reply to “How to Convert a MacOS X 10.5 Leopard Upgrade DVD into a Retail MacOS X 10.5 Leopard”

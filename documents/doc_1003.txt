@@ -1,0 +1,4 @@
+Union Government launches augmented reality application ‘Sakaar’ developed Sakaar application and its multimedia content for Android. This application consists of 3D (3 Dimensional) models of Mars Orbiter Mission (MOM), RISAT, indigenous rockets such as PSLV, GSLV Mk-III etc. It also has videos of INSAT 3D-predicting cyclones, MOM launch and orbit insertion videos, 360 degree animated view of MOM, GSLV D5/Cryo and Anaglyph of Mars surface.
+Augmented Reality (AR) technology is computer-generated 3D models, animations, videos that augment the live direct view of a physical, real-world environment.
+Real time augmentation and information is overlaying takes place which enhances user’s current perception by this device’s camera. Real time augmentation requires three basic elements for its functioning. They are AR application, AR Markers and Android OS enabled mobile with back camera.
+-.

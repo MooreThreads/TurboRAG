@@ -1,0 +1,42 @@
+Need help tweaking a regex search expression
+I’m new to regex, but found an expression… (?-s)^.ABC(?s).?(?-s)XYZ.*\R …that is supposed to select the first whole line that contains ‘ABC’ in it through the first whole line following that contains ‘XYZ’ in it. For example, given these five lines:
+<li><a href="…/difdsfon.html">Build the disp
+<a href="…/dilayABCroduction.html">After ro
+<li><a href="…/displayPortfolio.html">Portfolio</a></li>
+<li class=“droXYZwn”>
+<a class="dropdown-to ass=“caret”></span></a>
+the expression would light up these three:
+<a href="…/displayABCroduction.html">After ro
+<li><a href="…/displayPortfolio.html">Portfolio</a></li>
+<li class=“droXYZwn”>
+But the expression doesn’t find anything. Not sure if it matters, but the text I’ll be searching will usually be html code with it’s own special characters - the garbage html above is representative. I’m using Notepad++ v6.8.6 on a Window 7 Pro machine.
+Help appreciated. My dog, who has been avoiding me since I started going insane on this quest yesterday morning, would also be grateful.
+- Jim
+HERE’S THE ANSWER I FOUND FOR MY OWN QUESTION, ABOVE. The code below works in Notepad++ to select the first line found with ABC in it and the first line found after that with XYZ in it, and everything in between. (?-s)^.ABC(?s).?(?-s)XYZ.*\R. You have to un-check “. matches newlin” for it to work.
+If ‘Replace’ is left empty the line before ABC and the line after XYZ become one. To keep them separate, do a Replace with a new line character. (Easy way to do that is simple copy the invisible new line character between adjacent lines of text in the doc you’re working with and paste it into the Replace field. You won’t see it there, but it is.) 'hope this is helpful for regexp newbies like me.
+- Scott Sumner
+Rather on relying on copying an invisible character into the replace field, simply do \r\n for a Windows line-ending file, or \n for a Unix line-ending file. Much easier to feel good that you’ve got what you intended in there.
+Hello Jim,
+I wrote this post, below, as a reply to Shayne Z., on the beginning of October :
+As you spoke, in your post, of some particularities, about this reply, I just did some tests, again and I can’t see anything wrong !?
+You have to un-check “. matches newline” for it to work.
+Normally, you don’t have to bother about this option because I added, the modifiers
+(?s)and
+(?-s), on purpose, as these internal settings have PRIORITY on a possible .matches newline option, set by an user.
+If ‘Replace’ is left empty the line before ABC and the line after XYZ become one
+I can’t reproduce this behaviour. For instance, given the text, below :
+12345 This line contains the ABC string Bla, bla, bla... This line contains the XYZ string 67890
+and the S/R below :
+SEARCH
+(?-s)^.*ABC(?s).*?(?-s)XYZ.*(\R|\z)
+REPLACE
+NOTHING
+I, as expected, got the text, after replacement :
+12345 67890
+But I may have forgotten something obvious ! So, just give me some examples which doesn’t behave as you would expect to. we’ll certainly find out the possible problems :-)
+Best regards
+guy038
+Thanks Scott, for the newline tip.
+Guy, I wanted to credit you for the search code in my original post but all I had here was the bare code in a .txt file, w/out any links to its origin, and it didn’t include the trailing |\z.
+Glad you got me straightened out, and I really appreciate the code bit explanations you took the trouble to provide in your reply to Shayne Z in October.
+Jim

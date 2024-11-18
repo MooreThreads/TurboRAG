@@ -1,0 +1,77 @@
+International
+For more information, contact:
+Elizabeth Cardinale
+Palm Computing, Inc.
+(650) 237-6390
+Elizabeth_Cardinale@3Com.com
+Amy Nemechek
+A&R Partners for Palm Computing
+(650) 363-0982 Ext. 252
+anemechek@arpartners.com
+FOR IMMEDIATE RELEASE
+3Com Bolsters Support For Palm Computing® Platform Developers With Extended Tools And
+Solutions Provider Program
+Santa Clara, Calif., -- September 11, 1998 --
+Palm Computing, Inc., a 3Com company (NASDAQ: COMS) today announced expanded support for its community of more
+than 10,000 developers of the Palm Computing#174; platform. In a move to significantly extend its tools
+offerings, 3Com has obtained the exclusive right to market Metrowerks' CodeWarrior® for Palm Computing® Platform,
+the premier software development tool for the Palm Computing platform. The company has also enhanced its Solution
+Provider Program with additional benefits to help developers create and promote solutions based on the industry's
+leading handheld platform.
+As part of the agreement with Metrowerks, 3Com will market exclusively CodeWarrior for Palm Computing Platform
+as a 3Com-branded product. The two companies will work together to develop and support future releases of
+CodeWarrior for Palm Computing Platform, the leading tools package for creating applications that run on
+Palm Computing platform devices, including the Palm III; and PalmPilot connected organizers, the
+IBM WorkPad PC Companion, and the SPT 1500 device from Symbol Technologies. CodeWarrior for Palm Computing
+Platform is now available through Palm Computing sales channels, including online at, and will
+continue to be available through existing Metrowerks distribution channels.
+"CodeWarrior is a powerful tool for developing applications for the market-leading Palm Computing platform,"
+said Mark Bercow, vice president of strategic alliances and platform development for Palm Computing. "Adding a
+tool like CodeWarrior for Palm Computing Platform to our developer offerings makes it easier for developers
+to work with us and helps to further establish the Palm Computing platform as a mature and widely-supported
+development environment."
+Release 5 of CodeWarrior for Palm Computing Platform will be available to new and current customers by the
+end of September through 3Com and Metrowerks. A one-year subscription is priced at U.S. $369 and covers the
+current version of CodeWarrior for Palm Computing Platform plus one free upgrade as well as the Conduit
+Development Kit from 3Com. Developers may renew the subscription for an additional year of upgrades
+for $199. 3Com plans to introduce an enterprise edition of the product later this year. Current
+CodeWarrior for Palm Computing Platform customers will receive free updates to Release 5.
+"This agreement is great news for Palm Computing platform developers," said Jean Belanger, chief executive
+officer, Metrowerks. "We're pleased to be working more closely with 3Com on the premier development tools
+for this highly successful handheld platform."
+"The CodeWarrior tools enable us to easily integrate our product's vertical market applications with the
+Palm Computing platform," said Ron Goldman, vice president, mobile computing systems, Symbol Technologies.
+"This agreement strengthens our partnership with 3Com and allows developers to use a proven product with
+3Com's full support."
+Enhanced Solution Provider Program
+3Com also announced an enhanced Solution Provider Program offering developers a wide variety of easily
+accessible information including tools, technical support and marketing opportunities as well as a new
+password-accessible website exclusively for developers. Upon registering for the Solution Provider Program,
+developers will receive regular notification from 3Com of development news including new products, tools
+updates and event opportunities. Under the new program, Palm Computing platform developers have access to
+pre-release updates of conduit and software development kits (SDKs), development training modules,
+web-based support, a developer forum and a product discount program. Potential co-marketing opportunities
+include exhibition opportunities, advertising and public relations opportunities, and third-party solutions
+featured in InSync Online, 3Com's targeted email information service to Palm Computing platform device users.
+Developers may register for the Solution Provider Program or find out more about the program at. Developers can join with a Basic membership for free
+or apply for Platinum membership, which certifies solution providers whose products successfully meet
+compatibility, quality and usability standards.
+About the Palm Computing Platform
+The Palm Computing platform is the foundation for the market-leading PalmPilot and Palm III connected
+organizers and other handheld computing products from Palm Computing's strategic partners, all leaders in their
+respective markets. These partners include IBM, which sells the IBM WorkPad PC Companion into the enterprise
+market, Franklin Covey, which supplies the Franklin Electronic Day Planner for the training and time management
+industry, QUALCOMM, which has licensed the Palm Computing platform for development of its next-generation
+wireless communication solutions, and Symbol Technologies, whose expertise in bar code scanning and wireless
+LAN and WAN connectivity are taking the Palm Computing platform into various vertical markets with its
+Symbol SPT 1500 device.
+About 3Com
+3Com Corporation enables individuals and organizations worldwide to stay more connected by communicating and
+sharing information and resources anytime, anywhere. As one of the world's preeminent suppliers of data,
+voice and video communications technology, 3Com has delivered networking solutions to nearly 200 million
+customers worldwide. The company provides large enterprise, small and medium enterprise, carriers and
+network service providers, and consumers comprehensive, innovative information access products and system
+solutions for building intelligent, reliable and high performance local and wide area networks. For further
+information, visit 3Com's Web site at, the press site at, or Palm Computing's web site at.
+###
+3Com and Palm Computing are registered trademarks, and Palm, Palm OS, PalmPilot and Palm III.

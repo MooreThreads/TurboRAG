@@ -6,6 +6,21 @@ This repository contains the implementation code and demonstration effects for t
 
 **Note:** The testing code and models will be open-sourced soon.
 
+## 创建环境
+```
+conda create -n turborag python=3.10.12
+conda activate turborag
+pip install -r requirements.txt
+```
+
+## TTFT Testing
+The following steps outline how to test TurboRAG against traditional RAG in terms of *time-to-first-token (TTFT)*. We provide some documents and related query examples located in the `documents` and `questions` directories. You can replace these with your own data as needed.
+
+### Step 1: Prepare Chunked Caches
+Run `chunk_cache.py`. This script will automatically split the documents in the documents directory into chunks, each with a length of 512 tokens. The KV cache for each chunk will be stored in the chunk_kvcache directory.
+### Step 2: Compare TTFT
+Run `turbo_rag.py` to compare the TTFT of both methods.
+
 <!-- ## Table of Contents
 
 - [Introduction](#introduction)

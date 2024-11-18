@@ -1,0 +1,8 @@
+What the Palm excelled at was speed-of-access. Just a couple of taps, and you could jot a quick note and attach a timer to it. That was one of my favorite uses for the Palm.
+In contrast, have probably spent over 1 hour just downloading and evaluating alarm and timer apps for Android, and I still haven't found one that is very good.
+Take Alarms, for instance. It is a fairly nice-looking paid app, but it just misses in terms of ease of access. Problems:
+- 3 clicks to access an Alarm-creation screen. Should be 1-click from a home screen icon.
+- This is really stupid--the datetime defaults to (I believe) the day I installed the app, rather than the current date.
+- Setting Date and Time are different pop-up screens, thus requiring double the clicks.
+- This is no surprise, since it is a common flaw in almost all Android apps, but the only way to set values are tedious up/down keys--no ability to key in the numbers of select from a list.
+- Another stroke to scroll down, past infrequently-used options, so that you can access the SET button, to finalize your alarm.

@@ -1,0 +1,31 @@
+Connect
+414-914-9100
+847-752-1095 (Chicago)
+Northwoods Digital Solutions
+We create effective, data-driven websites, digital marketing strategies and software solutions that improve your online presence while enhancing your bottom line.
+Search intent strategy addresses and applies the reasons behind user queries. Search intent weighs heavily in the Google ranking algorithm, as Google relentlessly strives to return search engine results pages with content and links that users value.
+Search intent has become even more important with the rise of featured snippets and instant answers on search results pages. An understanding of the nuances of search intent and how it drives search results should inform your SEO strategy.
+Users conduct transactional searches when they want to buy something. Google knows when buying is our intent. A transactional search intent returns an SERP that includes shopping ads, search ads and, depending on the product, a local pack that shows nearby stores that carry the desired item.
+Google returns ads first and foremost on the search results page for transactional searches. If you are looking to achieve high rankings for transactional searches, you should consider an ad strategy. Transactional search intent is a pay-to-play game.
+Businesses that prosper by getting people in the door rather than by ecommerce should focus on navigational search intent.
+Navigational search intent puts the local pack front and center. The local pack returns to the user the first three listings on the search results page, and it gives the user the option of clicking a link to a longer list of locations that sell the desired product.
+Google awards top-three ranking on the basis of several factors, including
+Most web searches seek information. Historically, these types of queries returned organic search results and occasional Google ads. Recently, results for informational queries have become much more robust.
+Since Google introduced featured snippets, the company has broken informational searches into sub-categories based on the structure of content the user expects to see.
+In process queries, users expect to get step-by-step instructions for a given task. Searches for recipes, for example, are process queries.
+“how to make a pumpkin pie” returns:
+The results for process-based queries are numbered steps. If you want your website to appear in a featured snippet, structure your content in the form of a process with numbered steps.
+List queries deliver lists of content to the user. Often, these queries are associated with the words “best” or “top.”
+“best places to take my kids on vacation” returns:
+The featured snippet displays results in a bulleted list. If you want your website to show up in featured snippets for list queries, structure your content in a way that makes it easy for Google to pull out the listed items. Every item you want included in the list should be a header tag within the body of your copy. Google scans your entire document to pull out the relevant pieces of information for the featured snippets, so every word counts and every HTML element counts.
+Instant answer queries deliver to users who want answers right away. Many voice-based queries are of this type and conducted on mobile devices. Of those queries conducted on mobile, 60 percent do NOT result in a click on a link in the SERP.
+Google is moving more and more toward giving people the information they seek on the SERP with no click-through required.
+“what is the safe temperature for pork” returns:
+The featured snippet exactly answers question and then provides context for that answer. The snippet might not result in a click to your website, but you still get your brand in front of users.
+To make your site appear in featured snippets for instant answer queries, anticipate those queries and place exact answers in the header of your content. (The safe temperature to cook pork is 145 °F). Your content can go on to provide context, but the simple answer must be front and center.
+Stop thinking only about basic transactional queries. Broaden your keyword universe to include related informational queries. Categorize your queries by search intent to create content that matches user intent. In this way, you provide both users and Google with the best information for the query..
+Content might be king, but it too often comes last in website redesigns and new builds. Since content drives so much user engagement, don’t treat it as an afterthought. Make it a major consideration from the very start. Treat it royally.
+The XMLS sitemap is one of the many tools in the SEO toolbox. But what exactly are they? What does Google do with them? What should you include in them?
+Join Our Email List
+Join our email list to keep current on upcoming events and news
+Thank you for commenting on this article. Your submission will be reviewed and posted within one business day.

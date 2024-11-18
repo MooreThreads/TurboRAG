@@ -1,0 +1,66 @@
+.
+First:
+[text]
+mongodb {
+dockerHost=""
+dockerImage="mongo:2.7"
+exposeAllPorts=true
+remove=true
+command=["mongod", "–smallfiles"]
+}
+[/text].
+[java]();
+}
+[/java]:
+[java]
+));
+}
+[/java]:
+[text]"
+[/text]:
+[java]
+@Parameters("overcastConfig")
+@BeforeMethod
+public void before(String overcastConfig) throws UnknownHostException {
+itestHost = CloudHostFactory.getCloudHost(overcastConfig);
+[/java]
+Here we used the paramaterized tests feature from TestNG. We can now define a TestNG suite to define our test cases and how to pass in the different overcast configurations. Lets have a look at our TestNG suite definition:
+[xml]
+>
+[/xml]:
+[xml]
+<suite name="MongoSuite" verbose="1" parallel="tests" thread-
+[/xml]!
+Paul van der Ende
+Note: Due to a bug in the gradle parallel test runner you might run into this random failure when you run the example test code yourself. The work around is to disable parallelism or use a different test runner like IntelliJ or maven.
+Well written post, Paul. Will definitely try this out. Thanks!
+Hi, this looks great. But I’m running into some problems trying to use overcast with docker. I’m getting an “IllegalStateException” with “No valid configuration has been specified for host label postgres” from my call to CloudHostFactory.getCloudHost(“postgres”).
+I have defined a host label “postgres” in overcast.conf as such:
+postgres {
+dockerHost=”″
+dockerImage=”postgres:9.2″
+exposeAllPorts=true
+remove=true
+command=[“postgres”]
+}
+I’ve tried to place overcast.conf in my test resource folder, in ~/.overcast/ and in my working dir. Any pointers on this?
+Hi Anders,
+Overcast by default searches at various locations for your configuration. Can you have a look at the log output of overcast on INFO level? It should print the configuration files it can or can not load:
+If it can load it wil print this:
+15:57:53.615 [TestNG] INFO c.x.overcast.PropertiesLoader – Loading from file /Users/paulvanderende/.overcast/overcast.conf
+If it can not load a file it wil say:
+15:57:53.636 [TestNG] WARN c.x.overcast.PropertiesLoader – File /Users/paulvanderende/Projects/Paul/github/mongo-itests/overcast.conf not found.
+And check if this matches your expectations.
+Regards, Paul
+It seems to find my overcast.conf okay:
+[ScalaTest-run-running-SQLModuleSuite] INFO com.xebialabs.overcast.PropertiesLoader – Loading from file /Users/andbrujo/src/XXXX/target/scala-2.10/test-classes/overcast.conf
+My bad. I was using the wrong version. I just copied the maven dependency from the github README, thinking it would be the latest version:
+com.xebialabs.cloud
+overcast
+2.3.0
+But all your docker commits are in 2.4.0. All is good now, thanks 🙂
+Thanks for the update, good to hear everything works now, I updated the link in the Overcast documentation.
+Hehe, I also tried to make your test run on the test project mongo-itests. It failed, and I guess you don’t know why either.
+Yes, I mentioned this problem already in the blue footnote of the blog. Disable parallelism in the testng.xml by removing parallel=”tests”, then it will work with gradle.
+hehe, sorry about that. You can go a head and delete that comment. And maybe make the blue footnote red. 😛
+Hi Paul, I’m loving your test approach and Overcast combined with Docker seems very DevOps to me. Good job. I’m wondering if you have considered using Overcast for performance testing too? I’m the inventor of PushToTest TestMaker, and the Founder at Appvance.com. I’d be interested to talk with you. -Frank

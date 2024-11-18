@@ -1,0 +1,95 @@
+The State of Wix in 2021
+Wix is a drag-and-drop website builder that also offers ecommerce capabilities. Founded in 2006, Wix now powers millions of websites though only a subset of those are ecommerce merchants.
+In this report, we'll cover the following essential statistics on Wix usage.
+- Wix growth
+- Social media usage on Wix stores
+- Contact information on Wix stores
+- Top categories for Wix stores
+- Top countries for Wix stores
+- Number of employees for Wix stores
+- Number of products sold for Wix stores
+- Top Wix technologies
+- Top Shipping Carriers used by Wix stores
+- Wix store top-level domain distribution
+- Top Wix stores
+- New Wix stores
+- Stores switching to Wix from other platforms
+- Stores switching from Wix to other platforms
+Create a free account to get a feel for the data we provide.
+Wix Growth
+At present, there are 1,110,292 live stores running on the Wix platform.
+Here is the historical growth of stores running Wix.
+- Wix stores increased 145.8% quarter-over-quarter in 2021 Q3.
+- Wix stores increased 323% year-over-year in 2021 Q3.
+Cumulative Stores by Quarter
+It's hard to know exactly when a Wix store was first created but we use a heuristic combining DNS and WHOIS data that provides a reasonable approximation.
+Social Media Usage On Wix Stores
+Ecommerce brands use social media sites to engage with millions of consumers. Instagram and Facebook are the dominant social media sites for ecommerce stores, by far, with Twitter, Pinterest and YouTube also having notable usage.
+- Instagram is used by 46.0% of Wix stores.
+- Facebook is used by 45.9% of Wix stores.
+- Twitter is used by 10.2% of Wix stores.
+Contact Information On Wix Stores
+Email remains an extremely popular communication channel for merchants. Many merchants also provide a phone number so that their customers can reach them instantly.
+- 52% of Wix stores have an email on their website
+- 35% of Wix stores provide a phone number on their website
+Top Categories For Wix Stores
+Here is the breakdown of industry verticals for stores on Wix.
+- 9.2% of Wix stores sell Beauty & Fitness products.
+- 8.2% of Wix stores sell Apparel products.
+- 8.1% of Wix stores sell Home & Garden products.
+Top Countries For Wix Stores
+Here are the top countries for stores using Wix.
+- 20.2% of Wix stores are in United States
+- 6.1% of Wix stores are in United Kingdom
+- 2.7% of Wix stores are in Brazil
+- 2.5% of Wix stores are in Canada
+With a paid account, stores can also be segmented by region and city.
+Number Of Employees For Wix Stores
+Here is the breakdown of Wix stores by the number of employees.
+- 0.0% of Wix stores have 1 - 9 employees.
+- 0.0% of Wix stores have 10 - 24 employees.
+- 0.0% of Wix stores have 25 - 49 employees.
+Number Of Products Sold For Wix Stores
+Here is the breakdown of Wix stores by the number of products that they sell.
+- 2.2% of Wix stores sell 1 - 9 different products.
+- 0.6% of Wix stores sell 10 - 24 different products.
+- 0.4% of Wix stores sell 25 - 49 different products.
+Top Technologies on Wix Stores
+We're tracking 172 different technologies that have 163,970 collective installs on Wix stores.
+- Fastly CDN is used by 4.0% of Wix stores.
+- YouTube Player is used by 2.8% of Wix stores.
+- Smile.io is used by 1.5% of Wix stores.
+Here are the top 10 third-party technologies, ordered by number of installs, across all Wix stores.
+Top Shipping Carriers Used By Wix Stores
+- UPS is used by 95.3% of Wix stores.
+- USPS is used by 2.2% of Wix stores.
+- Royal Mail is used by 0.9% of Wix stores.
+Here are the top 10 shipping carriers across all Wix stores.
+Wix Store Top-level Domain Distribution
+.com is the most popular top-level domain for Wix.
+- 70.4% of Wix stores have a .com domain.
+- 4.7% of Wix stores have a .co.uk domain.
+- 3.1% of Wix stores have a .org domain.
+Top Wix Stores
+Here are the top stores, powered by Wix, ordered by store rank.
+New Wix Stores
+Here are the 5 highest-ranked stores added most recently.
+Stores Switching to Wix From Other Platforms
+Over the last 90 days, Wix has taken 2,781 merchants from competitive ecommerce platforms.
+Here are the top stores that have switched to Wix from competitive ecommerce platforms.
+Stores Switching from Wix To Other Platforms
+Over the last 90 days, Wix has lost 10,683 merchants to competitive platforms.
+Here are the top Wix stores that have recently changed to a competitive platform.
+Get more insights on Wix stores
+Our search interface is easy to use and helps you find the Wix stores that are relevant to you.
+You can segment stores on a variety of dimensions:
+- Social Media accounts
+- Phone numbers
+- Country
+- Third-party technologies
+- Creation date
+- Platform
+- Top-level domains
+- Domain status
+- Domain type
+For more insights on Wix stores, create a free account and have a look for yourself.

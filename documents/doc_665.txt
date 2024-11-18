@@ -1,0 +1,9 @@
+.
+I’ve also learned a bit about emotions and why we feel how we feel and the different ways we show them. There are many theories that underpin emotion recognition technology, the main one is Dr. Paul Ekman’s General Emotions Theory which states that we all have, across all cultures, 7 basic emotions.
+But many of us believe this theory is limited in its scope, because emotions are complex and there is more nuance than simply 7 basic emotions. We don’t all make the same expression when we’re sad or happy. And sometimes we combine emotions, like when we’re surprised and angry at the same time; not just surprised and happy.
+A few months ago I chatted with Dr. Richard Firth-Godbehere about this topic, we discussed the limits of the theories and other approaches.
+At Netek, as part of our research, we begun to look into other theories of emotions, one that makes more sense is Dr. Lisa Feldman Barrett’s Constructive Emotions Theory, which she writes about in her book How Emotions Are Made: The Secret Life of The Brain.
+Check out the video below for a visual summary of her theory:
+Beginning this month we’ll double-down on our research to begin implementing this theory of emotions in our algorithm in first quarter; more to come!
+Related Posts
+Also published on Medium.

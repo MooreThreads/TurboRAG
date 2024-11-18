@@ -1,0 +1,96 @@
+lasierra.edu: La Sierra University - Riverside, CA
+<p> An institution nationally acclaimed for its diverse campus and its service to others, offers a transformational experience that lasts a lifetime. </p>
+Page load speed analysis
+First response
+177 ms
+Resources loaded
+1.8 sec
+Page rendered
+320 ms
+Total page load time
+2.3 sec
+Welcome to lasierra.edu homepage info - get ready to check La Sierra best content for United States right away, or after learning these important things about lasierra.edu
+We analyzed Lasierra.edu page load time and found that the first response time was 177 ms and then it took 2.2 sec to load all DOM resources and completely render a web page. This is quite a good result, as only 35% of websites can load faster.
+Page optimization
+In fact, the total size of Lasierra.edu main page is 2.7 61.4 kB
+- After minification 61 81% of the original size.
+- Original 2.4 MB
+- After optimization 2.4 MB
+Image optimization
+Image size optimization can help to speed up a website loading time. The chart above shows the difference between the size before and after optimization. La Sierra images are well optimized though.
+- Original 145.2 kB
+- After minification 145.4 kB or 66% of the original size.
+- Original 3.3 kB
+- After minification 2.4 kB
+- After compression 867 B
+CSS optimization
+CSS files minification is very important to reduce a web page rendering time. The faster CSS files can load, the earlier a page can be rendered. Lasierra.edu needs all CSS files to be minified and compressed as it can save up to 2.4 kB or 74% of the original size.
+Network requests diagram
+- lasierra.edu
+- lasierra.edu
+- merged-ca5dc6b34067ee4f61b93c0be057d0dc-0cc43521950f6fd3013261d4b2c914ca.css.gzip
+- merged-76186a38e4114e063946cf4ba19e42c7-90d2d042c31d9a581a921f631cd2481e.js.gzip
+- merged-71b54488ede5e7d9becece2907782e91-a69d1c5ea3ee86e9b93f5030ec35ad25.js.gzip
+- merged-1e54f483a6e259b849ee8b38f273b20f-78466e05ea8242ffc0d1f9264505fb0d.js.gzip
+- css
+- analytics.js
+- logo-top-bg.png
+- la-sierra-logo-2x.png
+- social-icons.png
+- concave-logo.gif
+- fountain.jpg
+- csm_logo-bc_c4842d2de8.png
+- featured-03.jpg
+- featured-04.jpg
+- featured-02.jpg
+- featured-01.jpg
+- blank.gif
+- 2016-03-la-sierra-opera.JPG
+- 2016-02-women-of-the-new.jpg
+- last-chance.jpg
+- dig-jordan-2016.jpg
+- ajax-loader.gif
+- csm_blank_7f4b123320.gif
+- z3+AcxdM0C4Af+FsAGNAEuwCFBYsQEBjlmxRgYrWCGwEFlLsBRSWCGwgFkdsAYrXFhZsBQrAAAAAVLmWK4AAA==
+- AefiC3b9wfichtIUhZbS388mf1sUd3I9z2hFjZ6ej0kXbnFHlcWA+VOX5EEjl4cii+L3Tt+8T8s3AfO
+- mmMwAAA=
+- collect
+- collect
+- w.js
+- ga-audiences
+- clickstream.min.js
+- storage.luckyorange.net
+- calendar-events.php
+- settings.luckyorange.net
+- mutation.min.js
+- reset.css
+Our browser made a total of 39 requests to load all elements on the main page. We found that 62% of them (24 requests) were addressed to the original Lasierra.edu, 8% (3 requests) were made to and 8% (3 requests) were made to Cdn.luckyorange.net. The less responsive or slowest element that took the longest time to load (791 ms) belongs to the original domain Lasierra.edu.
+Additional info on lasierra.edu
+Requests
+The browser has sent 33 CSS, Javascripts, AJAX and image requests in order to completely render the main page of La Sierra.
+Lasierra
+lasierra.edu
+new.lasierra.edu
+admissions.lasierra.edu
+199.233.154.4
+DNS records
+Language and encoding
+Good result
+Language
+Detected
+Claimed
+Encoding
+UTF-8
+Claimed
+Language claimed in HTML meta tag should match the language actually used on the web page. Otherwise Lasierra.edu can be misinterpreted by Google and other search engines. Our service has detected that English is used on the page, and it matches the claimed language. Our system also found out that Lasierra.edu main page’s claimed encoding is utf-8. Use of this encoding format is the best practice as the main page visitors from all over the world won’t have any issues with symbol transcription.
+HTTPS certificate
+Lasierra.edu has no SSL certificate. Web browsing can be safer with HTTPS connection, so we suggest that it should be obtained for this site.
+Poor result
+Visitor World Map
+Country of origin for 87.3% of all visits is United States. It’s good for Lasierra.edu that their server is also located in United States, as that enables the majority of their visitors to benefit from a much faster page load time.
+Good result
+Poor result
+Social Sharing Optimization
+Open Graph description is not detected on the main page of La S:
+lasierra.edu
+Analyze another website

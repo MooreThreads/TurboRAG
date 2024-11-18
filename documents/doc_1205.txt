@@ -1,0 +1,12 @@
+- Start Time:12:40PM
+- End Time:01:00PM
+- Day:Day 1
+Talk:
+BlockEx has created unique tools as part of its brokerage suite. One of them is the Digital Asset Creation Tool (DACT). The DACT is a uniquely blockchain driven tool that creates a series of contracts bound by several counterparties involved in the securities issuance process from a simple questionnaire. The tool aims to significantly change the linearity of the issuance process and reduce time lags from initial consultation to final issuance of securities.
+BlockEx is a financial technology firm whose goal is to become the major marketplace for alternative investments. As part of its core offering, we have developed the Digital Asset Exchange Platform (DAxP) and other software solutions to assist large and small financial institutions to take advantage of the innovations behind blockchain technology.
+Associated Speakers:
+Aleksander Nowak
+CIO and Blockchain Expert
+BlockEx
+12:40PM - Day 1
+View Case Study: BlockEx – Issuing financial securities on a blockchain

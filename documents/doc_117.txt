@@ -1,0 +1,33 @@
+PlayStation 4 Launch Dampened by Dearth of Hot Games
+11/15/13 2:05 PM PT
+Sony's first new console in seven years, the PlayStation 4, has finally hit the market. It started retailing Friday, but the launch was not without its glitches.
+Among the reported hardware problems were some complete failures. Less catastrophic, some systems would not output a signal through HDMI. Shuhei Yoshida, the president of Sony Computer Entertainment Worldwide Studios, said the company is looking into those reports.
+Issues cropped up for staff of game publication IGN after they updated the system with the Day 1 patch, intended to offer additional functionality that was not ready by the time units started shipping.
+Sony did not respond to our request to comment for this story.
+Launch Features
+Following the launch, users in North America could take advantage of the Remote Play system, which allows them to play many PS4 games through their PS Vita handheld devices over a WiFi network.
+The Vita can be used as a second screen experience, as can many smartphones through the PlayStation App. The system is designed for easy recording and sharing of screen shots and gameplay. It can natively stream gameplay to Ustream and Twitch -- PlayStation Camera owners can also stream camera images and microphone audio in their broadcasts.
+Up to four users can log into a single system simultaneously. The party chat system lets friends chat independently of the applications and games they are using. Of course, the PS4 offers multiplayer gaming and Blu-ray and DVD functionality as well.
+Entertainment Apps
+The system offers more than just gaming, with a multitude of entertainment apps such as Netflix, Amazon Instant Video, NHL GameCenter LIVE, and NBA Game Time for consumers to access movies, TV and sports content.
+The console has digital-only output this time around, with Optical Audio, HDMI and LAN ports, and an auxiliary port for the PlayStation Camera. The 500-GB hard drive is easy to switch for one with a larger capacity or even a solid-state drive.
+The power supply is built into the system casing, alongside an eight-core AMD x86-64 bit CPU, 1.84 TFLOPS graphics GPU, and 8GB of GDDR5 RAM, as iFixit reported in its teardown. The front of the until includes two USB 3.0 ports.
+Ho-Hum Reviews
+Early reviews of the PlayStation 4 are somewhat middling. The DualShock 4 controller and strong physical build of the system have won praise, but the somewhat messy user interface and the lack of exclusive, must-have games at launch have drawn criticism.
+Many of the launch titles are multiplatform games, and some are also available on the PlayStation 3. Since the PS4 is pegged as a gaming system more than a home entertainment center -- especially considering the system does not support external USB storage -- the lack of groundbreaking titles might cause some gamers to hold off on buying a system.
+"I think by January, they need to be very clear about what software will be available in the near term," Billy Pidgeon, an independent video game analyst, told TechNewsWorld.
+"It will be in Sony's best interest to make as much software available early in 2014 as possible," he added.
+"There's always a dividing line between early adopters and the mass market," Ted Pollak, senior game industry analyst at Jon Peddie Research, told TechNewsWorld. "In most console launches, the console software has not been optimized yet for the capabilities of the system. Whether we're talking about PlayStation 4 or Xbox One, some consumers may wait until the system has fully optimized titles. However, I think the people that wait for optimization are a minority."
+Delayed Game
+Watch Dogs was pegged as an important launch period title for the system and is hotly anticipated by many gamers. But developer Ubisoft delayed the game's release until the spring.
+"Having high-quality launch titles is important in any console launch," said Pollak. "However, all it takes is a few high-quality titles to satisfy most customers. ... People that were eagerly anticipating [Watch Dogs] specifically may hold off on purchasing the console. However, because the title is a new intellectual property and has not proven itself in the marketplace, the strength of that effect could be limited."
+Sales Targets
+Sony no doubt wants to storm right out of the gate with the PS4 after the PS3 lagged behind Microsoft's Xbox 360 in sales for much of those consoles' histories. The PS3 hit 80 million sales earlier this month, while the Xbox 360 had shipped more than 80 million units by the end of September.
+Nintendo's Wii U launched last year, but it has had disappointing sales, so the race for marketplace dominance appears to be between the PS4 and Xbox One.
+"Sony, in my market and from what I've observed, started advertising before Xbox in the United States, and they may be rewarded for that in the holiday season," Jon Peddie Research's Pollak offered.
+"However, Xbox has recently launched their marketing campaign. They're significant and drawing consumers towards the Xbox also," he pointed out.
+"Sony did have some wins, I think, that were basically picking up on some negatives from Microsoft, having to do with control," Pidgeon said.
+Microsoft stumbled in its early messaging, though ultimately it backed off, he pointed out. "There were some issues about whether games could be resold and whether the consumer would lose some value from that, which they feel very strongly about generally. The consumer wants to have resale value on the software. That gave Sony a bit of advantage, and they played further to that by concentrating on hardcore gamers, which is the early audience on PS4."
+Cheaper Console
+The PS4 already has a key advantage over the Xbox One -- it is retailing at US$399, $100 less than its rival, which debuts next week.
+"The two systems are in a bit of a race to see which one can develop a larger install base sooner," Pidgeon added. "The sooner there are 5 million, 10 million units in use out there, that gives third-party publishers the opportunity to have a million-seller [game]. Until you have 5-10 million of a particular console out there, it's very difficult to sell a million units of software."

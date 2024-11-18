@@ -1,0 +1,10 @@
+A click count campaign is a Campaign that counts clicks and not impressions. Just like with impression-based campaigns, click count campaigns can have a paced (click) targets or no target at all.
+Answer
+Setting up a click count campaign takes 3 steps:
+1. First you create the campaign. Make sure you choose Type: Click count.
+2. Then you add a click count creative.
+3. Finally you generate the click URL by clicking Tasks/Generate click URL.
+Clicking on this URL will redirect you to the click URL that was set on creative level. This way all clicks (but no impressions) on that link will be counted in Cxense Display on that specific campaign.
+Special setup
+Go through step 1-3 as above. Before implementing the click tracking url, add the parameter EASLink=:;ty=ct;EASLink=[insert_redirect_url_here]
+The EASLink=[URL] will use the added URL instead of the one edited in campaign creative. The clicks will be counted on that campaign in GUI, but you can redirect it to a URL added on site level.

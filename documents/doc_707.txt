@@ -1,0 +1,10 @@
+About NICAM
+What is NICAM?
+NICAM is a Nonhydrostatic ICosahedral Atmospheric Model (NICAM), used as a Global Cloud Resolving Model (GCRM). A subkilometer-mesh global simulation is already performed using the K computer by Miyamoto et al. (2013). NICAM is first developed by H.Tomita (JAMSTEC; now at AICS, RIKEN) and M.Satoh (AORI, The Univ. of Tokyo), and is now under development in cooperation with AORI, JAMSTEC, and AICS by the NICAM developers listed at here. Introduction papers of NICAM are Satoh et al. (2014, PEPS), Satoh et al.(2008, J.Comp. Physics), and Tomita and Satoh (2004, Fluid Dyn. Res.).
+Feb. 15, 2016: NICAM.15 released: See the brief summary :NICAM.15_changes.pdf
+Papers related to NICAM are listed at here and also announced by the NICAM Facebook
+.
+Experimental Monitoring of Madden-Julian Oscillation (MJO)
+For MJO research by NICAM, MJO is monitored every day by two types of MJO index. One is the index by Wheeler and Hendon (2004) produced by Bureau of Meteorology Research Center (Australia) / An All-season Real-time Multivariate MJO Index. The other is an index defined by projection of the band passed-filtered daily anomaly data of velocity potential at 200-hPa (CHI200) in JRA-25/JCDAS produced by Japan Meteorological Agency (JMA) and Central Research Institute of Electric Power Industry (CRIEPI) onto its EOFs. Raw climatology data of CHI200 is made by each daily averaged data from 1 April 1979 to 31 December 2008 and its 60 days low-passed filtered version is used as climatology data. Anomalies dataset of CHI200 from the climatology is bandpass-filtered by 30-90 days. The principal and second modes of empirical orthogonal function (EOFs) of 30-90 days filtered CHI200 anomalies data are used to define the cycle of the MJO. Both of the indices are opened in the page of MJO index.
+Keyword(s):
+References:

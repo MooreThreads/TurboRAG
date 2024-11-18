@@ -1,0 +1,6 @@
+Helicopter Tilt Control
+Helicopter Tilt Control
+A swash plate is used to control the pitch of the rotor blades in order to steer the helicopter in the air.
+A flying machine is usually steered in the air by varying the angle of rotation around three axes: longitudinal (roll), crosswise (pitch), and vertical (yaw). In airplanes the roll is controlled by the ailerons, the pitch is controlled by the elevators, and the yaw is controlled by the rudder.
+In helicopters the rotating main blades (with an airfoil cross section) take care of roll and pitch, while the yaw is controlled by the tail rotor. For roll and pitch, the blades are turned around their respective longitudinal axes with the help of the swash plate drive. As a result, the angle of attack of the air changes at the rotating blade, and consequently the lift on the blade is changed. When the swash plate is horizontal, then the lift is equal at every blade. As soon as the swash plate is tilted, the lift on the blades changes and causes a turning moment on the helicopter.
+The tilt of the lower swash plate is adjusted by the pilot. The rotating swash plate is placed on the lower swash plate on a bearing. The rotating blades are attached to the rotor shaft. The control rods attached to the rotating swash plate are what cause the adjustment of the blades.

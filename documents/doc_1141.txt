@@ -1,0 +1,32 @@
+Well, it’s time to point out more suspicious behavior / websites. Today’s is “thinblueline”.
+“ThinBlueLineShop.com was created in April 2016 as a LEO friendly store to give them and their supporters access to amazing accessories and novelty items that they’d love. At the Thin Blue Line Shop you will find great T-Shirts, Jewelry & Accessories, with brand new limited designs each week.”
+Right, okay then.
+It’s a themed novelty store that’s taking advantage of social conflict for personal profit.
+Now let us move on to the suspicious parts of “thinblueline”.
+Their Location
+If you look at their FAQ you’ll find that they never actually say where they are located. They say where a warehouse happens to be located. And the thing is, it’s probably not their warehouse.
+Blaine Washington is home to numerous warehousing, import, and distribution companies. It’s a small hub because of its proximity to Canada, ports, and the I-5 corridor (a densely populated area surrounding Interstate 5 in Western Washington).
+I’m betting that if they were to ever give an address it’d be to one of those warehouse and distribution companies.
+Their Website
+ThinBlueLine is hosted at BlueHost, which is a brand of The Endurance International Group, which is providing a whois privacy service to the owners of the thinblueline. That’s why there is no real information in the whois. So again, the real people behind this are obfuscated.
+Their Location, Again
+So since whois didn’t help, I went back and asked for clarification from “thinblueline” directly.
+When asked for their address and in which state they charge sales tax (their locus) they did not answer my question. If they had a warehouse in Washington state then they would be required to charge a sales tax of around 10% on all orders originating from Washington State. They do not.
+Which can only mean that they do not own that warehouse but instead use a warehousing service.
+They gave me the same non-information that is on their FAQ. They are a “north american headed” business.
+They state their payment processor is in Canada which is why there may be extra fees and they have a warehouse in Washington. None of this is actually telling who and where they are. These are all other companies.
+So on to the payment processor!
+The Payment Processor
+I do not know of ANY business that uses a foreign processor instead of a local one. Any fee cut you might get will only lead to lost sales due to the fact that random foreign transaction charges are showing up in customer’s accounts. So it seems pretty unlikely they’re using a foreign based payment processor.
+So how are they taking payments exactly? Well, they use Shopify, a do it yourself ecommerce solution.
+Shopify has a payment service, operated by the payment processor Stripe, integrated into their ecommerce service.
+Shopify is a Canadian company but has a presence inside the United States.
+When you use a Shopify store located inside the United States, you are not charged an international transaction fee, because it is not in fact an international transaction.
+However, the thinbluelineshop is somehow an international transaction.
+So it seems that they are a Canadian resident, or an identity thief pretending to be a Canadian resident, and so internally banks / Stripe see the transaction as a movement from the US to Canada… leading to a fee.
+Which is kind of concerning because… well… we have no idea who they are. We know who everyone else is, but not who they are, and why transactions are being processed as international payments.
+Conclusion
+This is an individual, or a group of individuals, who are using social conflict in the United States to make money for themselves.
+They do not say where the money is going, they do not say they are actually a business, they do not say they are even American, they do not have a US based payment processor for god knows what reason, they seem to use a warehousing service and do not have their own warehouse, and they don’t have any known address.
+The entire website is suspicious and should be dealt with accordingly.
+Use at your own risk.

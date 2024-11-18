@@ -1,0 +1,38 @@
+Non-Functional Requirements in an Agile World
+As an Agile enthusiast I’ve always rejected ‘Requirements’ as being old-school and contrary to the Agile way. However I’ve just come across Roxanne Millar’s book ‘The Quest for Software requirements: Probing questions to bring Non-functional requirements [NFRs] into focus’.
+While I am still a firm believer in User Stories for the functional aspect I am aware that that getting the Non-functional aspects covered effectively is vital, but rarely mentioned in Agile circles.
+This article refers to the Scaled methods:
+- Disciplined Agile [Ambler]
+- SAFe [SAFe].
+SAFe describes NFRs as “persistent qualities and constraints”.
+Many NFRs begin their lives as ‘Enablers’ that need to be addressed. Thereafter they constrain the system and all new Backlog items going forward. [SAFe]
+Mike Cohn [Cohn] believes many NFRs can fit as User stories, however, responses to his blog post present alternatives ideas.
+Jan Kees Velthoven [2013 – Responding to Cohn’s post] proposes an alternative format:
+As an [actor] I must [constraint] otherwise [fact or argument]
+Scott Ambler [Ambler] would call these Technical stories.
+In reality NFRs, including architectural implementations do not fit simply into the User story model. Some relate to a single User story / other Product Backlog Item (PBI) and may be part of the acceptance criteria, some are global; however, many relate to various subsets of the User stories. These are probably the hardest to deal with. A major error is wrongly assuming an NFR is global.
+Ambler would record those which are not stories or Acceptance criteria items in a list for developers and testers to manage. In this he is following the RUP concept of ‘Supplementary Requirements’ listing all NFRs.
+Some NFRs, once delivered, can be added to the Definition of done so that subsequent User stories conform to them. SAFe extends this concept to iterations, program increments and Releases. It defines it in the ‘SAFe Requirements model’ presenting a highly structured set of relationships between Backlog items, NFRs and System qualities tests.
+Surprisingly, in her book, Millar ignores Tom Gilb’s Planguage, see [Gilb], (developed over decades) which offers an excellent way of approaching metrics for NFRs, replacing the more common vague statements which stakeholders generally offer. Although SAFe states that when specifying NFRs they should be Bounded; Negotiable; Independent and Testable it fails to suggest any further level of definition of individual NFRs, at least in the material referenced below. However, it does point out that a small increment to an NFR may have a dramatic cost implication, don’t just let stakeholders assume linearity. Uptime is a good example – see [SAFe].
+Gilb says:
+“…it is essential that the explicit notion of quantification be added to agile concepts”. “Quality is Scalar, hence variable and measurable”.
+User stories commence life as Epics and are then further defined as they get nearer to implementation. Is this approach appropriate for NFRs too? Most NFRs can be defined with a range however this goal does not generally need to be achieved in the early stages. In the Agile world we benefit from learning and adapting as we go along, consequently NFRs should be adjusted accordingly.
+After defining, the NFRs need to be valued – See Shopping cart mentality in FURPS+ article [IBM].
+Is it necessary to define the NFRs upfront?
+There are some reasons why this could be of value:
+Gabrielle Benefield and Susan Atkinson find Gilb’s Planguage valuable in defining Agile contracts where payment should be staged and based on Business Value delivered. Adam Russell [Responding to Cohn in 2011] points out that NFRs should be identified in Business cases so that the Business can decide whether, say, a 5% increase in an NFR is actually worth the cost.
+Russell believes NFRs should always be expressed upfront:
+to start the process of focusing your attention on what qualities are valued in your target user population, and developing the team vocabulary to describe and analyse them
+A lot of effort could be expended on managing NFRs, however the effort should relate to the value delivered. Hence an NFR which goes up exponentially in cost as the scale is increased is worthy of a fair amount of effort!
+As with Functional requirements, NFRs are not completely visible at the start of a project so a framework such as FURPS+ [IBM] can be useful in scanning for them.
+From an Agile perspective, I would recommend that both NFRs and their metrics are regularly reviewed during planning sessions as, inevitably, more becomes known.
+The delivery Roadmap needs to incorporate the NFRs showing at what point each is expected to be implemented unless it is recorded as a PBI. With the Roadmap displayed on the wall everyone should be aware of the situation and it should be reviewed in each planning session. This is probably the best way of handling Ambler’s recommendation of using the Lean principle of Deferring commitment
+Conclusion
+My conclusion is that those of us in the Agile world needs to take Non-Functional Requirements much more seriously if we want to deliver Agile effectively.
+References:
+- [Ambler] Strategies for Implementing Non-Functional Requirements
+- [Benefield] Lean Agile Legal Contracts for outsourcing – Gabrielle Benefield
+- [Cohn] Non-functional Requirements as User Stories
+- [Gilb] What’s Wrong With Agile Methods –Some Principles and Values to Encourage Quantification – Gilb & Brodie 2007
+- [IBM] Capturing Architectural Requirements IBM 2005
+- [SAFe] Nonfunctional Requirements Abstract

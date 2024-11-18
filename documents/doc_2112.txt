@@ -1,0 +1,44 @@
+Thread
+:
+Federation Showcase
+05-04-2008, 03:19 PM
+#
+1
+(
+permalink
+)
+tnpir4002
+SFM Guru
+Join Date: Jun 2006
+Age: 22
+Posts: 201
+Downloads: 0
+Uploads: 0
+Federation Showcase
+People have left and right been asking to see some updates from me. So, since I've learned to give the public what they want, here's some new renders of some very old sets and props.
+First a word on starships...I have to say I am still thoroughly impressed with Sarod's USS Voyager mesh, it's stood the test of time and remains the most accurate mesh out there. I imported it into Bryce and this is more or less his version as presented, the only change I made was to make some of the parts (like the impulse vents and the deflector) light up, and to make the running lights glow. The import caused a few vertex artifacts as you'll see below along the hull, I can't figure out how to eradicate those so if anyone has suggestions I'd love to hear them. Sarod, your starship mesh made a terrific companion to my bridge set! Now if only someone could help me by making me a Voyager captain's chair I'd be set
+Also, I've learned how difficult it is to come up with a lighting scheme that will work on a starship from all angles. It finally dawned on me that rarely do you see the sunlight in a shot of the Enterprise-D coming from BEHIND the camera, such that the side you're directly seeing is lit. Usually the sunlight is coming from the opposite side of the ship with fill light coming from the stars, or at the very least the light coming in from a side.
+I'm also realizing that, with the TNG shots at least, they were very clever about some of their camera shots, and to duplicate them was more difficult than you might think.
+Alright, well without further ado, have a look at some of the newly updated interiors.
+Chellik's Office.
+This was originally built based on the layout from the Admiral's Quarters on the Battlestar Pegasus, and was meant to be used in concert with the model of the Caretaker's Array that I built some time ago. Simple and elegant, with finish in wood, stone, and glass, this newly refined version bosts an improved lighting scheme and better texturing on the doors.
+TNG Observation Lounge (ENT).
+As you can see from the credit here, this is how it appeared during the series finale from "Enterprise," titled "These are the voyages...", largely similar to the previous appearances in the actual TNG with two major exceptions--the walls here have a much more pink hue to them than they ever did in TNG, and the doors leading into the room were depicted as being orange with red labels, while in the canon TNG they were always seen to be gray. Still, I like the lighting scheme they had in this version, so I decided to do my best to recreate it.
+TNG Ready Room.
+This is one of my favorites, although it's very difficult to do wide shots in this room because of the odd lines, which look even stranger when you shoot wide with a camera. The very first version of this room was designed to be seen in near-darkness as the scene was more or less a memorial, but I decided that wouldn't cut it so that meant completely redoing the textures and the lighting scheme to match the TV version. Within the context of the story this is to be featured in, this was designed to be on board a ship commanded by an old friend of mine, which is why there's a photo of us on the wall and why my service record is on his desk screen.
+VOY Corridor.
+The primary change with this version is that the colors are all taken directly off screencaps from the show. It's trickier than you might think, since those gold lights in the top corners affect everything more than it looks like they do. Even so, this set came out really well, and I'm happy with it.
+VOY Transporter Room.
+Mostly just improvements in texturing with this one, with most of the colors taken from the pilot episode "Caretaker" or the first-season episode "Eye of the Needle." Between this and the corridor set, I've learned that Voyager had a lot more shades and hues of gray than a casual viewing might make you think. I'm VERY happy with this one though, since it looks a lot more realistic to me than the previous version did.
+Attached Images
+chellik's-office-sfmcredit.jpg
+(80.5 KB, 365 views)
+tng-obs-lounge-ent00001-sfmcredit.jpg
+(60.4 KB, 293 views)
+tng-ready-room00001-sfmcredit.jpg
+(69.4 KB, 307 views)
+voy-corridors00001-sfmcredit.jpg
+(49.0 KB, 250 views)
+voy-transporter-room00001-sfmcredit.jpg
+(60.8 KB, 252 views)
+tnpir4002

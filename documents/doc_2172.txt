@@ -1,0 +1,7 @@
+Infocomm Development Authority of Singapore - IDA
+The Electronic Transactions Act (ETA) (Cap 88) was first enacted in July 1998 to provide a legal foundation for electronic signatures, and to give predictability and certainty to contracts formed electronically. In July 2010, the ETA was repealed and re-enacted to provide for the continuing security and use of electronic transactions.
+Singapore was one of the first countries in the world to enact a law that addresses issues that arise in the context of electronic contracts and digital signatures, and continues this trend by being amongst the first to implement the United Nations Convention on the Use of Electronic Communications in International Contracts, adopted by the General Assembly of the United Nations on 23rd November 2005 (the UN Convention). The Electronic Transactions Bill was introduced in Parliament on 26 April 2010, and passed on 19 May 2010. The re-enacted Act came into force on 1 July 2010.
+The Singapore ETA follows closely the UN Convention, which is an update to the UNCITRAL Model Law on Electronic Commerce, to better fit the current Internet environment. The UN Convention sets a new global standard for national electronic commerce legislation.
+The ETA addresses the following issues:
+Legislation is reproduced on this website with the permission of the Government of Singapore. Acts
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.

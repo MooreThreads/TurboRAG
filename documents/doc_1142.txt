@@ -1,0 +1,23 @@
+MatCap (Material Capture) shaders are complete materials, including lighting and reflections. They work by defining a color for every vertex normal direction relative to the camera. You can switch the default renderer to MatCap in Scene Settings. You can also switch a Lit model to MatCap in the viewer controls.
+After setting the renderer, you can edit the MatCap from the Materials tab.
+MatCap Image
+The default MatCap is "skin_soft", but there are 6 MatCap images available to all users. Switch between them in the list.
+MatCap Tint
+Use the color picker to apply a color to the MatCap material.
+Separate Materials
+Disable Apply to all materials to use a different MatCap for each material. Switch between them in the dropdown.
+Curvature
+Use the Curvature slider to increase the contrast of details, including normal maps. It requires smooth-shaded vertex normals on geometries.
+Importing Custom MatCaps
+PRO, Premium, and Business users can import custom MatCap images by clicking Import MatCap Image. The maximum file size per MatCap image is 4MB.
+Hello sketchfab, is there a way to view the models with different Matcaps as a viewer and not uploader? The old Matcap (the sepia shade) was so much better looking and much more descriptive of the shapes than the new chrome one in my opinion, it's way too shiny.
+If you're ever thinking about it then maybe adding an extra feature in the inspector would be great.
+thank you.
+Hello,
+I just answered your email, too. It's not possible yet, but I'll pass on the feedback!
+James
+hello, im not see the case "Apply to all materials " on animation scene, its not possible to do animation with different material and different mesh? thanks
+Hello,
+Is this the model?
+It only has one material, so the "Apply to all materials" option is not relevant.
+Please sign in to leave a comment.

@@ -1,0 +1,20 @@
+SYSTEM STATUS
+Known issues & planned maintenance schedule
+Wednesday 8th May - Server upgrade & update
+This scheduled maintenance that may lead to a short period of downtime which may affect someh osting and email services on May 8th, 2019. To minimise the impact to you and your business, this work will commence at 9pm and we expect it to last 2 hours. The aim of this maintenance and upgrade is to continue to improve the service we provide.
+You can keep track of the status of our updates on this page or submit a support ticket if you have any questions or concerns.
+Thank you for your ongoing understanding during these periods where such steps are essential in order to improve the service we provide.
+Current System Status
+Degraded Performance on cluster 43 and cluster 50
+Thu, 25 Nov 2021 13:05:46 +0000
+Investigating (Nov 25, 2021 - 13:04 GMT)
+We are aware that some customers will be seeing degraded website performance on web servers in clusters 43 and 50 (web57, web58, web59, web60, web239, web240, web241, web242).
+This may see slower than normal loading times, or errors for some websites.
+Our teams are investigating this.
+14:01 - This has now been resolved.
+Planned System Maintenance
+There is currently no planned maintenance.
+MY ISSUE IS NOT RELATED TO ANYTHING HERE!
+Please submit a SUPPORT TICKET if your issue is not related to any system status notice on the left.
+TELEPHONE SUPPORT
+Sorry, but we do not provide telephone support at this time.

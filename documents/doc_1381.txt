@@ -1,0 +1,48 @@
+« Back to article page
+It seems to fix these bugs and security issues in a very unique way - on all the machines at our office that have been updated, it's actually uninstalled the Adobe Reader 8 application completely.
+Perhaps not the intended result, but certainly seems to fix the bugs from previous versions!
+Quite why anyone has not ditched Acrobat reader for Foxit is beyond me.
+...to uninstall it.
+Adobe Reader is such a loathesome pile of overweight lard. I binned in favour of Foxit reader. No more weird exceptions and browser hangs.
+Paris, 'cos she's dainty, unlike Adobe Reader.
+...and Acrobat 8 is no exception. It's even more bloated and buggy than Acrobat 7 which takes some doing....?
+For anyone on dial-up wanting to install this 32MB update, note that the full install is "only" 22MB.
+Go on, Adobe, explain that!
+What I've always wondered is why the hell does it want to install a desktop icon. I mean, it's almost unique as an application you practically _never_ want to run directly, yet one of the more aggressive in providing you with the means to. Self-importance is indeed the only feasible explanation.
+@Matthew:
+The reason some of us carry on enduring Adobe's horrid reader is because Foxit's free version lacks a couple of features, e.g. you can't "Save as Text".
+?"
+Well, since people often use Reader to view documents from the web, being out of date places the users at risk. So the software checks for updates by default, to protect the users. There is a simple reg file available from the Adobe knowledge base which disables the updater, if it bothers you.
+The product is also slightly larger than it could be, because it contains many Acrobat features, which paying Adobe customers can switch on (search Reader Extensions). There are very few things which are truly free, lots of products like this are given away as a mechanism to encourage the sale of paid products. Foxit is no exception.
+In this case, you are getting Adobe Reader free so that companies who want to make forms which offer web service and database connectivity, the local saving of filled forms, commenting and more don't need to buy everybody they send a form to a copy of Acrobat.
+I used to think of Reader was bloated software, until I realised just how much was possible with the right amount of kerching.
+But as for this update, I agree with the sentiments... botched is a good word. No details of security fixes, massive file size, no incremental available. Hopefully they will issue an apology for this debacle.
+"There is a simple reg file available from the Adobe knowledge base which disables the updater, if it bothers you."
+A registry patch? Why? What's wrong with the more usual approach of an installer option? Or a preference switch?
+Foxit looks great on Windows. Not so on Linux. If anyone can suggest a Linux PDF reader which a) has a search function, and b) is available in rpm form, I'm all ears.
+"A registry patch? Why? What's wrong with the more usual approach of an installer option? Or a preference switch?"
+I only know how to switch it off from deploying on a large scale, where the last thing you want is automatic updates kicking of as and when they want. I expect you probably can disable it from within the app, but I've never felt the need to find out.
+If you want to find out how to disable it using the GUI method, find someone who actually runs the software on Windows... I use Reader on Linux, and get my updates through my standard distro repositories.... Adobe doesn't even bother to -make- an automatic updater for the Linux versions as far as I'm aware.
+My suggestion for a PDF Reader for Linux which looks amazing, has a very powerful search, is available in RPM and is in the non-OSS repo for most distros by default, and has the best support for all of the latest and greatest PDF features is.... Adobe Reader 8.1.2!
+:).
+I know Wikipedia is a dirty word but you can't argue with this:
+I believe my PDF reader is evince - it's whatever is the default PDF reader out of the box when you install Ubuntu. It can't be too bad since I've never noticed it, or had any cause to care what it is - just how I like my software.
+Rich: you might have tried it before but if not I think it might well be worth a look for you. Not sure how it is for search but it's free.
+And re: "In (partial) defence of Adobe Reader... " - there are tons of things that are truly free. Evince is just one example. Practically every piece of software I use on a regular basis, outside of work, is Free (big F) and all of it is free (small f). The only non-FOSS software I use is the display driver on one of my laptops. I used to have a flash plugin as well but they don't do a 64 bit linux binary of that so I didn't install it on my new box ... and haven't missed it.
+I use xpdf on Linux, which has a search function. I don't know about RPMs because I compile almost all my stuff from source.
+For some reason, my version totally ignores those annoying "can't print this document" and "can't copy/paste this document" flags. Can't imagine why...
+And I also can't imagine why the f*ck anyone would make a PDF then not allow you to print it, but then that's my stupid credit card company and their PDF statements.
+@Rich
+As a Fedora user I read pdfs using Evince. Naturally it comes as an rpm, you should be able to build your own rpm if the Fedora rpm is unsuitable.
+GhostScript.
+Views PostScript and PDF files and can convert between the two a treat.
+And it's free.
+Fools.
+Here too.
+Didn't this thing you guys are talking about used to be called acrobat?
+Not that I care!
+Please
+Download
+Foxit
+The period for commenting on this story has finished
+Intel has been ordered to hand over secret employee interviews from an internal investigation looking into documents and e-mails that went missing during its antitrust trial with AMD.

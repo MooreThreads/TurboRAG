@@ -1,0 +1,71 @@
+Blockage in Multistage Interconnection
+Up:
+Switch-Based Interconnection Networks
+Single-Stage Networks
+Contents
+Multistage Networks
+Figure 2.5:
+Multistage interconnection network and an example
+Shuffle-Exchange network (SEN).
+Multistage interconnection networks (MINs) were introduced as a means to improve some of the limitations of the single bus system (to improve is the availability of only one single path) while keeping the cost within an affordable limit.
+Such MINs provide a number of simultaneous paths between the processors and the memory modules (see Fig.
+2.5
+a).
+A general MIN consists of a number of stages each consisting of a set of
+switching elements. Stages are connected to each other using Inter-stage Connection (ISC) Pattern. These patterns may follow any of the routing functions such as Shuffle-Exchange, Butterfly, Cube, and so on.
+Figure
+2.5
+b shows an example of an
+MIN that uses the
+SEs described before. This network is known in the literature as the Shuffle-Exchange network (SEN).
+The figure shows how three simultaneous paths connecting the three pairs of input/output
+,
+, and
+can be established. It should be noted that the interconnection pattern among stages follows the shuffle operation.
+In MINs, the routing of a message from a given source to a given destination is based on the destination address (self-routing). There exist
+stages in an
+MIN.
+The number of bits in any destination address in the network is
+. Each bit in the destination address can be used to route the message through one stage. The destination address bits are scanned from left to right and the stages are traversed from left to right.
+The first (most significant bit) is used to control the routing in the first stage; the next bit is used to control the routing in the next stage, and so on. The convention used in routing messages is that if the bit in the destination address controlling the routing in a given stage is 0, then the message is routed to the upper output of the switch. On the other hand if the bit is 1, the message is routed to the lower output of the switch.
+Consider, for example, the routing of a message from source input 101 to destination output 011 in the
+SEN shown in Figure
+2.5
+b. Since the first bit of the destination address is 0, therefore the message is first routed to the upper output of the switch in the first (leftmost) stage. Now, the next bit in the destination address is 1, thus the message is routed to the lower output of the switch in the middle stage. Finally, the last bit is 1, causing the message to be routed to the lower output in the switch in the last stage.
+Figure 2.6:
+Multistage interconnection network and an example
+Shuffle-Exchange network (SEN).
+The Banyan Network
+; A number of other MINs exist, among these the Banyan network is well known (see Fig.
+2.6
+a, an example of an
+Banyan network ).
+If the number of inputs, for example, processors, in an MIN is N and the number of outputs, for example, memory modules, is N, the number of MIN stages is
+and the number of SEs per stage is
+, and hence the network complexity, measured in terms of the total number of SEs is
+.
+The time complexity, measured by the number of SEs along the path from input to output, is
+. For example, in a
+MIN, the length of the path from input to output is 4.
+The total number of SEs in the network is usually taken as a measure for the total area of the network. The total area of a
+MIN is 32 SEs.
+The Omega Network;
+The Omega Network represents another well-known type of MINs. A size N omega network consists of n (
+single-stage) Shuffle-Exchange networks. Each stage consists of a column of N=2, two-input switching elements whose input is a shuffle connection. (Figure
+2.6
+b illustrates the case of an
+Omega network.
+As can be seen from the figure, the inputs to each stage follow the shuffle interconnection pattern. Notice that the connections are identical to those used in the
+Shuffle-Exchange network (SEN) shown in Fig.
+2.6
+a.
+Owing to its versatility, a number of university projects as well as commercial MINs have been built. These include the Texas Reconfigurable Array Computer (TRAC) at the University of Texas at Austin, the Cedar at the University of Illinois at Urbana-Champaign, the RP3 at IBM, the Butterfly by BBN Laboratories, and the NYU Ultracomputer at New York University.
+The NYU Ultracomputer is an experimental shared memory MIMD architecture that could have as many as 4096 processors connected through an Omega MIN to 4096 memory modules.
+The MIN is an enhanced network that can combine two or more requests bound for the same memory address. The network interleaves consecutive memory addresses across the memory modules in order to reduce conflicts in accessing different data elements.
+The switch nodes in the NYU Ultracomputer are provided with queues (queue lengths of 8 to 10 messages) to handle messages collision at the switch. The system achieves one-cycle processor to memory access.
+Blockage in Multistage Interconnection
+Up:
+Switch-Based Interconnection Networks
+Single-Stage Networks
+Contents
+Cem Ozdogan 2006-12-27

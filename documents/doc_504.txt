@@ -1,0 +1,50 @@
+jQuery Events - 16
+- Posted: Aug 06, 2012 at 10:30 AM
+- 61,826 Views
+- 14 Comments
+Something went wrong getting user information from Channel 9
+Something went wrong getting user information from MSDN
+Something went wrong getting the Visual Studio Achievements
+Right click “Save as…”
+This lesson shows how to utilize jQuery Events to create a simple game by writing and attaching anonymous functions to events fired on a web subtlety as to why the score variable can retain its value between clicks. I understand it because of my experience with C#, lambda expressions, and closures, but it might not be so obvious to the beginning programmer.
+Hi Bob , I really appreciate this series . it is so helpful and enlightening .
+I have two questions :
+if I have a loop ($.each) and inside I have a nested "if" statement when I am using the "return" keyword in the if statement it returns to the containing "each" statement instead of exit the function. what am I doing wrong ? ie:
+$('#btn').click(function () {
+var found = false;
+$.each(star1, function (i, val) {
+if (val == $('#starName').val()) {
+found = true;
+return ('found!!!'); // although that it is found the loop keep on going
+} else {
+if (i == (star1.length - 1)) {
+if (!found) {
+return ('not found');
+}//not found
+};
+};//end else
+});//end each
+});//end click
+thank you bob tabor
+I have never seen
+Hi Bob, is there a JQuery shortcut for every single Javascript command?
+Also, I'm a little confused regarding the src script with the following anchor tag:
+Are we supposed to download jQuery, or can we just link all of our html files to that address?
+Thanks in advance.
+@Ali: When you put () around the value you're returning, you confuse javascript ... you're saying you want to call a method called return instead of the keyword. Remove the () around ('found!!!') and I'm betting it will work. Good luck!
+@Bob tabor is a idoit: . . . classy. And grammatically challenged.
+@plok18644: You're welcome!
+@guih6777: How did you miss it!?
+@lib115634: Sorry?
+@Jacob: re: shortcuts ... I don't think so. Just for the ones that are laborious to write.
+@Jacob: re: download ... You only reference THAT SINGLE FILE, the actual jQuery library file --> jquery-1.7.1.js ... it is located at a number of web sites where it can be quickly downloaded (or perhaps even cached, if other web site builders like yourself use the same exact URL to host the file). The remainder of your HTML , CSS and image files will point to YOUR domain name. Hope that helps!
+hi bob,
+I feel like a devloper.
+Thanks.
+So if I want to reset the score when I click Start Over, how would the code look like(what do U have to modify)?
+@TinTin: Hi TinTin ... I'm am absolutely NOT trying to be a smart aleck in what I'm about to say ... I believe in the "teach a man to fish and he'll fish for himself the rest of his life" philosophy. So, tell me what you've tried already and let me walk you through it if you get stuck. Hopefully if you've been following along up to this point, you should be able to do exactly what you're asking.
+If you don't struggle, you don't truly!
+need videos related to proxy in javascript
+Thank you Bob Tabor
+Remove this comment
+Remove this threadclose

@@ -1,0 +1,7 @@
+*.pt
+*.json
+# *.txt
+*.pyc
+test*.py
+tmp*.py
+*Mtt*

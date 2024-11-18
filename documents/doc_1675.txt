@@ -1,0 +1,93 @@
+Dear All
+iam entersting in haccp program for bottling water plant starting from raw materials e .g preforms PET , Clousers , Empty carton etc...
+till finished goods (bottled water).including flow chart of the raw materials and different procedures of the good manufacturing process.
+Regards
+Bottled water HACCP program
+Started by nagi , Jul 30 2011 07:50 PM
+10 replies to this topic
+#1
+Posted 30 July 2011 - 07:50 PM
+Dear All
+- 0
+#2
+Posted 30 July 2011 - 09:02 PM
+Dear nagi,
+Suggest you try searching for "water", there are several haccp plans for drinking water on this forum including, i think, 2 or 3 for bottled.
+Rgds / Charles.C
+- 0
+#3
+Posted 03 August 2011 - 02:16 AM
+Dear nagi,
+(addendum to previous post)
+This thread which contains various cross-links may help -
+Rgds / Charles.C
+- 0
+#4
+Posted 03 August 2011 - 08:19 PM
+Hi nagi,
+I've attached a copy of a hazard analysis and risk assessment of an actual water bottling process I conducted a few years ago.
+I'm not claiming it's perfect but it should provide some useful insight and guidance for the development of your final HACCP plan.
+NOTE: There are a couple of tabs in this workbook so check them all...
+George.
+Attached
+#5
+Posted 04 August 2011 - 06:59 AM
+Dear George,
+Very elegant
+. Many thks.
+Not my area really but I deduced from the (CCP) text that a significant amount of any occurring pathogens may typically not be trapped by the micron filter hence the UV step is unavoidable. Are both preventive measures independently capable of “full” CCP elimination or is this in reality a “combination” CCP ?
+(Just curious, I can remember seeing a UV unit on its own in one plant [not bottled water] but there were definite throughput limitations) (textually, analysing as separate CCPs certainly looks likely to be less argumentative
+.)
+Rgds / Charles.C
+- 0
+#6
+Posted 04 August 2011 - 04:28 PM
+Hi Charles
+In practice, the two steps are used in combination. Needless to say the more hurdles in place the better. For packaged waters not claiming Spring or Mineral water status you would typically go for combined CCP's. Others can be used including RO, Ozone etc.
+The UV system depending on its capacity will achieve a certain log reduction in the total count and should be sufficient to deal with certain pathogens including E. Coli. (Of course all this needs to be validated - flow rates, incoming loads, lamp intensity and so on...) Pathogens such as cryptosporidium may not be killed by UV and this is one of the reasons why .2 micron filtration may be used. It's worth noting that under various standards and legislation, Mineral and Spring Waters are not allowed to be treated (a couple of exceptions are allowed) and therefore UV would prevent use of this designation. Source water would need to be to standard...
+Ge
+#7
+Posted 10 August 2011 - 06:32 AM
+Dear nagi,
+I've attached a copy of a australian drinking water guidelines - chlorination as CCP , process control, monitoring, and verification.
+You need to zoom up to 400% for clear view.
+This copy i saved previously from forum but i forget the thread (you may find upon searching..)
+It may give some idea and help to make a HACCP program.
+Attached Files
+- 0
+Join me on
+Abdul Qudoos on LinkedIn
+Follow me on twitter Healthy_Food_
+Visit my website Healthy Food Management
+Abdul Qudoos on LinkedIn
+Follow me on twitter Healthy_Food_
+Visit my website Healthy Food Management
+#8
+Posted 10 August 2011 - 01:27 PM
+Dear Abdul Qudoos,
+Thks input, source is (another quite useful thread for links maybe
+).
+One snag may be that people who produce bottled water may wish to avoid using chlorination.
+Rgds / Charles.C
+- 0
+#9
+Posted 12 August 2011 - 08:06 PM
+Hi George
+Thank you so much for the usefull informations.
+regards
+nagi
+- 0
+#10
+Posted 05 January 2012 - 09:29 AM
+Dear Mr. Geroge
+We are producing PET preforms and HDPE closurs for mineral water purpose and supplying to Pepsi and Coke hence what are the CCP needed as per USFDA regulatory such as migration etc.
+In my process we did not found any CCP and OPRP and all are controlled by PRP regarding Hygiene practices. However, will migration will affect by injection molding processing temperature? Pls explain
+Thanks
+name=]']]
+- 0
+#11
+Posted 09 March 2012 - 09:38 PM
+I am a student and write work related to HACCP for the company that packaged water balloons from 19l. I need help: (
+- 0
+0 user(s) are reading this topic
+0 members, 0 guests, 0 anonymous users

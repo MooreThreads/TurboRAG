@@ -1,0 +1,13 @@
+Abstract
+The gastrointestinal tract presents a formidable barrier for pathogens to initiate infection. Despite this barrier, enteroviruses, including coxsackievirus B3 (CVB3), successfully penetrate the intestine to initiate infection and spread systemically prior to shedding in stool. However, the effect of the gastrointestinal barrier on CVB3 population dynamics is relatively unexplored, and the selective pressures acting on CVB3 in the intestine are not well characterized. To examine viral population dynamics in orally infected mice, we produced over 100 CVB3 clones harboring nine unique nucleotide “barcodes.” Using this collection of barcoded viruses, we found diverse viral populations throughout each mouse within the first day postinfection, but by 48 h the viral populations were dominated by fewer than three barcoded viruses in intestinal and extraintestinal tissues. Using light-sensitive viruses to track replication status, we found that diverse viruses had replicated prior to loss of diversity. Sequencing whole viral genomes from samples later in infection did not reveal detectable viral adaptations. Surprisingly, orally inoculated CVB3 was detectable in pancreas and liver as soon as 20 min postinoc-ulation, indicating rapid systemic dissemination. These results suggest rapid dissemination of diverse viral populations, followed by a major restriction in population diversity and monopolization in all examined tissues. These results underscore a complex dynamic between dissemination and clearance for an enteric virus. IMPORTANCE Enteric viruses initiate infection in the gastrointestinal tract but can disseminate to systemic sites. However, the dynamics of viral dissemination are unclear. In this study, we created a library of 135 barcoded coxsackieviruses to examine viral population diversity across time and space following oral inoculation of mice. Overall, we found that the broad population of viruses disseminates early, followed by monopolization of mouse tissues with three or fewer pool members at later time points. Interestingly, we detected virus in systemic tissues such as pancreas and liver just 20 min after oral inoculation. These results suggest rapid dissemination of diverse viral populations, followed by a major restriction in population diversity and monopolization in all examined tissues.
+Keywords
+- Coxsackievirus
+- Dissemination
+- Evolution
+- Viral pathogenesis
+- Viral population dynamics
+ASJC Scopus subject areas
+- Microbiology
+- Immunology
+- Insect Science
+- Virology

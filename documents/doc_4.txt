@@ -1,0 +1,33 @@
+CHI 2010 Workshop May 7 or 8, 2011 (final date to be announced)
+Call for Participation
+Large interactive displays are now common in public urban life. Museums, libraries, public plazas, and architectural facades already take advantage of interactive technologies for visual and interactive information presentation. Researchers and practitioners from such varied disciplines as art, architecture, design, HCI, and media theory have started to explore the potential and impact of large display installations in public urban settings.
+This workshop aims to provide a platform for researchers and practitioners from different disciplines such as art, architecture, design, HCI, social sciences, and media theory to exchange insights on current research questions in the area. The workshop will focus on to the following topics: how to design large interactive display installations that promote engaging experiences and go beyond playful interaction, how different interaction models shape people’s experience in urban spaces, and how to evaluate their impact.
+Workshop Goals & Topics
+The goal of this one-day CHI 2011 workshop is to cross-fertilize insights from different disciplines, to establish a more general understanding of large interactive displays in public urban contexts, and to develop an agenda for future research directions in this area. Rather than focusing on paper presentations, this workshop aims to trigger active and dynamic group discussions around the following topics:
+Beyond Playful Interaction
+A number of studies found that large display installations invite for playful interaction but often fail to convey meaningful experiences related to content. This raises the following questions:
+- How can we design installations that endure people’s attention past the initial novelty effect and direct the interest toward the content?
+- What design strategies can be applied to promote an active individual and social exploration and discussion of the presented information?
+A number of interaction techniques have been explored for large displays in public spaces ranging from interaction via cell phones, to direct-touch or full body interaction. We would like to discuss:
+- How do different interaction methods shape people’s experience of large display installations in urban spaces?
+- How do interaction methods differ from each other in terms of triggering interaction and engagement with the presented content?
+Different quantitative and qualitative methods have been applied to evaluate people’s experience and use of large display installations in public spaces. During the workshop we would like to discuss:
+- How can we evaluate the "success" of large display installations in urban spaces?
+- How can particular aspects of public large display installations such as engagement be evaluated?
+- What kind of evaluation methods are most effective in different progress stages (design phase/installment phase)?
+For more details on the workshop please refer to our extended abstract and workshop proposal.
+Submission Details
+Submit a position paper (maximum 4 pages) to largedisplaysinurbanlife@gmail.com by January 14, 2011 using the CHI extended abstract format. The paper should describe experiences, works in progress, or theories around designing and/or evaluating large interactive displays in public urban settings. We plan to explore approaches and insights from different disciplines to this topic so submissions from art, architecture, design, HCI, media theory, and social science are highly encouraged. We welcome all methodological approaches and techniques centered around the topic of large interactive displays in urban life.
+At least one author of each accepted position paper needs to register for the workshop and for one or more days of the CHI conference itself.
+Important Dates
+Submission Deadline: January 14, 2011
+Notification of acceptance: February 11, 2011
+Workshop: May 7 or 8, 2011 (final date to be announced)
+WORKSHOP ORGANIZERS
+Uta Hinrichs is a PhD candidate in computational media design at the Innovations in Visualization (InnoVis) research group of the University of Calgary, Canada, under the supervision of Sheelagh Carpendale. Her research focuses on the design and study of large display interfaces to support lightweight information exploration in walk-up-and-use scenarios
+Nina Valkanova is doing her PhD at the interaction group of the Universitat Pompeu Fabra (UPF) in Barcelona, Spain under the supervision of Ernesto Arroyo. Her research interest focuses on the design of urban media facades exploring the intersections between scientific and artistic design knowledge.
+Kai Kuikkaniemi is a project manager in Helsinki Institute for Information Technology. He is currently leading a national research project focusing on public displays. His earlier research has focused on exploring novel multiplayer game designs ranging from pervasive gaming to biosignal adaptive gaming.
+Giulio Jacucci is a professor at the University of Helsinki at the Dept. of Computer Science and director of the Network Society Programme at the Helsinki Institute for Information Technology. He leads several interactional projects on interaction design and ubiquitous computing, and is co-founder of MultiTouch Ltd. a company commercializing products for multi-touch screens.
+Sheelagh Carpendale.
+Ernesto Arroyo holds an associate teaching position at the Dept. of Information and Communication Technologies of the Universitat Pompeu Fabra (UPF) in Barcelona, Spain. He earned his PhD at MIT Media Lab in 2007. His research at the Interactive Technologies Group focuses on interaction design, visualization, and user-centered interfaces, enabling and preserving the fluency of user engagement.
+Thanks to Uta Hinrich for sending this my way!

@@ -1,0 +1,14 @@
+How did the project come about?
+Making facilities and information assets easily available to potential users of their services is part of the Catapult's mission. Satellite analysts routinely work with heavyweight applications like ESRI ArcGIS, GE Smallworld, and Raytheon VIIRS. The Catapult wanted to see how such applications performed on a modern, fluid, Virtual Desktop Infrastructure (VDI). 360is was challenged to build a system capable of multi-user, multi-screen VDI for satellite applications using thin clients while providing a dedicated workstation-like experience.
+What did 360is do?
+After interviewing end users, 360is built a VDI system using Citrix XenDesktop, XenServer, and NVIDIA GPU hardware and a suitable WYSE thin client. This combination of technologies allowed for maximum flexibility.
+- Physical GPUs may be partitioned into virtual GPUs Virtual Desktops are booted on demand.
+- Users are allocated VDI's with different vCPU/vGPU capabilities depending on a profile.
+- The platform may be optimised for user density or performance.
+- Server GPUs work with client GPUs to enable a high-quality end user experience.
+- Network bandwidth is minimised using caching and compression.
+How successful was the platform in meeting the project goals?
+Multi-screen multi-user GPU VDI was delivered. 0.5Mb/s to 1.0Mb/s of network bandwidth was required per client while running in excess of 60fps. Up-to 64 concurrent GPU-powered VDI's could be provided by the system, this could be increased to 128 with different choices of hardware. The thin client CPU (capable of driving up-to 6 monitors) proved to be the limiting factor. High-density, GPU VDI is now within the reach of most organisations. Specialist scientific applications no-longer need to be excluded from the virtual desktop projects.
+About 360is
+360is builds multi-user, multi-monitor, high-resolution and GPU-enabled Virtual Desktop Infrastructure for Scientific Technical and Creative Industry organisations. Our engineers can address all aspects of the project from storage, to networking, to hypervisor configuration and application performance tuning. If you would like to talk to one of our engineers about deploying scientific and GPU applications to demanding users, get in touch via our contact page, Email, or message us on twitter.
+If you want to know more about the UK's Satellite Applications Catapult and the great work they are doing to help grow the £7B annual turnover of the UK space sector, take a few minutes to find out more:

@@ -1,0 +1,54 @@
+123/003 Industrial ScopeMeter USA
+FLUKE-123/00.
+123/003 Industrial ScopeMeter USA
+123/003 Industrial ScopeMeter USA
+ScopeMeter® 120 Series: three-in-one simplicity. The compact ScopeMeter 120 Series is the rugged solution for industrial troubleshooting and installation applications. It’s a truly integrated test tool, with oscilloscope, multimeter and 'paperless' ScopeMeter 120 Series meet today’s need of simultaneously measuring and checking waveforms. The unique Connect-and-View™ triggering automatically displays stable waveforms of virtually any signal. It really is as easy as one-two-three!
+Links
+Features
+- Dual-input 40 MHz or 20 MHz digital oscilloscope
+- Optically-isolated interface for PC connection
+- Rugged, compact case
+- Fluke 125 gives bus health and power measurements
+- Two 5,000 counts True-RMS digital multimeters
+- Automatic measurements
+- A dual-input TrendPlot™ recorder
+- Connect-and-View™ trigger simplicity for hands-off operation
+- Shielded test leads for oscilloscope, voltage, resistance and continuity measurements
+- 10:1 Voltage probe included with Fluke 124 and 125 for high frequency measurements
+- Up to 7 hours battery operation
+- 600 V CAT III safety certified
+Specifications
+- Acme Tools Brand NameFLUKE
+- Acme Tools Part NumberFLUKE-123/003
+- Assembled Weight (lbs)5.51
+- Bandwidth20 MHz
+- Country of OriginROU
+- Display TypeColor LCD
+- Glitch Capture40 ns
+- Independently Floating Isolated InputsNone
+- Input Sensitivity5 mV - 500 V/div
+- InputsVdc, Vac, Vac+Vdc, Ohms, Continuity, Diode-test Current, °C, °F, Capacitance, dBV, dBM, Crest Factor, Touch Hold and Zeroset
+- Internet Product Code (IPC)1C6EA7065E4
+- Maximum Resolution5000 counts
+- MeasurementsAutomatic measurements: 26 (all 120 Series). On top of this, Fluke 125 has additional measurement functions for Power (W), VA, VAR and Power Factor (PF) for single phase and balanced-three-phase (delta) power systems.
+- Memory10 screens and setups
+- Number of Channels1
+- Operating Temperature Range0 ºC to 50 ºC
+- Package ContentsAll 120 Series include: BB120 Shielded BNC adapter; Getting started booklet; PM 8907 Battery Charger/Line Voltage Adapter; STL120-III Shielded test lead sets (incl. 1 red, 1 grey), incl. hook clips, 2mm add-on tips and ground leads; BP 120 MH Battery Pack; and User manual (CD-ROM).
+- Package Weight6.06
+- Real-time Sample Rate25 MS/s
+- Relative Operating Humidity Range10 °C to 30 °C: 95 % RH non-condensing; 30 °C to 40 °C: 75 % RH non-condensing; 40 °C to 50 °C: 45 % RH non-condensing
+- Storage Temperature-20 °C to +60 °C
+- Timebase Range10 ns - 1 min/div
+- Trigger SourceInput A, input B, external via optional ITP120
+- Trigger TypesConnect-and-View™, Free Run, Single Shot, Edge, Video, External
+- Manufacturer Warranty3 years
+- Internal Supplier Part #2063915
+- MFG Model # (Series)Fluke-123/003
+- MFG Part # (OEM)Fluke-123/003
+- Product Name123/003 Industrial ScopeMeter USA
+- UPC095969052177
+- Top Rated2.5
+- Acme Tools Air Shipment RestrictedN
+- Acme Tools Prop65 CompliantN
+- Acme Tools Carb CompliantN

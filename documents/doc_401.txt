@@ -1,0 +1,21 @@
+Clicktime EDI Integration
+Solutions
+- Certification/Testing – We will test and get you integrated with Clicktime.
+- EDI Training - Hands On Training on how to integrate with Clicktime Integration Options:
+- Clicktime Invoice to 810 EDI Invoice
+- 850 Purchase Order to Clicktime Sales Order
+- Clicktime Ship File to 856 Ship Notice/Manifest
+- 812 EDI to Clicktime Debit/Credit Memo
+- 820 EDI to Clicktime Cash Receipt
+- Clicktime Purchase Order Acknowledgment to 855 Purchase Order Acknowledgment
+- Clicktime Ship File to 856 Ship Notice/Manifest
+- 860 Purchase Order Change Request to Clicktime Sales Order
+- Clicktime Sales Order to Warehouse Shipping Order 940
+- 945 Warehouse Shipping Advise to Clicktime Invoice
+- Customized Packing Slip
+Clicktime Integration Special Features:
+- Cross Referencing Data
+- Field Defaults
+- Any Custom Field
+Clicktime Website:
+Let's Connect!

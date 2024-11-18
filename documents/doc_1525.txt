@@ -1,0 +1,47 @@
+Connect Systems biedt de mogelijkheid je CS700 porto te upgraden. Om je CS700 te upgraden naar een CS700A moet de behuizing van de porto worden geopend en moeten op het PCB twee punten worden kortgesloten en de porto worden aangezet.
+Om een CS700 te upgraden naar een CS750 (de firmware voor de amateurversie met front panel programming) moet er een chip worden vervangen in de porto.
+In beide gevallen geeft Connect Systems aan dat er risico’s zijn aan het zelf aanpassen van de porto en biedt een mogelijk de porto op te sturen en te laten upgraden. In hoeverre dit ook door de importeur kan worden uitgevoerd is niet duidelijk bij het schijven van dit bericht.
+Meer informatie is hier te vinden.
+UPGRADING CS700 TO CS700A
+AND
+UPGRADING CS700 TO CS750
+To upgrade from a CS700 to a CS700A requires the following steps:
+1. Get a copy of the tuning parameters.
+2. Take the radio apart to get to the PCB
+3. Short two points on the PCB and turn on Power
+4. Load New Driver
+5. Load New Firmware
+6. Convert new tuning parameters to new turning parameters
+7. Use service Monitor to tune certain parameters if necessary
+8. Initialize code plug
+There are three issues with having the customers do this themselves.
+(1) If you make a mistake you might brick the radio and could take at least 4 hours to recover.
+(2) If you short the wrong spot on the radio you might damage the radio.
+(3) We have no way of protecting our intellectual property from being copied by other manufacturers.
+Connect Systems decided that because we cannot have the customers do the upgrading themselves because of the above reasons, we would charge a nominal fee of only $20 including shipping within United States to upgrade an old CS700 to the new CS700A. For customers outside the United States, we will charge $15 plus shipping. For those customers it would be advantageous to ship multiple radios at the same time.
+To Convert the CS700 to a CS750 requires the changing of a memory chip. This means unsoldering an existing IC and soldering in a new IC. Then you following the above 8 instructions. For that the price is $60 including shipping. For customers outside the United States, we will charge $55 plus shipping. For those customers it would be advantageous to ship multiple radios at the same time.
+To upgrade your radio call (818) 889-0503 after the Dayton Hamvention for a RMA number. With the RMA number, you must include the radio, your return shipping address, and a check or credit card number to cover the cost of upgrade.
+————————————————————————————————————-
+CS700A
+The CS700A is the old CS700 Hardware with some new firmware. Among some of the features in the first version of the CS700A is programmable Mike Gain and Nuisance Channel Delete. Future updates will have some of the other features I promised a long time ago. If you are happy with the CS700 you have now, there is no compelling reason to upgrade your radio. The outside of the radio is still marked CS700.
+————————————————————————————————————-. To order please call (818) 889 0503
+————————————————————————————————————-
+COMPATABILITY WITH OTHER VENDORS RADIOS
+The firmware that will load in the CS700A and CS750 will not load in any of the radios that is sold by Quantun Electronics or any other vendors. Some of the Ham Friendly features in our radios are being written by Connect Systems and will not be available in our competitors products.
+————————————————————————————————————-
+CS300 Radio for Visually Impaired
+Summary
+The purpose of the this radio is to achieve two things:
+(1) Have a radio that is ideally suited for the vision impaired population.
+(2) Have a test bed to test some of the concepts for the CS7000 multi-protocol radio.
+Background
+Early in the development of the CS7000, I promised some Hams that the CS7000 will be ideally suited for the Hams that are visually impaired. It is now time to meet that promise and develop an inexpensive test bed to prove the concepts
+I decided that it might make sense to take the CS100 radio and partially rewrite the firmware to achieve this purpose. This radio is a top of the line commercial radio that is every bit as good as the Motorola commercial radios. Once the development and testing is completed for this radio, and it has been in the field tested by visually impaired Hams, the feedback will allow the CS7000 to have a fully optimized visually impaired radio at a reasonable price.
+Other Advantages
+Beside being designed for the visually impaired, this radio will have other advantages and features that might interest the larger Amateur Radio Community.
+(1) This radio will be ideally suited for emergency operations where the lighting is too low to easily operate a normal radio.
+(2) This radio will be programmed without having a computer.
+(3) This radio will have special macro features that will allow the average HAM to program the radio to do functions no other radio can do. As an example, the user can program the radio to wake him up at a predetermined time, then transmit a wake-up call to someone else along with his call sign, then put the radio into a receive mode to listen for normal radio traffic, then start the coffee maker. It can also be used to automatically generate a distress call or dial a phone number through a phone patch and leave a message.
+(4) Because the radio is designed for the visually impaired, wide use of voice prompts will have to be used. This radio will allow the user to program the voice in any language.
+Geef een antwoord
+Je moet inloggen om een reactie te kunnen plaatsen.

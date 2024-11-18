@@ -1,0 +1,54 @@
+MANDEVILLE
+25 HILLOCK LANE
+WARRINGTON
+CHESHIRE
+WA1 4N November
+Accounts Category
+Accounts Last Made Up
+30 November 2016
+Accounts Next Due
+31 August 2018
+Returns Last Made Up
+13 November 2015
+Returns Next Due
+11 December 2016
+Mortgages
+None
+No previous names
+Secretary
+Appointed on 13 November 2007
+25 Hillock Lane
+Warrington
+Cheshire
+WA1 4NF
+Director
+Appointed on 13 November 2007
+Nationality: British
+Occupation: Director
+Month of birth: March 1952
+25 Hillock Lane
+Warrington
+Cheshire
+WA1 4NCS1P2Y. Transaction: MzE4Mjg4ODUxMGFkaXF6a2N4.
+Action Date: 13 November 2016. Category: Confirmation statement. Type: CS01. Barcode: X5KBE3YH. Transaction: MzE2MjQ0MDY2M2FkaXF6a2N4.
+Action Date: 30 November 2015. Category: Accounts. Type: AA. Barcode: X5D9M7BT. Transaction: MzE1NTA4Nzg1MmFkaXF6a2N4.
+Action Date: 13 November 2015. Category: Annual return. Type: AR01. Barcode: X4KDAKXE. Transaction: MzEzNTM2OTgyNmFkaXF6a2N4.
+Action Date: 30 November 2014. Category: Accounts. Type: AA. Barcode: X4DS28QZ. Transaction: MzEyOTAyNDI0NWFkaXF6a2N4.
+Action Date: 13 November 2014. Category: Annual return. Type: AR01. Barcode: X3KJV77S. Transaction: MzExMTMwNzExMGFkaXF6a2N4.
+Action Date: 30 November 2013. Category: Accounts. Type: AA. Barcode: X3EP7WCB. Transaction: MzEwNTg4ODc5MmFkaXF6a2N4.
+Action Date: 13 November 2013. Category: Annual return. Type: AR01. Barcode: X2MMKR0X. Transaction: MzA5MDIwODM1MmFkaXF6a2N4.
+Action Date: 30 November 2012. Category: Accounts. Type: AA. Barcode: X2FSAIR6. Transaction: MzA4NDA2NTc4NWFkaXF6a2N4.
+Action Date: 13 November 2012. Category: Annual return. Type: AR01. Barcode: X1NCDFXC. Transaction: MzA2OTA3MzUxMGFkaXF6a2N4.
+Action Date: 30 November 2011. Category: Accounts. Type: AA. Barcode: X1GE2JLC. Transaction: MzA2MzI1MDY3NGFkaXF6a2N4.
+Action Date: 13 November 2011. Category: Annual return. Type: AR01. Barcode: XDIN0ZCQ. Transaction: MzA0NzM5NjIzOWFkaXF6a2N4.
+Action Date: 30 November 2010. Category: Accounts. Type: AA. Barcode: XKIC0WY5. Transaction: MzA0MjY1MDMwOWFkaXF6a2N4.
+Action Date: 13 November 2010. Category: Annual return. Type: AR01. Barcode: XE0V2QJH. Transaction: MzAyOTgxNTAwOGFkaXF6a2N4.
+Action Date: 30 November 2009. Category: Accounts. Type: AA. Barcode: X3949MZ7. Transaction: MzAyMjMyNDI0MGFkaXF6a2N4.
+Action Date: 13 November 2009. Category: Annual return. Type: AR01. Barcode: XL2VOG1K. Transaction: MzAwNTYwNDMxMGFkaXF6a2N4.
+Action Date: 23 December 2009. Category: Officers. Type: CH01. Barcode: XL2VNG1J. Transaction: MzAwNTYwMDMwMmFkaXF6a2N4.
+Action Date: 30 November 2008. Category: Accounts. Type: AA. Barcode: AD6ESCFQ. Transaction: MjAzOTQyODE3M2FkaXF6a2N4.
+Category: Annual return. Type: 363a. Barcode: X5WSX4WN. Transaction: MjAxODIyMjU0MmFkaXF6a2N4.
+Category: Address. Type: 287. Barcode: X5WSU4WK. Transaction: MjAxODE3NTM5N2FkaXF6a2N4.
+Category: Address. Type: 190. Barcode: X5WSW4WM. Transaction: MjAxODE3NTM5OWFkaXF6a2N4.
+Category: Address. Type: 353. Barcode: X5WSV4WL. Transaction: MjAxODE3NTM5OGFkaXF6a2N4.
+Category: Incorporation. Type: NEWINC. Transaction: MDE4ODI4OTQ4OGFkaXF6a2N4.

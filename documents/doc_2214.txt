@@ -1,0 +1,27 @@
+A community for students.
+Here's the question you clicked on:
+- 0 viewing
+graydarl
+- 2 years ago
+I have a sequence that must have lim when n goes to infinity equal to 1 (pic below)
+graydarl
+- 2 years ago
+I have a sequence that must have lim when n goes to infinity equal to 1 (pic below)
+-
+-
+- This Question is Closed
+- barrycarter
+Best ResponseYou've already chosen the best response.
+- 2 years ago
+0
+Hint: how many terms are in each element of the sequence, and what are they bounded by?
+- barrycarter
+Best ResponseYou've already chosen the best response.
+- 2 years ago
+0
+Not quite. There are n terms, each of which is very near 1/n
+- ash2326
+Best ResponseYou've already chosen the best response.
+- 2 years ago
+1
+We have the series as \[\lim_{n\to \infty} (\frac{1}{\sqrt{n^2+1}}+\frac{1}{\sqrt{n^2+2}}+....\frac{1}{\sqrt{n^2+n}})\] Obviosuly each of the term is less than 1/n \[\frac{1}{\sqrt{n^2+1}}< \frac 1 n \] \[\frac{1}{\sqrt{n^2+n}}< \frac 1 n\] so whole series sum will be less than \[\frac 1 n + \frac 1 n ....\frac 1 n\] note that there are n terms And if you notice each of the term is greater than 1/(n+1) \[\frac{1}{\sqrt{n^2+1}}>\frac{1}{\sqrt{n^2+2n+1}}\] \[\frac{1}{\sqrt{n^2+n}}>\frac{1}{\sqrt{n^2+2n+1}}\] so we have \[\frac{1}{n+1}+\frac{1}{n+1}....+\frac{1}{n+1}<\frac 1 {\sqrt{n^2+1}}+\frac{1}{\sqrt{n^2+2}}....+\frac{1}{\sqrt{n^2+n}}\] \[<\frac{1}{n}+\frac{1}{n}.........+\frac{1}{n}\] Now apply the limit \(n\to \infty\) \[\lim_{n\to \infty}(\frac{1}{n+1}+\frac{1}{n+1}....+\frac{1}{n+1})<\] \[\lim_{n\to \infty}(\frac 1 {\sqrt{n^2+1}}+\frac{1}{\sqrt{n^2+2}}....+\frac{1}{\sqrt{n^2+n}})\] \[<\lim_{n\to \infty}(\frac{1}{n}+\frac{1}{n}.........+\frac{1}{n})\] Evaluate the limits for lower and upper bound. If you get the same limit, then by sandwich theorem, you'll be able to prove. Could you try @grayd<<

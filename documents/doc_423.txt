@@ -1,0 +1,18 @@
+These grand old crowns from Australia are made of 0.841 troy ounces of silver. The first step in finding their value is to compute the base value (BV) due to silver content.
+Look up the price of silver (e.g., at kitco.com) and multiply it by 0.841 to obtain BV. For instance, if silver is trading at $15 US dollars per troy ounce, BV = 0.841 x 15 = $12.60.
+Catalog values for these crowns are as follows:
+1937 CROWN:
+worn: BV
+average circulated: BV + $5
+well preserved: BV + $20
+fully uncirculated: BV + $80
+1938 CROWN:
+worn: BV + $20
+average circulated: BV + $40
+well preserved: BV + $100
+fully uncirculated: BV + $400
+Mintage of the 1938 version is one-tenth of the 1937 coin, so the values go up.
+Remember these are catalog values and are inflated over actual value, as explained in detail on our Terminology page.
+I personally do not know of minting varieties on this coin, and the KM catalog does not list any. If the error you describe happened after the coin left the mint, it is considered damage and not a minting error. Damage lowers value, minting errors raise value.
+In the picture I count 9 pearls in the center and 16 pearls on the sides. Is that what you get? Feel free to contact us about this subject. We might be able to find an expert in such matters.
+There were some proof versions minted in copper and bronze, which catalog at $20 when they have not been impaired. An 'impaired proof' is a proof coin which has suffered even minor damage such as a fingerprint, or some slight friction that has taken away the coin's luster.

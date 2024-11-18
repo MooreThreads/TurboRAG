@@ -1,0 +1,32 @@
+Press Roomabout Palm company info company background contact us events legal notices palm blog jobs press room media alerts press contacts press releases 2008 2007 2006 2005 2004 2003 2002 2001
+Palm Launches Corporate Treo 650 Promotion for Microsoft Exchange Users
+Palm Launches Corporate Treo 650 Promotion for Microsoft Exchange Users
+SYDNEY, Australia, 20 September 2005 -- Palm, Inc. (Nasdaq: PALM) today unveiled a promotion aimed at driving the use of wireless email and calendaring amongst Australian companies via the Palm® Treo™ 650 smartphone and its out-of-box support for Microsoft Exchange Server ActiveSync®. For a limited time, when Palm corporate customers purchase five Treo 650 smartphones from Volante Group Limited, they will receive a bonus Treo 650 smartphone.
+"Email is a critical application needed by mobile workers who need to remain connected while away from the office," said Geoff Anson, sales director for Palm Australasia. "The Treo 650 is the definitive business productivity device that not only combines mobile phone, web browser, messaging, word processing and organiser functions in a single device, but also allows mobile professionals to sync their Microsoft Exchange Server 2003 emails and schedules while on the go."1
+VersaMail® from Palm on the Treo 650 provides a simple but powerful wireless email application2 and includes support for Microsoft Exchange Server ActiveSync. It provides a secure, cost-effective, out-of-the-box solution for direct synchronisation of Outlook email and calendar data with Exchange Server 2003. As a result, substantial infrastructure costs associated with deploying, supporting and maintaining a third-party email server are eliminated.
+"The relationship between Palm and Microsoft underscores the market demand to make deploying mobile email access easier for companies of all sizes. By integrating the Exchange Server ActiveSync protocol into its devices, Palm eliminates the need for a third-party server by leveraging Exchange Server 2003's out-of-the-box capabilities for security-enhanced, wireless email that is cost-effective and can be deployed quickly and easily," said Andrew Cunningham, product marketing manager, Exchange Server, Microsoft Australia.
+Leading IT infrastructure and services company Volante Group Limited will provide this promotion exclusively to its corporate customers.
+"The Treo 650 smartphone, together with Microsoft Exchange Server 2003, is a compelling mobile data and enterprise productivity solution. This promotion, which is being offered exclusively by Volante, is further testament of our focus on delivering innovative solutions to our customers," said Mark Rainbird, director of services, Volante.
+With the Treo 650, corporate customers can stay even more productive. Users can do the following:
+• Stay connected with wireless email using VersaMail.
+VersaMail makes it easy to access and manage email on the go. With the Treo 650's support for popular POP and IMAP email clients, users can download mail wirelessly or by synchronising with their desktops. And for users whose organisations use Microsoft Exchange Server 2003, the Treo 650's built-in Microsoft Exchange Server ActiveSync support will enable direct corporate email and calendar synchronisation.1 With VersaMail, dealing with email attachments has never been easier -- users can view photos, HTML, and even native Microsoft Word, Excel and PowerPoint attachments.3
+• Access Word, Excel and PowerPoint files. 3
+Users can be more productive with the ability to view, edit and create Word and Excel compatible documents or pull up PowerPoint presentations on the go for en-route rehearsals.3
+• Keep data safe.
+With a new "non-volatile" file system, the Treo 650 keeps customers' information safe, even if they forget to charge their phone. Users can carry an extra battery (sold separately), and swap it out for additional power on the fly.
+• Connect with Bluetooth® wireless devices.
+With the Treo 650 smartphone, connecting to compatible Bluetooth wireless devices -- such as headsets and car kits -- is easy using the setup wizard. Users can talk on a headset or synchronise with their desktops.
+Users can get driving directions when they're on the road or check the latest news headlines and stock prices while waiting for a flight. The full-featured web browser is optimised for fast, on-the-go web access.5
+More information on the Treo 650 smartphone can be found at:.
+(1) Within wireless service coverage area only. Email, web and messaging requires data services from a mobile service provider at an additional cost. ISP may also be required. Pricing varies by service provider. Requires Exchange Server 2003 and access enabled by IT administrator.
+(2) Email account required, not included.
+(3) Requires DataViz® Documents To Go® 7, included on the software installation CD.
+(4) Windows only. Requires a Bluetooth enabled computer.
+(5) Access available within network coverage areas only. Availability and coverage depends upon carrier and the geographic scope of international roaming agreements.
+About Microsoft Exchange Server 2003.
+About Volante
+Volante is today one of the largest ICT infrastructure services companies in Australia. Volante employs over 940 staff and has revenues of approximately $443 million per annum. It is the largest 100% Australian-owned publicly listed ICT services company with the Australian Stock Exchange (ASX: VGL).
+The Volante businesses offer a range of services in the areas of Professional Services, Managed Services and Professional Solutions. Volante take a consultative approach to working with customers to design and implement ICT solutions that facilitate growth and productivity increases.
+For more information visit.
+About Palm, Inc.
+Palm, Inc. (formerly palmOne, Inc.) --,.

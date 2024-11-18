@@ -1,0 +1,27 @@
+Vidy - The Video Layer for Ads Powered by Ethereum
+Other Artikel
+VIDYVidy.com - Vidy has fabricated the primary invisible layer of insertion of a page for the video, dead within the chain of blocks of Ethereum.
+With simply an intermission, users will currently reveal tiny hyper-relevant videos hidden behind the text of any page on the online, unlocking a totally new dimension on the net.
+Why we tend to create Vidy
+- $ 16B of funds lost annually purloined from advertising fraud
+- $ twenty-three of user information rates for unwanted ads every month
+- 44% of all ads are interacted by humans, the remainder are all bots
+- 21% daily battery consumption of unwanted ads
+- 600M devices run ad blockers
+- 0.02% of banner ads are used for each one thousand impressions
+- 4.9% of opening ads that hijack the complete screen benefit
+- 66% of all advertising frauds come back from the video, however, the video represents solely four hundred and forty yards of all advertising.
+- $ 50B of annual advertising fraud losses anticipated for consecutive ten years
+- 30% of advertisers demand a lot of video ads
+The VIDY systemVidy's ad placement mechanism could be a proprietary ASCII text file information science protocol, managed by miners, that mechanically places video ads on a vast scale within the hyper-relevant text of several publisher pages.
+Publisher & Advertiser Access PanelPublishers and advertisers access a panel wherever they will manage their campaigns and transfer their video ads. they will modify live campaigns, read statistics for every campaign and therefore the performance of a personal video ad, and see analogs in users and editors to assess however they're acting and repeat copy and creative thinking consequently.
+Video AdsMinute circular and hyper-relevant videos that seem whereas you're ironed in Vidylinks.
+Application layerThe application layer is that the distributor of consumer-oriented video ads on the online, encapsulated in Associate in Nursing SDK that any editor will install with simply slightly.
+Indexed websitesVidy indexes many several pages of websites and analyzes the language on the screen to match the information science Protocol. This becomes the overall inventory offered for ad placement in live ad campaigns.
+NLP protocolVidy's ad placement mechanism could be a proprietary open supply information science protocol that mechanically places video ads on a vast scale within the hyper-relevant text of several publisher pages.
+Consensus layerThe agreement layer receives user information alongside information performance data from the info layer and processes it as entries within the location scripts that it runs. this is often done at the side of the cryptography of the sensible contracts that are transferred for the user information destination application.
+Data LayerThe data layer is that the basis of the Vidy Ad distribution platform, that communicates at the same time as the agreement layers of the applying and transparently maintains all incoming information within the immutable Vidy ledger. the info layer keeps track of all integrated locations, wait times, VidyCoin payments, VidyCoin wagered balances and every one VidyCoin transaction through the one-touch purchase mode of the applying layer.
+Using VidyVidyCoin (VIDY) obtains its utility in three main ways that. You earn VIDY on every occasion you press an advert, use VIDY to create one-touch purchases within the ads, and VIDY should invest as fuel for all advertising campaigns on the platform.
+Token Vidy
+Roadmap
+Team<<

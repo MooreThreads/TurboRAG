@@ -1,0 +1,37 @@
+After a day, I found that, in Unity dashboard, there is a recent-files box showing ALL THE FILES I opened.
+I don't like anyone to see what I have opened. A possible scenario would be I have to show other people how to do something, either locally or remotely, and they could see what I have opened (meaning the "files" I have in my machine.) I will not have any privacy at all.
+I searched and found that the "recent-files" list is stored in a file named "recently-used.xbel" under "/home/YOURUSERNAME/.local/share/"
+Example content of the file:
+<xbel version="1.0" xmlns: <bookmark added="2012-05-07T03:55:02Z" href="" modified="2012-05-07T03:55:02Z" visited="2012-05-07T03:55:02.049049Z"> <info> <metadata owner=""> <mime:mime-type <bookmark:groups> <bookmark:group>Graphics</bookmark:group> </bookmark:groups> <bookmark:applications> <bookmark:application </bookmark:application></bookmark:applications> </mime:mime-type></metadata> </info> </bookmark> </xbel>
+A way to empty the list is to empty the file(or delete it with "rm"), to empty the file use this command:
+echo -n > ~/.local/share/recently-used.xbel
+This can be made into a shell script and to make it clickable whenever one needs to clean the history.
+Or put the script in startup application list to clean it every time the machine starts.
+** There is also an old trick for Ubuntu <12.04 to make a directory named "recently-used.xbel" in its place, instead of a file. Unfortunately, someone said it doesn't work with the new Ubuntu (I also haven't tested that yet).
+Above method will just deal with the history storage, we did not touch the application that do the "logging" yet.
+The logging application is called "zeitgeist-daemon" running in the background.
+It might be possible to remove Zeitgeist-daemon from your system, on this page suggest that you could do these command both in order to get rid of it.
+sudo apt-get --purge remove zeitgeist sudo apt-get autoremoveAlthough, there is another way to disable or configure(if you just want partial of it to enabled.)_It is to use "Activity Log Manager".
+** in this blog, it seems that Activity Log Manager owned its place in "System->Privacy". Although, I couldn't find it there. So, I installed it manually.
+To install and use Activity Log Manager:
+sudo apt-get install activity-log-manager activity-log-manager
+The application will launched and it looks like this:
+on the first page, you can choose when to delete the logged activities, or manually delete it.
+There is also a switch at the bottom to enable/disable the activity logging program(zeitgeist).
+On the second tab, you'll see more option to configure for file-opened logging. You can discard logging on specific file types, or discard logging files from a specific folder.
+On the third tab, there is application-level configuration. Meaning, it will ignore logging for the application you have put in this list.
+After finish configuring, close the Activity Log Manager, logout, and login again. Now it'll log only what you want it to log and show only that to Unity dashboard.
+** Actually, Zeitgeist is still logging EVERYTHING and put it into ~/.local/share/recently-used.xbel but it just does not show on Unity dashboard. Therefore, it's good to clean the file once in a while.
+ref:
+[+]
+[+]
+sudo apt-get --purge remove zeitgeist
+sudo apt-get autoremove
+those commands are works, "recently used files" are gone
+thank u AniDear
+I've deleted ~/.local/share/recently-used.xbel and created a folder with exactly the same name. I't works... no more logging
+Here is another permanent solution. Edit recently-used.xbel to make sure it is empty, or just keep the files you want in there. Then save and open terminal.
+Type this
+sudo chattr +i ~/.local/share/recently-used.xbel
+this will lock the file, so that even root cannot edit it.
+Works for me, I hope it works for you.

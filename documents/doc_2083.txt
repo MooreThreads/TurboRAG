@@ -1,0 +1,31 @@
+Hello everyone,
+I had an issue a while ago which I've recently rectified. I had a motherboard which the manufacturer stated it supported the CPUs I was buying it for but they neglected to include the fact that only the last revision of 3 revisions supported the CPUs I had.
+Anyway, I replaced the motherboard with one that is guaranteed to support the CPUs I have.
+So my ECC errors are a thing of the past. However, I am still experiencing random freezing. Instead of either a kernel panic or just crashing an application - due to uncorrected ECC I assumed - it just plain ol locks up.
+I want to try and log what is causing the freeze or what I can do to try and rectify the problem. I'm not getting any entries in the logs and all of my hardware seems to be working fine.
+I have tried my two Opteron 2389s and that didn't resolve the issue. I tried my 8x1G DIMMs of DDR2 ECC RAM and that didn't resolve the issue. I don't have another PCI express video card I can use to test and the only other motherboard I have doesn't support my CPUs and has other issues.
+Setup:
+Tyan S2915-E
+2 x Opteron 2435
+4 X 4GB Hynix memory
+SATA 250G HDD
+XFX ATI Radeo HD 6750
+USB 1TB External HDD
+USB 4TB External HDD
+Logitech keyboard and mouse < 1 year old have others but haven't tried them
+Vanilla install of Slackware64 14.0 due to SSD failure...less than a year out of my OCZ SSD.
+I found this:
+I'm trying the easiest option, netconsole, luckily I have two ethernet nics onboard. I'm running into a little issue:
+bash-4.2$ sudo modprobe netconsole netconsole=@/eth1,@/192.168.10.1
+ERROR: could not insert 'netconsole': Operation not permitted
+bash-4.2$ su root
+bash-4.2# modprobe netconsole netconsole=@/eth1,@/192.168.10.1
+ERROR: could not insert 'netconsole': Operation not permitted
+I'm running the same command twice there. Once via sudo and once after su root. Both fail, possibly because I'm trying to netconsole from the same ethernet I'm trying to capture on. I figured it would have been an easy way to test netconsole. Guess I will have to actually break out one of my old boxes.
+This "seems" promising:
+So I set up netconsole and have it going to a Mac Book. I tested it with "echo m | sudo tee /proc/sysrq-trigger". This produced unsatisfactory results so I ran "sudo dmesg -n 7" and then again ran "echo m | sudo tee /proc/sysrq-trigger" This resulted in a log of debugging info being printed on the Mac Book.
+When my system crashed, there was nothing. I don't know what else to check. It's a random lockup that doesn't seem to produce any signs that it's catching itself. If I'm using the system while it happens, the mouse and keyboard stop responding. If I'm not using it the monitor is usually off and won't come back on.
+Any ideas what I can try?
+I updated the radeon driver to the fglrx AMD driver, but that didn't fix anything.
+I bit the bullet and ran Memtest86+ for a day. Found a bad DIMM. Problem solved.
+Forum Rules

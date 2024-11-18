@@ -1,0 +1,24 @@
+User talk:Jagwar
+Contents
+Hi Jagwar. Please change or fix your client of botjagwar-wd7ec. you are messing up the IRC log every day.
+Hi MysteryPedia, sorry for the inconvenience, I have just checked and I've seen no suspicious behaviour. The client has a limited lifespan to be able to run the latest version of the code. When you told me that I was messing up the IRC logs, I thought it was quitting and reconnecting the client every minute! Fortunately it is not the case. As I currently don't work a lot on the code, I've increased the lifespan to 10 hours.
+Thanks for your reply and quick handling!
+I think it's enough keeping connection 10 hours as well. but your client was logging out due to Ping timeout. it is a expected behaviour?
+Hi! I am not nearly a native speaker. I have added some terms that were obvious to me as to what they meant, such as finoa, danisy, kalalisoty, soedoa, ekinôksa, etc., and there's a lot that I don't know. I was simply adding them so that they'd be there for people who needed those term definitions. What I do not know is if there is any inflection, declension, or conjugation in the Malagasy language that we need to add. First off, I would like to know if we can add templates for Malagasy inflection, declension, or conjugation. There doesn't seem to be much of that for Malagasy. Thanks.
+Hi! First, I would like to thank you for your interest in our language.
+To answer your question: yes, there are tons of inflection in Malagasy language.
+In Malagasy we have these features on verbs and nouns (non-comprehensive list):
+- Noun-marking prefix (f-, mp-);
+- Verb-marking prefix (m-);
+- Active, neuter and passive voices (for verbs);
+- Present (-), past (n-) and future (h-) tenses (for verbs);
+- Potentative, intensive, transitive, reciprocative (-if-), causative (-amp-), types;
+- Indicative, imperative, subjunctive, conditional and infinitive moods;
+Nouns have neuter, compound, and possessed forms. About verbs, neuter and passive voices are person-inflected verbs, while the active ones are not. Each voice, tense, type and mood has a specific prefix and they are combined together to the root to make inflected forms.
+About roots:
+- All roots ending with either "-ka", "-tra", "-na" are irregular, but they are often predictable.
+- Monosyllabic roots tend to inflect irregularly (tao becomes -aova- in words like fanaovana; kely becomes -kelez- in words like fihakelezana).
+If you want all of them in a template, then there should be one where we can fill one by one all the inflected forms. Best regards,
+Thanks for the information. And I have an interest in language in general, but the interest I have is partly because of your hard work on your Malagasy Wiktionary, which I have to say, I highly admire you and the Malagasy Wiktionary for. So I do not actually have any idea how to make advanced templates using wikicode. I've been using wikis continuously for about a year now so there is a lot I do not know how to implement. Could you please be so kind as to help me to create the templates and to tell me how to use them in the English entries so I can improve entries like ekinôksa so that we can be more informative on this wiki? We could also try to add more entries. My translation method for the Malagasy language is not like Danish. Google Translate (no this is not the only tool I use to make entries in other languages) does not work for Malagasy. Do you know of a better English-Malagasy Malagasy-English translation tool that I could use? I've tried to find one but I don't think I ended up finding it. Thanks.
+Hi, thank you and sorry for the late reply. You can already view and import the template mg:Endrika:mg-ana-e katrana and mg:Endrika:mg-ana-e for noun possessive inflections (mpanao voalohany=1st person; mpanao faharoa=2nd person; mpanao fahatelo=3rd person; singiolary=singular; ploraly=plural). I haven't made one yet for verbs but I'll start working on Malagasy words again this summer once I'm done with my exams.
+For English-Malagasy dictionary, you can use the Malagasy Wiktionary. If you speak a better French or English, you have a relatively complete dictionary on that website. Best regards, Jagwar (talk) 19:45, 25 June 2014 (UTC)

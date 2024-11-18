@@ -1,0 +1,38 @@
+ 29, 2016
+Dunlop JH-F1 Jimi Hendrix Fuzz Face
+Happy #FuzzFriday! Got a request for this one. It's the classic silicon Fuzz Face circuit with a few added components.
+Wednesday, January 27, 2016
+Majik Box Rocket Fuel
+Got a request for this one on the Facebook page. The original Rocket Fuel is an overdrive and a boost in one 1590BB enclosure. The overdrive side is essentially a Tube Screamer without any diodes, and the boost section is a straight MXR MicroAmp clone. The overdrive side is below and is laid it out for 9mm mini pots you can mount directly to the board from the solder side. If you build it without the boost daughter board, you can fit it in a 1590B.
+There's also 3-position switch for changing the bass response. Use a DPDT on/off/on and wire it like this:
+Monday, January 25, 2016
+Lovepedal Amp 11
+Here's Lovepedal's clone of Paul C's Timmy again. This time with on-board pots and a slightly modified power section. Sean added some extra power filtering that's just unnecessary, so I simplified things. Drilling template can be found here.
+Friday, January 22, 2016
+NN Classic Fuzz
+Happy #FuzzFriday everybody! Here's a circuit I found while browsing around the Free Information Society that's ripe for modification–the NN Classic Fuzz. I think I laid this out while I was on paternity leave a while back, but I just now got around to finalizing the layout. Anyway, I can't find any info on the circuit, other than the schematic on FIS. It runs off a +4.5v supply, so I added a basic voltage divider to lower the normal +9v supply voltage. Also, the schematic doesn't include any controls, so if you want to add a volume pot (start with 100k, and then adjust if need be), run a wire from the Out pad to lug 3 of the pot, lug 2 becomes the new output, and lug 1 goes to ground. Should fit nicely in a 1590a.
+Wednesday, January 20, 2016
+Klon Centaur
+Don't want to spend two grand on an original? Yeah, me neither. Regarded as one of the best overdrives of all time, the Klon Centaur seems to be something that every guitarist wants on their board. This one's not going to fit in a 1590B (if you want that, check out Madbean's Kingslayer), but you might have enough room in a 125B if you turn the board sideways. This layout follows the original Centaur with buffered bypass (using a DPDT footswitch). If you want to wire it for true bypass, ignore the footswitch wiring pads, and eliminate the 4.7µ cap, 560Ω and 100k resistors on the lower right side of the board near the input. Schematic and more info can be found here.
+UPDATE:For those confused by the footswitch wiring for non-true bypass, here's a wiring diagram for reference.
+Monday, January 18, 2016
+JHS Little Black Buffer
+Here's a simple buffer from JHS. It really only uses one side of the opamp (why not just use a TL071?) and the extra resistors on the other side are just to meet the manufacture's specs for an unused side. I couldn't find a schematic for this one, but drew one up from lvlark's vero layout. I've added polarity protection and extra power filtering to the layout.
+Friday, January 15, 2016
+D*A*M Drag'n'Fly
+For #FuzzFriday, here's another D*A*M Fuzz Face variant, the Drag'n'Fly. This one is a silicon/germanium hybrid, using a BC337 silicon transistor for Q1 and a CV7112 germanium transistor for Q2 (but feel free to experiment with other transistors). I've laid this out for board mounted pots and the enclosure drilling template can be found here.
+Wednesday, January 13, 2016
+Run Off Groove Tube Reamer
+Here's a simplified Tube Screamer circuit from Run Off Groove, the Tube Reamer. Basically, it's a buffer-less TS without the tone control. The IC can be just about any dual op-amp. JRC4558 or TL072 are good places to start. Should be a great candidate for a 1590a build. For more info, schematic, and demo see the ROG site.
+Monday, January 11, 2016
+BYOC Reverb 2
+Got a request to make a layout for this schematic, and it turns out it's the BYOC Reverb 2. You can use 9mm pots and board mount them from the component side if you like. There are a few jumpers, though one of them (the one by the lower IC) can be eliminated if you just stretch out that 22k resistor. Also, the electrolytic caps are folded down on their side so things will fit with board mounted 9mm pots. The Belton BTDR-2H can also be board mounted from the solder side. Don't feel like making the board yourself? You can buy a PCB or a complete kit from BYOC..
+Thursday, January 7, 2016
+555 Charge Pump
+Yesterday,.
+Wednesday, January 6, 2016
+Power Brick
+Here's a little utility board that could come in handy. It uses a MAX1044 or ICL7660 to convert +9v to both +18v and -9v. It's essentially the charge pump from the Klon Centaur. I've added a 10v zenner (1N4740) diode to protect the IC, but that's optional.
+Monday, January 4, 2016
+Mad Professor Snow White AutoWah
+Happy New Year, everybody! I hope this year brings you all joy and much soldering. :).

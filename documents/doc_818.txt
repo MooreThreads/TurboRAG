@@ -1,0 +1,11 @@
+I wouldn't like to see the ROM stripped bare - that is moving away from the stock ROM just as much as anything else.
+I like the idea of sticking to the stock ROM as much as possible. There are plenty of adventurous ROMs around, many which introduce hard to trace or fix bugs, and are fine if you want to be more experimental. That being said, things like CFQ and the Interactive scheduler are useful to have as an option.
+I wouldn't like to see the ROM stripped bare - that is moving away from the stock ROM just as much as anything else.
+One thing you can possibly look forward too is, that (so long as you used unrEVOked for now) you will be able to partition your SD Card using DeLite Config.
+Got most of that mod done. (Am even trying to get it right so you can remove your Ext Partition if you wanted too.
+Nice work Klutsh.
+I'm using 0.8 and thinking of going 0.85 but have 2 questions/probs
+1. My gps is not working. It just won't get my location
+2. What is the best way to save configuration settings (like scenes, email/twitter/fb accounts, conntacts etc) before I do an upgrade (since I would need to clean everything for this to work).
+Thnx in advance and keep up the good work
+Pal

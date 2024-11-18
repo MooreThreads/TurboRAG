@@ -1,0 +1,54 @@
+Office hours are back!
+..from Delta Airlines. At least someone understands the kinds of things that frequent travelers have to endure!
+Here's a sample:
+All the videos are posted here, or you can also see them on Delta's blog site.
+March 18th – User Experience 101 – What it is; What it does; and Why it matters, presented by Gordon Montgomery
+Neudesic’s User Experience Practice extends the reach, power and ultimate success of technology solutions. See and learn how you can quickly and easily leverage user research, interaction modeling, creative design and usability testing to optimize your own customers’ current software and web-based solutions.
+We will examine the key disciplines of user experience including:
+See the recorded version here, User Experience 101 – What It Is, What It Does, and Why It Matters | Gordon Montgomery - Principal Consultant, Neudesic (Mar. 18, 2008)
+View Webcast Recording (Microsoft Live Meeting 8 Playback)
+April 15th – Kick-Starting Microsoft’s Hosted CRM Solution with NeuLive, Presented by Darren Gooding and Travis Pullen
+Neudesic invites you to join them as they introduce NeuLive, the quick start implementation for Microsoft’s new HOSTED relationship management solution. We’ll show you how quick and easy it is to get your configured system up and running, and on your way to achieving your business goals. Discover all the new features to help you streamline your customer relationship management including: rapid deployment, simplified workflow and up-to-the minute reporting.
+Watch as Neudesic transforms your off the shelf Microsoft Dynamics CRM system into a vertically tailored solution in minutes.
+REGISTER TODAY!
+Kick-Starting Microsoft’s Hosted CRM Solution with NeuLive Webinar Tues., Apr. 15, 2008 11:00 AM-12:00 PM Pacific Time
+May 20th – Introducing the ABCs of WCF, Presented by Rick Garibay
+This session will provide an introduction to Service Orientated Architecture along with the fundamentals of Windows Communication Foundation (WCF), the premier framework for building service oriented applications in .NET 3.0 and .NET 3.5. The WCF API unifies messaging, ASMX Web Services, .NET Remoting and COM+ Enterprise Services into a single programming model that makes true service orientation tenable.
+Content, code samples and live demos will be provided to build a foundational understanding on SOA and familiarize the audience with the core concepts and techniques of WCF.
+Introducing the ABCs of WCF Webinar Tues., May 20, 2008 11:00 AM-12:00 PM Pacific Time
+June 17th – Silverlight: Enabling Your Next Generation Web-Experience, Presented by Rich West.
+Silverlight Webinar Tues., June 17, 2008 11:00 AM-12:00 PM Pacific Time
+Additional Information:
+Please contact Meghan Ryan (Marketing Coordinator, Neudesic) by phone at (877) 905-1905 or by email at meghan.ryan@neudesic.com for more information, questions or to RSVP for any of these events.
+Neudesic is a Microsoft National Systems Integrator and Gold Certified Partner with a proven track record of providing reliable, effective solutions based on Microsoft's technology platform. Please call or visit us on the web at to learn more about Neudesic's products and services.
+May 22, 2008 | Denver, CO |Event ID: 1032374282: May 22, 2008
+Time: 9:00 AM-5:00 PM
+Location:
+Microsoft Corporation
+7595 Technology Way, Ste. 400 Denver, CO 80237 Phone: 720.528.1700 See map and/or driving directions
+Registration Link:
+Event ID: 1032374282!
+I
+8:30 AM-9:00 AM
+9:00 AM-10:30 AM
+10:30 AM-10:45 AM
+10:45 AM-11:45 AM
+11:45 PM-12:45 PM
+12: 45 PM-1:45 PM
+1:45 PM-2:45 PM
+2:45 PM-3:00 PM
+3:00 PM-4:00 PM
+4:00 PM-5:00 PM've started playing around with PhotoSynth, and today I created my first synth. I'm not sure if I did it correctly or not, but I think it's cools to see how well it turned out my first time around:
+MSDN Unleashed is making its second tour through Colorado at the end of this month (January).
+Here’s what you can expect:
+We will be providing overviews of.
+What to expect with C# 4.0
+We will take a look at some of the new and exciting features that are being planned for the next release of C#. Some of the features that we will look at are dynamic lookup, the ability to program against fields, methods and types without C# static type checker and the new named and optional parameter support.
+The Silverlight Control Toolkit
+The Silverlight Toolkit is a collection of Silverlight controls, components and utilities made available outside the normal Silverlight release cycle. This 30 minute session will illustrate some of these new tools. The session will illustrate the use of the ImplicitStyleManager and the new themes to skin your applications, charting controls, the expander and more. This session is 100% demo-driven.
+REST with WCF and the WCF REST Starter Kit.
+Demystifying Azure..
+We.
+Yep, I’m serious. It’s coming to Phoenix on 6/5-6/6.
+Check this out:)
+Learn.

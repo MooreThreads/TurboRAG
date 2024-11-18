@@ -1,0 +1,10 @@
+Thales IoT Developer Community
+How to detect object's fall out
+Showcase, May 20, 2016 - 3:08pm, 2094 views
+Description:
+Depending on project there may be a need to detect fall out of an object. There are several ways to do this. One is to use a tilt sensor. Here we show how easy it is to integrate one with the Concept Board.
+Hardware remarks:
+- We used 45 degrees double angle tilt sensor ()
+- The switch is triggered when tilted 45 degrees of the horizontal position.
+- Sensor has three lines, they need to be connected to GND, 5V and GPIOx (we have used GPIO5)
+- If using GPIO5 application needs to make sure that GPIO5 is not used by SYNC LED on the module. To check this use <"AT^ command. If it's value will be other that "gpio" send: AT^SCFG="Gpio/mode/SYNC","gpio". NOTE: module needs to be rebooted after sending this command, so changes can take effect.

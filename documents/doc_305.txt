@@ -1,0 +1,35 @@
+How To Downgrade WordPress 5 to 4.9.9 (or Any Versions) In Depth Step By Step
+Do you want to downgrade WordPress yet keep receiving the security updates from WordPress? In this video, we will learn how to downgrade WordPress 5 to 4.9.9 step by step including the step to keep your WordPress website still receiving security updates and other minor updates from WordPress. Please read this description further, and then watch the video. PLEASE DO NOT follow this video if you don’t have a complete backup of your WordPress websites.
+Video tutorial to do full backup:
+Content
+=======
+1:39 Try the Classic Editor plugin first (You don’t need to downgrade if you must not) Things to be aware of before you downgrade:
+4:18 Installing a Maintenance mode plugin, this can help to notify your visitors that your website is currently under maintenance mode.
+2 Downgrading Methods
+_________________________
+5:50 Method 1; Using WP Downgrade | Specific Core Version plugin. Please do not be surprised, if after using this plugin, you will not see the “WordPress latest version is available, please update now” Notification, unless you deactivate the plugin. In this video, the plugin did not work for me, tested with or without deactivating the other plugins. At the time when you watch this video, the plugin may have been updated and functioning.
+Method 2, Manually downgrading WordPress
+8:49 Access your WordPress website’s directory either with FTP or cPanel access. Video tutorials on how to use SFTP: | or with FTP:
+HostGator coupon: kimwp
+9:27 Downloading the target version of WordPress that you prefer.
+9:54 (VERY IMPORTANT STEP) deleting wp-content folder from the extracted WordPress core folder, and compress back this files and folders to be a .zip file or any other archive file
+11:59 Deactivate all of your plugins
+13:22 Upload your the edited .zip file to your WordPress directory on your server
+13:58 Update your WordPress database
+15:32 Re-activate your plugins again
+16:00 Testing your site front-end and back-end if it works as usual
+16:20 Deactivating the “Maintenance Mode”
+16:58 if one or more of your plugins have problems after the downgrading process
+18:10 Enabling your WordPress website to still receive the security and other minor updates
+Resources:
+20:39 Check your website front-end and back-end after editing the wp-config.php. If it shows error, correct the code in your wp-config.php file.
+Thank you so much for watching! Please give the video a like, or share, I will really appreciate it.
+Receive updates of this channel by subscribing:
+Or meet me on FB:
+❤️
+#downgradewordpress #howtodowngradewordpress #downgradewordpressstepbystep
+Nguồn:
+Xem thêm bài viết:
+2 People reacted on this
+My website crushed this morning , and in the error log , i found out the LOAD is the problem , so i have to install WP manually … tnx anyway
+Thank you so much! Worked like a charm!

@@ -1,0 +1,12 @@
+FirmwareDL.com At This time will share a tutorial on how to flash Onda V989 A80T firwmare uses Flash files for computers in an easy and tested way on our devices. This firmware is the latest firmware we share for you in a cloud hosting that you can download full speed firmware without login and password.
+[*] Download Onda V989 A80T Firmware For Flashing Device
+File Name: Onda_V989_A80T_4.4.2_LS.zip
+File Size: 504 MB
+How to Flash: Follow Tutorial
+Firmware Link: Click Here to Start Download
+——————–
+[Tutorials] How to Flash Firmware
+Step 1: Download download all the files above , After download file Onda V989 A80989 A80T Device.
+Follow Detailed Guidelines
+Dowload Update Tools:
+Additional: Tutorial for flash Onda V989 A80T device. if it fails or stops when the flashing process takes place. you should check emmc your device. you can also try once again to flash the device.

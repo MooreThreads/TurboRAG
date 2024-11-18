@@ -1,0 +1,75 @@
+Scanners for Large Negatives? 68. (Score:5, Informative)
+Too expensive - get a flatbed (Score:3, Informative)
+Re: (Score:1, Insightful)
+Re: (Score:1)
+Re: (Score:1)
+Yeah
+Re: (Score:1)
+Re: (Score:2)
+A drum is, however, the best tool for the job (Score:2)
+Re: (Score:1)
+Very expensive (Score:2)
+Let me re-state that then. Paying a service bureau for drum-scanner service is extraordinarily expensive.
+Owner of an Epson Perfection 3200 Photo flatbed (Score:2),
+Be cheaper to buy an Imacon and DIY. (Score:4, Interesting): (Score:2)
+Re: (Score:1)
+Disclaimer: I work for Nikon.
+Re: (Score:3, Insightful)
+drugstore (Score:1)
+Re: (Score:1)
+Epson flatbed (Score:4, Informative)
+Re: (Score:1)
+Flatbed (Score:3, Informative)
+Re:Flatbed (Score:5, Informative)
+Just Remove the Bugs (Score:2)
+Digital? (Score:4, Insightful)
+Re: (Score:2)
+Re: (Score:1)
+Cliff's gone off his meds again. (Score:1)
+Re: (Score:1)
+OT Vaxen (Score:1)
+Would you mind emailing me directly? If you think you might be interested in unburdening yourself of one, I do need a project for the winter...
+Re: (Score:2)
+If you get the choice (as if you ever do during scavenges), the DS10 was a nice, recent, desktop system that you can find modernish versions of Linux or, even better, the hobbyist version of VMS and Fortran.
+Actually... (Score:2)
+Scanners and DEC (Score:4, Insightful)
+I don't know if I know my DEC history correctly, but what do scanners have to do with DEC [wikipedia.org]?
+4 recommendations (Score:3, Informative)
+. (Score:3, Informative)
+It all depends on what this guy's
+Re: (Score:1)
+Re: (Score:2)
+Nikon scanner == good (Score:2)
+BZZT. please try again (Score:2)
+see the specs. in appendix A
+"Scanner type Transmission (film) 35mm to 4" x 5""
+4x5 is inches, 6x9 is cm (Score:2)
+Epson (Score:2)
+Ignore the drum scanner comments. (Score:5, Informative)
+Try this (for B&W negs):
+* CanoScan models don't work on Linux; the Epson v750 may with Vuescan (needs libUSB and USB group access).
+Missed an item... (Score:2)
+I haven't had a newton's ring since I started scanning emulsion down.
+DMax (Score:2), combini
+Re: (Score:2)
+Re: (Score:2)
+There are a multitude of reasons why Silverfast is superior to VueScan, the biggest one is that VueScan's GUI is absolute crap. My personal favorite feature of Silverfast is the ability to set white-point and black-point directl
+Re: (Score:2) f
+I did the same thing (Score:4, Informative)
+Nikon LS 9000 ED (Score:2)
+Epson (Score:2)? (Score:2) questi
+Epson (Score:2)
+Forget dust removal for b/w negatives! (Score:1)
+Epson Flatbeds (Score:2, Informative). (Score:2)
+How Much to Spend? (Score:2, Interesting)
+I don't have one, but I have had some 2 1/4" x 2 1/4" (6x6) negatives scanned on a V700 at low resolution for web display. The scans came in at 13MB and I was not disappointed.
+Re: (Score:1)
+You must be new here.
+Svc bureau, or flatbed + Vuescan (Score:1)
+The AGFA T1200 is another
+Vuescan -- I second that motion (Score:2) (Score:3, Informative) (Score:2)
+Epson 4990 Flatbed scanner, 100 megapixels (Score:2)
+Please excuse the drop off in the top corners and the out
+epson (Score:1)... (Score:2)
+You might try posting your question at there [graflex.org] or on photo.net [photo.net], or just reading the existing postings there.
+And yes, you can still get 4x5 film. Try it out sometime!

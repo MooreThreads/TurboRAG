@@ -1,0 +1,24 @@
+CPU
+CPU Cooler
+Motherboard
+Memory
+Storage
+Storage
+Video Card
+Case
+Power Supply
+Operating System
+Case Fan
+Other
+Subtotal:
+* Mail-In Rebates:
+Total:
+This is my second computer build, which was completed in the summer of 2018. The purpose of this computer is mainly gaming, 3D modeling, a ton of college work, and to be overkill... The college work consist of "normal" engineering homework to more advance simulations and of course the aforementioned 3D modeling. At the time of building this computer, it cost roughly $2600. A full price breakdown, along with a total, can be found in the images above. I am sure if anyone is looking at this in the near future, most of the prices will be nonexistent on the part list due to parts being replaced by their predecessors.
+I have not settled on an overclock for my CPU yet, but I have mess around with it quite a bit. I do not think I will be leaving my CPU on a permanent overclock due to the heat it generates. In my previous build I had a FX-8370 CPU paired with a Gigabyte - Radeon R9 390X 8 GB SOC GPU (The Atomic Pillar) and that combo would literally raise my bedroom temperature 10°F to 15°F, and I do not want to go back to that. If I do settle on a permanent overclock, my goal will be to have the CPU's clock rate between 4.15 GHz and 4.20 GHz. The maximum temperature I hit on my CPU under stock-clock is 58°C with an ambient room temperature of 24°C, so there is a decent amount of headroom when it comes to temperatures, since the maximum temperature for the Ryzen 7 - 2700X is around 85°C. This maximum temperature of 58°C was reached after nine straight hours of running an AIDA64 Extreme CPU stress test. This stresses the CPU at 100% until the test is manually stopped or the CPU thermal throttles.
+The maximum temperature reached by the EVGA GeForce GTX 1080 Ti 11 GB SC2 was also achieved after running an AIDA64 stress test, but this stress test was only ran for one hour. The GPU stress test on AIDA64 works in the same manner as the CPU stress test. It utilizes 100% of the GPU for the duration of the stress test, or until the GPU thermal throttles. Atomic Pillar (First Build)
+builds.gg Link:
+PCPartPicker Link:
+The Pocket Rocket (Second Build)
+builds.gg Link:
+PCPartPicker Link:
+The AMD Ryzen 7 - 2700X is an absolute beast, flaunting eight cores and sixteen threads, it has been able to chew through everything I have thrown at it. I have dabbled in some overclocking earlier in my CPU’s life. I was able to hit a stable 4.1 GHz overclock at 1.3875 volts, but I stop there for the following reason. While it did score much higher in Cinebench than the stock frequency, the performance in game was slightly lower..

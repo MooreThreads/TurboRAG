@@ -1,0 +1,18 @@
+!
+Part of this is cross posted from here...
+I was flying on the shores of Lake Huron in Michigan today; absolutely gorgeous weather and flying conditions.
+How do scenarios like this affect the barometer? Once the copter takes off, does the barometer "see" this altitude change? Would lidar be a good addition to have in order to get a true altitude reading once launching from the cliffs? Today was a practice flight for a trip this summer to PIctured Rocks on Lake Superior in da U.P. where I want to get some nice video of from above the water. I find it difficult to judge how far above the water the copter is and wonder if the barometer provides an accurate altitude so my equipment doesn't end up in the drink.
+Air pressure will not be different above (at your take off point) or beyond the cliff. Thus your barometer should read the same value and should not register any altitude difference once you go over the cliff and expose your copter to 20m altitude.
+Air pressure value changes from the mean sea level. Where you flew your copter was the same vertical distance from this sea level.
+GPS vertical data cannot be trusted at this situation either. So the only way to register the altitude difference in your case would be using some type of distance sensor (ultrasonic, IR etc.)
+Thanks, I'm looking into LidarLite.
+I still don't understand how there can be such drastic altitude errors when using RTL/Land (by switch or Auto mission) in only a few minutes of flying. It happens at my home, field and yesterday at the lake and two different copters, one using Pixhawk, the other AUAV-X2.
+Today I had a small crash with 3.3 RC3+: Before landing accidently I switched to drift mode. After landing I want to disam via yaw stick but the copter flipped on the ground. I think it should be possible to disarm the copter in every flight mode. I know thats stupid to land in drift mode, but when done disarming should be possible.
+Cheers Gregor
+I also happened with 3.3 rc1.
+Looking forward to RC4 Best guess on when it will be available?
+Randy is going to be trying for Sunday.
+To all the developers,
+will the "follow me" mode be smarter on the succeeding builds? I would love to see it perform better in follow me mode, like filming you from behind, or from your side. I think as of now, it is limited to fly above you.
+just sharing my opinion. :) thanks again!
+We are continuing to improve the performance of the follow me controllers. As Randy says, the rest is done from the ground station.

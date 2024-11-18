@@ -1,0 +1,22 @@
+Main :: POD 2.0, PODxt Family, Pocket POD, FloorPODs
+by ManelGris on 2012-11-11 08:16:17
+Hi, I'll introduce myself before I ask you: I'm ManelGris, a Catalan guitarist/singer, using an old POD XT live. I invite you to hear some recordings made with it at.
+I start this discussion because in one of my songs I use an octave preset like "octave bend" or "Whammy octave up". The fact is that I play half of the song without the bend stomp, and when it comes to use it, I get detuned half a tone, so I can't synchronize myself with the rest of the band (for instance, we play in D and I find myself sounding at D#).
+Can anyone give me a tip (edition, maybe making a preset from zero or anything else) to avoid it?
+Many thanks in advance!
+by Mr_Arkadin on 2012-11-11 09:57:05
+Sounds like you may need to calibrate your pedal.
+Try this document:">">
+by ManelGris on 2012-11-11 11:18:19
+I'm gonna try, and I'll keep you informed. Many thanks, sir!
+by ManelGris on 2012-11-13 05:29:07
+Hi, Mr_Arkadin, I've tried to calibrate my pedal, but when iI got to the step 4 it didn't happen what i't was supposed to. No switch clicked, and no light turned on.
+However, I finished the process to see if really happened something, but when I powered my POD everything was even worst than before with those presets: when pressing the Stomp pedal
+seems that my guitar fell from the attic or I played within an owen: it sounds completely detuned, string by string.
+Hummm... What to do?
+by Mr_Arkadin on 2012-11-13 06:18:32
+Sounds like the pedal part may be faulty.
+Make sure you really put your weight into the pedal to make it click when calibrating.
+If you still have no joy the two options are to try and fix it yourself (the pedal may just need cleaning - but I do not know how the Live works internally so do not know how easy of difficult this is), or to send it to your local Line 6 service centre:">">
+Before going down either of those routes you may wish to contact Line 6 Tech Support directly and get a 'ticket' for support:">">
+The information above may not be current, and you should direct questions to the current forum or review the manual.

@@ -1,0 +1,30 @@
+June 9
+Contents
+Podcast Episode
+Day in Tech History: June 9th
+Yesterday - Tomorrow - Day In Tech History
+Prev: June 8 - Next: June 10 - Full Catalog list at Day in Technology History Project
+1981
+Xerox announces the Xerox 820 Information Processor computer. It uses the Z80 CPU, CP/M, and BASIC. Code-name: The Worm Price: US$2995
+1986
+The Pittsburgh Supercomputer Center opens to support the precursor to the modern Internet, the National Science Foundation’s NSFNET, which links five supercomputer centers at Princeton University, Pittsburgh, University of California at San Diego, University of Illinois at Urbana-Champaign, and Cornell University.
+1996
+Linux kernel 2.0 is released. It represents a significant improvement over earlier versions. It is the first version to support multiple architectures, including the Intel 386 processor and Digital Alpha among others. It is also the first stable kernel to support symmetric multiprocessing (SMP) and kernel modules.
+1997
+The Digital Equipment Corporation (DEC) releases Venturis FX-2 computers, featuring 166 or 200 MHz AMD K6 processors. Price: US$1250
+1999
+Boulder, Colorado-based MessageMedia, Inc., a provider of email-based customer relationship management and direct marketing services, announces a signed letter of intent to acquire Huntsville, Alabama-based Revnet Systems, Inc., a developer and vendor of email marketing software and services, of for approximately US$46 million in common stock. Together they will form North America’s largest e-mail marketer, which will be bought by the Internet advertising company DoubleClick in June 2001.
+2000
+The Federal Bureau of Investigation (FBI) meets with Network Security Technologies experts to discuss a new virus called the Serbian Badman Trojan and distributed to unsuspecting downloaders as a movie clip. When activated, the program collects local passwords and network information and transmits the data back to the hackers.
+The San Jose Mercury News reports that an April survey conducted by the Pew Internet Project has determined that thirteen million Americans are downloading music files without charge to their computers. Fewer than two million Americans pay any fee to download their music.
+The Washington Post reports that the White House has lost an entire year’s worth of Vice President Al Gore’s emails. The loss is blamed by “a technical configuration error”.
+2004
+MailManager 1.0, an open source email response management program that runs on the Zope application server, is released. The software is designed to deal with large volumes of email, such as at commercial helpdesks, customer service departments, sales teams, or contact centers. MailManager 1.0 isn’t capable of dealing with very large volumes of mail or large numbers of users due to problems with the Zope database when an application attempts a large numbers of simultaneous writes. Version 2.0, which will be released on August 1, 2005, will implement a relational database that can cope with very large volumes of mail. Visit the application’s official Sourceforge webpage.
+2008
+Skype says that they cannot comply to wiretap requests due to peer-to-peer archetecture and encryption.
+ebay and MLB.tv gets their own iPhone Apps
+Yahoo files the definitive proxy statement, which gives Carl Icahn opportunity to start lobbying.
+iPhone 2.0 officially launches.
+2009
+Nokia announces their N97 phone price. Without contract, the phone has a $700 price tag.
+The US Senate introduces the Mobile Wireless Tax Fairness act – calling for a 5 year halt on new wireless-specific taxes imposed by state or local authorities.

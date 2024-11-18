@@ -1,0 +1,116 @@
+How to Perform SQL Server Row-by-Row Operations Without Cursors
+Here is an example procedure with a nested loop and no cursors:
+if exists (select * from sysobjects where name = N’prcNestedLoopExample’)
+drop procedure prcNestedLoopExample
+go
+CREATE PROCEDURE prcNestedLoopExample
+AS
+/*
+** Non-cursor method to cycle through the Customer table ** and get Customer Name for each iCustId. Get all
+** products for each iCustid.
+**
+** Revision History:
+** —————————————————–
+** Date Name Description Project
+** —————————————————–
+** 08/12/03 DVDS Create —–
+**
+*/
+SET NOCOUNT ON
+– declare all variables!
+DECLARE @iReturnCode int,
+@iNextCustRowId int,
+@iCurrentCustRowId int,
+@iCustLoopControl int,
+@iNextProdRowId int,
+@iCurrentProdRowId int,
+@vchCustomerName nvarchar(255),
+@chProductNumber nchar(30),
+@vchProductName nvarchar(255)
+– Initialize variables!
+SELECT @iCustLoopControl = 1
+SELECT @iNextCustRowId = MIN(iCustId)
+FROM Customer
+– Make sure the table has data.
+IF ISNULL(@iNextCustRowId,0) = 0
+BEGIN
+SELECT ‘No data in found in table!’
+RETURN
+END
+– Retrieve the first row
+SELECT @iCurrentCustRowId = iCustId,
+@vchCustomerName = vchCustomerName
+FROM Customer
+WHERE iCustId = @iNextCustRowId
+– Start the main processing loop.
+WHILE @iCustLoopControl = 1
+BEGIN
+– Begin the nested(inner) loop.
+– Get the first product id for current customer.
+SELECT @iNextProdRowId = MIN(iProductId)
+FROM CustomerProduct
+WHERE iCustId = @iCurrentCustRowId
+— Make sure the product table has data for
+— current customer.
+IF ISNULL(@iNextProdRowId,0) = 0
+BEGIN
+SELECT ‘No products found for this customer.’
+END
+ELSE
+BEGIN
+– retrieve the first full product row for
+— current customer.
+SELECT @iCurrentProdRowId = iProductId,
+@chProductNumber = chProductNumber,
+@vchProductName = vchProductName
+FROM CustomerProduct
+WHERE iProductId = @iNextProdRowId
+END
+WHILE ISNULL(@iNextProdRowId,0) <> 0
+BEGIN
+— Do the inner loop row-level processing here.
+– Reset the product next row id.
+SELECT @iNextProdRowId = NULL
+– Get the next Product id for the current customer
+SELECT @iNextProdRowId = MIN(iProductId)
+FROM CustomerProduct
+WHERE iCustId = @iCurrentCustRowId
+AND iProductId > @iCurrentProdRowId
+– Get the next full product row for current customer.
+SELECT @iCurrentProdRowId = iProductId,
+@chProductNumber = chProductNumber,
+@vchProductName = vchProductName
+FROM CustomerProduct
+WHERE iProductId = @iNextProdRowId
+END
+– Reset inner loop variables.
+SELECT @chProductNumber = NULL
+SELECT @vchProductName = NULL
+SELECT @iCurrentProdRowId = NULL
+— Reset outer looping variables.
+SELECT @iNextCustRowId = NULL
+– Get the next iRowId.
+SELECT @iNextCustRowId = MIN(iCustId)
+FROM Customer
+WHERE iCustId > @iCurrentCustRowId
+– Did we get a valid next row id?
+IF ISNULL(@iNextCustRowId,0) = 0
+BEGIN
+BREAK
+END
+– Get the next row.
+SELECT @iCurrentCustRowId = iCustId,
+@vchCustomerName = vchCustomerName
+FROM Customer
+WHERE iCustId = @iNextCustRowId
+END
+RETURN
+In the above example we are looping through a customer table and, for each customer id, we are then looping through a customer product table, retrieving all existing product records for that customer. Notice that a different technique is used to exit from the inner loop. Instead of using a BREAK statement, the WHILE loop depends directly on the value of @iNextProdRowId. When it becomes NULL, having no value, the WHILE loop ends.
+Conclusion
+SQL Cursors are very useful and powerful because they offer a high degree of row-level data manipulation, but this power comes at a price: negative performance. In this article I have demonstrated an alternative that offers much of the cursor’s flexibility, but without the negative impact to performance. I have used this alternative looping method several times in my professional career to the benefit of cutting many hours of processing time on production SQL Servers.
+The following are the techniques which can be used instead of cursors:
+1. CTE
+2. Loop
+3. Temporary Tables
+There’s lots of claims of performance in this article but no substantial evidence that the Temp Table/While Loop replacement for the Cursor is any faster. A well written “firehose” cursor will usually beat a well written Temp Table/While loop combination.
+Yes, cursors are usually a bad thing and should be avoided but only if you can come up with a proper set-based solution. That goes for any form of RBAR including Temp Tables/While loops and recursive CTEs.

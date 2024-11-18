@@ -1,0 +1,29 @@
+- Grouping and Descriptive Categories (24)
+- Linux (24)
+- Modern (20)
+- BSD (14)
+- Windows (14)
+- Mac (10)
+- Other Operating Systems .51
+Code Compiler
+A compiler and cross-compiler for (Currently) Cobol (with Fortran being added later). It is intended to be the first self-hosted open-source Cobol Compiler, e.g. the compiler itself will be written using Cobol.1 weekly downloads
+AwesomeWM-spin
+My customized linux live spin using 'Awesome' the Window Manager (WM)1 weekly downloads
+Beau Monde Network
+Beau Monde Network (founded 1998) is a group of people who take part in various social, sportive and other activities. Our main area of interest is computer games development.1 weekly downloads
+Digital Psionics
+Digital Psionics develops a variety of scientific and entertainment software
+QtCritters
+Simple Qt/C++ Project for learning simulation programming
+WWIIOLinux
+WWIIOLinux, a project to get the MMOG WWII Online to run on Linux with Wine.1 weekly downloads
+X11workbench
+X11 developer's 'workbench' and lightweight toolkit API1 weekly downloads
+Yag2002
+The aims of this project are monitoring the multimedia-related software technology and developing an entertaining 3D application.1 weekly downloads
+xP Email System
+xP provides an intuitive, high quality, graphical user interface to the University of Washington's PINE(R) Messaging System. WARNING: This program is (at present) EXTREMELY unstable and is for DEVELOPERS ONLY. A stable release will be coming soon
+Phoenix Online
+An Open Source 3D MMORPG centered around each individual and unique player, not around the "target customer." No longer OpenSource. The SF project page will not be updated anymore0 weekly downloads
+Unreal Theatre System
+Unreal mod version of the Virtual Theatre System, a 3D Graphic (Action) Adventure engine where each character can go about his (her) own affairs independently of your actions, where each s... For further info

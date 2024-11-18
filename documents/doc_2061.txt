@@ -1,0 +1,18 @@
+Getting tired of those poorly performing queries or stored procedures? Getting even more tired of the phone calls that result from those poorly performing queries or stored procedures? Obviously, disconnecting your phone and huddling in the corner crying is not the answer (take it from me). Maybe what you need to do is look at the structure of your database and consider a little modification. First, a few questions.
+Is at least one of your tables the size of (insert favorite Hollywood actor’s name)’s ego? And does that titanically (not a movie reference) humongous table have at least one column that could be used to divide the data into smaller chunks, like a date column in a Sales table with many months or years of data with hundreds of thousands, maybe even millions of rows? Can you add (would your budget allow) more physical disks to your SQL Server solution? And the biggest question, can you afford, or do you already have, the Enterprise edition of SQL server?
+Well, if you were able to answer yes to all of those questions, it is possible that you might be able to tweak that lumbering hulk into exhibiting a few more miles per hour by making a few simple, if not inexpensive, changes.
+The short version (level 000) is that you create new physical drives, define ranges of data and assign those ranges of data to different disks (or RAID 5 arrays). This is called table partitioning. Read on only if you really want to know how it is done (level 100)!
+First, you must decide where to divide your data. For example, if you have about 10 million rows of Sales data for the last 5 years, you need to choose how to break that data down into smaller pieces. This decision is really based on how many physical disks you can add to your system. If you like keeping your data on RAID 5’s and you can get your hands on 5 more RAID 5 arrays, you can divide you data into 5 parts (which just happens to nicely match 5 years of data).
+So you create 5 new RAID 5 arrays. And in your database properties you create 5 new filegroups with at least one file each, one filegroup per RAID 5 array. Then, we are going to use these 5 different filegroups residing on 5 different arrays to create our partitioning strategy.
+Now, we use a Transact SQL statement like this one
+CREATE PARTITION FUNCTION [myDateRangePF1] (datetime)
+AS RANGE RIGHT FOR VALUES ('20030101', '20040101', '20050101',
+'20060101', '20070101');
+to define the range of values for each portion of our table that will be stored separately from the rest. In this case, all sales for the year 2003, date 20030101 thru 20031231 (RANGE RIGHT starts with date 20030101 and ends before the next date, 20040101) will be assigned to the first partition in our function. Then 2004 is assigned to the next and so on. The last partition, 20070101, being the last listed, includes all subsequent dates, unless the function is later modified, which it can be.
+Next, each range is assigned to a filegroup with a statement that looks like this
+CREATE PARTITION SCHEME myRangePS1
+AS PARTITION myRangePF1 --the name of the function we just created
+TO (test1fg, test2fg, test3fg, test4fg, test5fg, test6fg); --these are our filegroups
+Now, all of the data for 2003 will be stored in the first filegroup on the first RAID 5 array, the data for 2004 will be stored on the second new array, and so on. This will give you more actual disks supporting queries for a single table, reducing (theoretically) disk I/O and increasing (keep your fingers crossed) query response times. Yeah, I know I mentioned 6 filegroups in my scheme but I need to leave at least one mystery hanging out there for you to explore on your own or read on.
+“Seeya at tha pahty, Richtah…”
+- Peter Trast, MCITP DBA, MCITP EA, MCT LinkIn with Peter

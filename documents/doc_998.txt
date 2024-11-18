@@ -1,0 +1,31 @@
+Description
+Description
+- Mentioned In
+- T1280: git origins: latest failure reports
+rDSNIP6a8c3cb3cad3: group_by_exception: Use configuration to group exception together
+- Mentioned Here
+- P316 fetch logs and compute group by end of exception message to have a sensible output of error occurrences
+T1158: hg loader: Clean up wrong snapshots/releases during hg loading of googlecode
+T1157: Generic scheduler task creation according to task type
+Event Timeline
+Comment Actions
+Comment Actions
+Done. As per weekly report, only 75.78% done (status 'full').
+It's currently running.
+Done. As per weekly report, only 75.78% done (status 'full').
+Remaining are issues tracked at mentioned dashboard.
+Those need investigation, report, fix, and rescheduling.
+Comment Actions
+I was correct 30615 out of 30670 are due to the missing mount point from worker03.
+Those need investigation, report...
+That's a start, [1] for details:
+$ jq . output-group-by.txt | grep -v "was not found" { "googlecode": { "total": 30670, "errors": { "...source-archive.zip' was not found": 30615, // Adapted manually to simplify reading [2] "'Worker exited prematurely: signal 9 (SIGKILL).',)": 20, "sion, preexec_fn)\nOSError: Cannot allocate memory": 11, "unction swh_release_add() line 5 at SQL statement\n": 7, "ecimal number found in fromhex() arg at position 0": 3, "impleBlob' object does not support item assignment": 2, "v)\nValueError: could not convert string to float: ": 2, "or missing revlog for data/sword/mods.d/kjv.conf')": 1, "ror: Branch aliases unresolved: b'HEAD' -> b'HEAD'": 1, "ing-gfd-source-archive.zip: File is not a zip file": 1, "-slides-source-archive.zip: File is not a zip file": 1, "OSError(timeout('timed out',),)": 1, "ant-admob-source-archive - Cannot allocate memory": 1, "ist O. D. - Google Chrome 2014-02-20 17.07.29.png'": 1, "r: b'\\x90\\x90t`\\xf6\\x7fkJ@Z\\x86M-\\xf9BV\\xd3\\xae$D'": 1, "chive - Command `' returned non-zero exit status 2": 1, "cimal number found in fromhex() arg at position 10": 1 } } }
+[2]
+One of the error was a mount point missing on one worker, it might be the biggest error occurrence's reason (need to check).
+I was correct 30615 out of 30670 are due to the missing mount point from worker03.
+Next step would be to simply extract the listing and reschedule those.
+The other errors are most probably issues in the current mercurial loader and should be dealt with in new tasks.
+Cheers,
+Comment Actions
+As other loader failure report, here is a better output:
+cat mercurial.output.txt | python3 -m group_by_exception --loader-type hg | jq . { "googlecode": { "total": 30670, "errors": { "Failed to uncompress archive": 30620, "'Worker exited prematurely: signal 9 (SIGKILL).',)": 20, "OSError: [Errno 12] Cannot allocate memory": 11, "psycopg2.extensions.TransactionRollbackError: deadlock detected": 7, "ValueError: non-hexadecimal number found in fromhex": 4, "TypeError: 'SimpleBlob' object does not support item assignment": 2, "ValueError: could not convert string to float": 2, "empty or missing revlog for": 1, "ValueError: Branch aliases unresolved": 1, "OSError(timeout('timed out'": 1, "KeyError": 1 } }, "unknown": { "total": 2, "errors": { "psycopg2.extensions.TransactionRollbackError: deadlock detected": 2 } } }

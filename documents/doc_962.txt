@@ -1,0 +1,34 @@
+The tagging plugin is a great way for you or the members of your community to "tag" content with appropriate keywords. Using the Tagging plugin also adds a couple of other benefits to your community:
+- It can help with discovery of content because you and members of your community can see what content is creating discussions.
+- It improves SEO by making it easier for search engine robots to crawl community content
+- It adds a new dimension to Advanced Search, allowing searches by tags.
+Ready to learn more? Let's jump in and look a bit deeper into how to use the Tagging add-on.
+How to enable the Tagging Plugin
+The first step is to enable the Tagging add-on. The administrator of a Vanilla community can enable the Tagging add-on by heading into the browse add-on section in the Dashboard and by clicking "enable":
+Once enabled, you will have an optional settings pages, which can be accessed by clicking "Settings":
+Or, you can access it from the newly-created sidebar menu option under the "Forum" heading:
+The following is an example of a dashboard with some tags already populated:
+From the the dashboard you can:
+- Edit an existing tag by clicking on it. Great when a tag is created with a typo.
+- Change the url slug of the tag (also by clicking on the appropriate tag)
+- You can delete a tag, by clicking the 'x' next to it. Only the tag will be removed, not the content.
+- You can add new tag, or see what tags have been already added.
+- See how many times a tag has been used.
+The tags in this list will be available for members of the community to select when they create a discussion or they can add their own on the front end (more on that in next section).
+If you wish to see what content the tag is associated to, go to the frontend of your community and click on the tag of your choice in the tag cloud.
+Please note: The bestof and reaction tabs (and tags) are not editable. They are there for reference purposes only. You can modify their names in the Reactions plugin.
+How Community Members can add Tags
+When Tagging is enabled, members with permissions can add tags, be offered Tag keyword suggestions via auto complete, and they can also select from popular tags already in use by the community. The following GIF shows Tagging in action (on the frontend):
+How to customize
+Tags can be customized to the look and feel of your community. You can change the colors of the tags in your sidebar, or just the color of certain tags. Each tag has its own class.
+So if you wanted the "3d software" tag to be green, you can add the following to your css:
+li a.Tag_3d-software {
+background-color: #00e600 !important;
+}
+You can also change the background of all tags to be green (or whatever color you want) by applying styling to
+.TagCloud in your theme.
+How to use permissions with tagging
+If you decide you want to control who has access to add tags, you can modify the permission of the specific role to have the ability to add tags.
+Members will still be able to select from the list of created tags, they will simply not be able to create new tags your team or those with permission have not already created.
+We hope this helps you get started with tagging. If you wish to see more of it in action, you can check out this video:
+Happy tagging!
