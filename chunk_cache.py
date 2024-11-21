@@ -18,7 +18,6 @@ from llama_index.core import (
 )
 from llama_index.core.node_parser import SimpleNodeParser
 from llama_index.core.schema import BaseNode, TextNode
-from llama_index.core.node_parser import SimpleNodeParser
 from llama_index.core.text_splitter import TokenTextSplitter
 from llama_index.core.indices.query.schema import QueryBundle
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
@@ -78,7 +77,6 @@ class KVCachedNodeParser(SimpleNodeParser):
                 nodes.append(node)
         return nodes
 
-use_chunk_cache = False
 embed_model = HuggingFaceEmbedding(
         model_name="BAAI/bge-small-en-v1.5",
 )
