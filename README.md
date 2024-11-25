@@ -2,8 +2,6 @@
 
 ![Paper Cover Image](assets/image/TurboRAG.png)
 
-This repository contains the implementation code and demonstration effects for the paper [*"TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text"*](https://arxiv.org/abs/2410.07590).
-
 ## Installation
 ```
 conda create -n turborag python=3.10.12
