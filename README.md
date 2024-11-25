@@ -32,15 +32,3 @@ The following table summarizes the average TTFT when testing with 10 documents:
 
 The results indicate that utilizing a KV cache significantly reduces the average TTFT from approximately 4.13 seconds to about 0.65 seconds, demonstrating the efficiency of TurboRAG with caching compared to the traditional RAG approach without caching. Additionally, as the number of documents increases, the speedup effect becomes even more pronounced.
 
-## Citation
-
-If you use this code or data in your work, please cite our paper:
-
-```
-@article{lu2024turborag,
-  title={TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text},
-  author={Lu, Songshuo and Wang, Hua and Rong, Yutian and Chen, Zhi and Tang, Yaohua},
-  journal={arXiv preprint arXiv:2410.07590},
-  year={2024}
-}
-```
